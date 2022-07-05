@@ -1,0 +1,55 @@
+---
+layout: page
+title: Posts
+background: '/img/bg-post.jpg'
+---
+
+</br>
+</br>
+</br>
+
+{% for post in site.posts %}
+
+<div class="card my-2 mx-3">
+        <div class="card-body p-5">
+            <h3 class="card-title">{{ post.title }}</h3>
+
+            <h5 class="card-text heading-header">
+                {% if post.description %}
+                    {{ post.description }}
+                {% else %}
+                    {{ post.content | strip_html | truncatewords: 50 }}
+                {% endif %}
+            </h5>
+
+            <h6 class="card-text heading-header">
+                <a href="{{ post.url | relative_url }}">
+                    Read more <i class="fa fa-xs fa-hover fa-chevron-right" aria-hidden="true"></i>
+                </a>
+            </h6>
+        </div>
+    </div>
+
+
+
+
+{% endfor %}
+
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+<div class="clearfix">
+
+  {% if paginator.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+    Newer<span class="d-none d-md-inline"> Posts</span></a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  {% endif %}
+
+</div>
+
+{% endif %}
