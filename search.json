@@ -10,7 +10,24 @@ layout: none
       "tags"     : "{{ post.tags | join: ', ' }}",
       "description"     : "{{ post.description | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "date"     : "{{ post.date }}",
+      "content": {{ post.content | jsonify }}
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
+  ,
+  {% for pages in site.pages %}
+    {
+      {% if page.title != nil %}
+      "title"    : "{{ pages.title | escape }}",
+      "subtitle"    : "{{ post.subtitle | escape }}",
+      "category" : "{{ page.category }}",
+      "tags"     : "{{ page.tags | join: ', ' }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "date"     : "{{ page.date }}",
+        "content": {{ page.content | jsonify }}
+      {% endif %}
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+
+ 
 ]

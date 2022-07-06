@@ -1,0 +1,1135 @@
+[
+  
+    {
+      "title"    : "Zolve - Telesales",
+      "subtitle"    : "Location - Bengaluru, Work Type: Contract",
+      "categories" : "support",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/support/2022/07/01/zolve06/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Zolve - Customer Support Representative",
+      "subtitle"    : "Location - Bengaluru, Work Type: Full Time",
+      "categories" : "support",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/support/2022/07/01/zolve05/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Robotic Systems Engineer - Integration and Validation",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full time",
+      "categories" : "product",
+      "tags"     : "fresher, C, C++, python, 0-2",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics22/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Robotics Systems Intern",
+      "subtitle"    : "Location -  Pune Office, Work Type: Intern",
+      "categories" : "product",
+      "tags"     : "intern, C, C++, python, MATLAB, 0-2",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics21/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Component Development Engineer-System",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics20/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Lead Robotics Validation Engineer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "topproduct, C, C++, PYTHON, 5-8, 8-10, 10+",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics19/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics -UI / UX Developer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "designit",
+      "tags"     : "topit, html, css, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/design/it/2022/07/01/unboxrobotics18/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Software Development Engineer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "ittopit",
+      "tags"     : "Java, Python, Rails, Ruby, .NET, PHP, HTML5, CSS, JavaScript, C++, JQuery, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/07/01/unboxrobotics17/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Technical Program Manager",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics16/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Scrum Master",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics15/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Purchase Executive",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "maintenance",
+      "tags"     : "0-2",
+      "description"     : "",
+      "url"      : "/maintenance/2022/07/01/unboxrobotics14/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Process Engineer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "maintenance",
+      "tags"     : "0-2",
+      "description"     : "",
+      "url"      : "/maintenance/2022/07/01/unboxrobotics13/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Logistic Lead",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "maintenance",
+      "tags"     : "5-8, 8-10",
+      "description"     : "",
+      "url"      : "/maintenance/2022/07/01/unboxrobotics12/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Installation Engineer",
+      "subtitle"    : "Location -  Pune Office (with 80% travelling PAN India), Work Type: Full Time",
+      "categories" : "maintenance",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/maintenance/2022/07/01/unboxrobotics11/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Mechanical Engineer - Product Design",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics10/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Mechanical Engineer - Design",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics09/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Mechanical Engineer - Analysis and Simulations",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics08/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Executive Business Partner to the CTO",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full Time",
+      "categories" : "hr",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/hr/2022/07/01/unboxrobotics07/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Project Engineer",
+      "subtitle"    : "Location -  Pan India (Must be ready to relocate), Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics06/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Hardware Design Engineer- I/II/III",
+      "subtitle"    : "Location - Pune Office, Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics05/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Embedded Hardware Manager",
+      "subtitle"    : "Location - Pune Office, Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "8-10",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics04/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Embedded Firmware Manager",
+      "subtitle"    : "Location - Pune Office, Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "8-10",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics03/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Electronics Quality Assurance Engineer",
+      "subtitle"    : "Location - Pune Office, Pune Office, Work Type: Full Time",
+      "categories" : "itproduct",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/product/2022/07/01/unboxrobotics02/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Unbox Robotics - Electronics Production Engineer",
+      "subtitle"    : "Location - Pune Office, Pune Office, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/unboxrobotics01/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Truein - Customer Success Manager",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full time",
+      "categories" : "supporttopsupport",
+      "tags"     : "0-2",
+      "description"     : "",
+      "url"      : "/support/topsupport/2022/07/01/truein06/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Truein - B2B Sales Specialist",
+      "subtitle"    : "Location -  Pune Office (Remote until Sept-20), Work Type: Full time",
+      "categories" : "salestopsales",
+      "tags"     : "",
+      "description"     : "",
+      "url"      : "/sales/topsales/2022/07/01/truein05/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Truein - Full Stack Developer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full time",
+      "categories" : "ittopit",
+      "tags"     : "php, mysql, microservices, angularjs, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/07/01/truein04/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Truein - Backend Developer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full time",
+      "categories" : "ittopit",
+      "tags"     : "php, mysql, microservices, angularjs, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/07/01/truein03/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Truein - Sr. Content Writer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full time",
+      "categories" : "other",
+      "tags"     : "",
+      "description"     : "",
+      "url"      : "/other/2022/07/01/truein02/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Truein - Flutter Developer",
+      "subtitle"    : "Location -  Pune Office, Work Type: Full time",
+      "categories" : "ittopit",
+      "tags"     : "fresher, C, C++, flutter, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/07/01/truein01/",
+      "date"     : "2022-07-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Accounts Receivables &amp; Payables - Lead",
+      "subtitle"    : "Location - Multiple locations, Work Type: Full Time",
+      "categories" : "financetopfinance",
+      "tags"     : "5-8, 8-10",
+      "description"     : "",
+      "url"      : "/finance/topfinance/2022/06/29/udaan01/",
+      "date"     : "2022-06-29 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - IT Business Relationship Management",
+      "subtitle"    : "Location - Bengaluru, Karnataka, India, Work Type: Full Time",
+      "categories" : "support",
+      "tags"     : "10+",
+      "description"     : "",
+      "url"      : "/support/2022/06/24/udaan02/",
+      "date"     : "2022-06-24 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Business Development",
+      "subtitle"    : "Location - Bengaluru, Karnataka, India, Work Type: Full Time",
+      "categories" : "supporttopsupport",
+      "tags"     : "5-8, 8-10, 10+",
+      "description"     : "",
+      "url"      : "/support/topsupport/2022/06/15/udaan05/",
+      "date"     : "2022-06-15 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Regional Collections (North)",
+      "subtitle"    : "Location - Bengaluru, Karnataka, India, Work Type: Full Time",
+      "categories" : "other",
+      "tags"     : "10+",
+      "description"     : "",
+      "url"      : "/other/2022/06/08/udaan06/",
+      "date"     : "2022-06-08 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Direct Taxation",
+      "subtitle"    : "Location - Multiple locations, Work Type: Full Time",
+      "categories" : "otherfinance",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/other/finance/2022/06/02/udaan07/",
+      "date"     : "2022-06-02 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Indirect Tax",
+      "subtitle"    : "Location - Bengaluru, Karnataka, India, Work Type: Full Time",
+      "categories" : "otherfinance",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/other/finance/2022/06/02/udaan03/",
+      "date"     : "2022-06-02 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Zolve - Data Scientist",
+      "subtitle"    : "Location - Bengaluru, Work Type: Full Time",
+      "categories" : "ittopit",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/06/01/zolve04/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Zolve - Product Designer",
+      "subtitle"    : "Location - Bengaluru, Work Type: Full Time",
+      "categories" : "producttopproduct",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/product/topproduct/2022/06/01/zolve03/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Zolve - Customer Obsession Manager",
+      "subtitle"    : "Location - Bengaluru, Work Type: Full Time",
+      "categories" : "producttopproduct",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/product/topproduct/2022/06/01/zolve02/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Zolve - Head Product Design",
+      "subtitle"    : "Location - Bengaluru, Work Type: Full Time",
+      "categories" : "product",
+      "tags"     : "10+",
+      "description"     : "",
+      "url"      : "/product/2022/06/01/zolve01/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Safexpay - Business Development",
+      "subtitle"    : "Location - Mumbai / Gurgaon / Bangalore",
+      "categories" : "sales",
+      "tags"     : "0-2",
+      "description"     : "",
+      "url"      : "/sales/2022/06/01/safexpay06/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Safexpay - IOS developer",
+      "subtitle"    : "Location - Mumbai / Gurgaon / Bangalore",
+      "categories" : "ittopit",
+      "tags"     : "objective-C, swift, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/06/01/safexpay05/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Safexpay - VP Engineering",
+      "subtitle"    : "Location - Mumbai",
+      "categories" : "ittopit",
+      "tags"     : "java, j2ee, angularjs, spring, Hibernate, MySql, Jquery, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/topit/2022/06/01/safexpay04/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Safexpay - App Support Engineer",
+      "subtitle"    : "Location - Mumbai",
+      "categories" : "it",
+      "tags"     : "Linux, Mysql, HyperV, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/06/01/safexpay03/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Safexpay - Team Lead",
+      "subtitle"    : "Location - Mumbai",
+      "categories" : "ittopit",
+      "tags"     : "java, j2ee, angularjs, spring, Hibernate, MySql, Jquery, 5-8",
+      "description"     : "",
+      "url"      : "/it/topit/2022/06/01/safexpay02/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Safexpay - Java Developer / Sr. Java Developer",
+      "subtitle"    : "Location - Mumbai",
+      "categories" : "it",
+      "tags"     : "java, topit, 0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/06/01/safexpay01/",
+      "date"     : "2022-06-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Sales Officer",
+      "subtitle"    : "Location - Mumbai, Maharashtra, India, Work Type: Full Time",
+      "categories" : "sales",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/05/20/udaan10/",
+      "date"     : "2022-05-20 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Sales Area Lead",
+      "subtitle"    : "Location - Mumbai, Maharashtra, India, Work Type: Full Time",
+      "categories" : "sales",
+      "tags"     : "topsales, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/05/20/udaan09/",
+      "date"     : "2022-05-20 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Modelling Analyst",
+      "subtitle"    : "Location - Bangalore, Karnataka, India, Work Type: Full Time",
+      "categories" : "salessupportfinanceother",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/support/finance/other/2022/04/13/udaan12/",
+      "date"     : "2022-04-13 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "Pariksha - Sales Counsellor",
+      "subtitle"    : "Location - Pune, Maharashtra, India.",
+      "categories" : "salestopsales",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/topsales/2022/04/01/Pariksha01/",
+      "date"     : "2022-04-01 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Internal Auditor",
+      "subtitle"    : "Location - Bangalore, Karnataka, India, Work Type: Full Time",
+      "categories" : "finance",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/finance/2022/03/24/udaan04/",
+      "date"     : "2022-03-24 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Credit Risk Strategy",
+      "subtitle"    : "Location - Bangalore, Karnataka, India, Work Type: Full Time",
+      "categories" : "salessupportfinanceother",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/support/finance/other/2022/03/13/udaan11/",
+      "date"     : "2022-03-13 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Associate Operations",
+      "subtitle"    : "Location -  Jalandhar, Work Type: Full time",
+      "categories" : "support",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/support/2022/01/05/10club10/",
+      "date"     : "2022-01-05 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Supply Chain Planning Associate",
+      "subtitle"    : "Location -  Delhi-NCR/Bangalore, Work Type: Full time",
+      "categories" : "supporttopsupport",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/support/topsupport/2021/12/21/10club05/",
+      "date"     : "2021-12-21 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - GM",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "support",
+      "tags"     : "2-5, 5-8, 8-10",
+      "description"     : "",
+      "url"      : "/support/2021/12/16/10club11/",
+      "date"     : "2021-12-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Sourcing - Associate/Lead",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "support",
+      "tags"     : "5-8",
+      "description"     : "",
+      "url"      : "/support/2021/12/16/10club09/",
+      "date"     : "2021-12-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Operations Associate",
+      "subtitle"    : "Location -  Delhi-NCR, Work Type: Full time",
+      "categories" : "other",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/other/2021/12/16/10club08/",
+      "date"     : "2021-12-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Logistics &amp; Warehousing Lead",
+      "subtitle"    : "Location -  Delhi-NCR/Bangalore, Work Type: Full time",
+      "categories" : "other",
+      "tags"     : "5-8",
+      "description"     : "",
+      "url"      : "/other/2021/12/16/10club07/",
+      "date"     : "2021-12-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Director Operations",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "supporttopsupport",
+      "tags"     : "5-8, 8-10",
+      "description"     : "",
+      "url"      : "/support/topsupport/2021/12/16/10club06/",
+      "date"     : "2021-12-16 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Finance Associate",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "financetopfinance",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/finance/topfinance/2021/12/07/10club04/",
+      "date"     : "2021-12-07 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Finance Associate Analyst",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "financetopfinance",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/finance/topfinance/2021/12/07/10club03/",
+      "date"     : "2021-12-07 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Catalogue Operations",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "marketingtopmarketing",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/marketing/topmarketing/2021/12/06/10club02/",
+      "date"     : "2021-12-06 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "10club - Performance Advertising",
+      "subtitle"    : "Location -  Remote, Work Type: Full time",
+      "categories" : "marketingtopmarketing",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/marketing/topmarketing/2021/12/06/10club01/",
+      "date"     : "2021-12-06 00:00:00 +0000"
+    } ,
+  
+    {
+      "title"    : "udaan - Underwriter",
+      "subtitle"    : "Location - Bangalore, Karnataka, India, Work Type: Full Time",
+      "categories" : "othersupport",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/other/support/2021/10/06/udaan08/",
+      "date"     : "2021-10-06 00:00:00 +0000"
+    } 
+  
+  ,
+  
+   {
+     
+        "title"    : "About",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/about/",
+        "date"     : "",
+        "content"  : "		    &#9998;Manage Staff members													Anna Thompson		Developer												James Lopez		Designer							"
+    
+   } ,
+  
+   {
+     
+        "title"    : "COFOUNDER",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/cofounders/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Contact",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/contact-success/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Contact",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/contact/",
+        "date"     : "",
+        "content"  : "            	                          		            	              	            	            &nbsp;&nbsp;	            	              	            	            &nbsp;&nbsp;	            	              	            	        		            Send Message         			    	          "
+    
+   } ,
+  
+   {
+     
+        "title"    : "DESIGN / UX",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/design/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "FINANCE",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/finance/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "FREELANCE",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/freelance/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "HR / RECRUITING",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/hr-recruiting/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Pricing",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/pricing/",
+        "date"     : "",
+        "content"  : "        &#9998;Manage Staff members                                        Personal                  Custom domains          Sleeps after 30 mins of inactivity                Free        Sign up                                  Small team                  Never sleeps          Multiple workers for more powerful apps                $150        Free trial                                  Enterprise                  Dedicated          Simple horizontal scalability                $400        Free trial                              "
+    
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/",
+        "date"     : "",
+        "content"  : "                    Zolve - Telesales                                                Zolve’s mission is simple: we want to make financial products accessible to everyone. Zolve offers the ambitious a plethora of products to simplify banking in the US, such as: A Bank Account you can create from anywhere in the world in under five minutes A high-limit Credit Card that helps...                                                                            Read more                                                             Zolve - Customer Support Representative                                                Zolve’s mission is simple: we want to make financial products accessible to everyone. Zolve offers the ambitious a plethora of products to simplify banking in the US, such as: A Bank Account you can create from anywhere in the world in under five minutes A high-limit Credit Card that helps...                                                                            Read more                                                             Unbox Robotics - Robotic Systems Engineer - Integration and Validation                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Robotics Systems Intern                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Component Development Engineer-System                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Lead Robotics Validation Engineer                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics -UI / UX Developer                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Software Development Engineer                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Technical Program Manager                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Scrum Master                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Purchase Executive                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Process Engineer                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Logistic Lead                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Installation Engineer                                                We are a robot technology company building intralogistics solutions for the new age of warehousing. We incorporated in 2019 and are based out of Pune, India with a swiftly growing team of passionate minds. Department Operations Roles & Responsibilities: Monitoring Effective planning & execution of Preventive, Opportunity & Predictive maintenance...                                                                            Read more                                                             Unbox Robotics - Mechanical Engineer - Product Design                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Mechanical Engineer - Design                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Mechanical Engineer - Analysis and Simulations                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Executive Business Partner to the CTO                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful, and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Project Engineer                                                We are a robot technology company building intralogistics solutions for the new age of warehousing. Our focus is on building compact and flexible solutions and business models to suit the needs of E-commerce and Logistics companies across varying scale and geographies. We incorporated in 2019 and are based out of...                                                                            Read more                                                             Unbox Robotics - Hardware Design Engineer- I/II/III                                                We are a robot technology company building intralogistics solutions for the new age of warehousing. Our focus is on building compact and flexible solutions and business models to suit the needs of E-commerce and Logistics companies across varying scale and geographies. We incorporated in 2019 and are based out of...                                                                            Read more                                                             Unbox Robotics - Embedded Hardware Manager                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Embedded Firmware Manager                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Electronics Quality Assurance Engineer                                                We at Unbox Robotics are revolutionizing warehouses and distribution centers by building the world's most compact, powerful and flexible mobile robotics systems for the new age of warehousing. Our product is the World's 1st of its kind AI-powered parcel sorting robotic system that gets installed 10X faster, saves 50+% space...                                                                            Read more                                                             Unbox Robotics - Electronics Production Engineer                                                We are a robot technology company building intralogistics solutions for the new age of warehousing. Our focus is on building compact and flexible solutions and business models to suit the needs of E-commerce and Logistics companies across varying scale and geographies. We incorporated in 2019 and are based out of...                                                                            Read more                                                             Truein - Customer Success Manager                                                Truein is a fast-growing B2B SaaS product company, offering Attendance & Timesheet solution to the companies with Contractual and Distributed workforce. 200+ customers across the globe now believe in what we do and have embarked on this journey with us. Attendance tracking across multiple locations, Frequently changing staff, remote work...                                                                            Read more                                                             Truein - B2B Sales Specialist                                                Truein is a fast-growing B2B SaaS product company, offering Attendance & Timesheet solution to the companies with Contractual and Distributed workforce. 200+ customers across the globe now believe in what we do and have embarked on this journey with us. Attendance tracking across multiple locations, Frequently changing staff, remote work...                                                                            Read more                                                             Truein - Full Stack Developer                                                Truein is a fast-growing B2B SaaS product company, offering Attendance & Timesheet solution to the companies with Contractual and Distributed workforce. 200+ customers across the globe now believe in what we do and have embarked on this journey with us. Attendance tracking across multiple locations, Frequently changing staff, remote work...                                                                            Read more                                                             Truein - Backend Developer                                                Truein is a fast-growing B2B SaaS product company, offering Attendance & Timesheet solution to the companies with Contractual and Distributed workforce. 200+ customers across the globe now believe in what we do and have embarked on this journey with us. Attendance tracking across multiple locations, Frequently changing staff, remote work...                                                                            Read more                                                             Truein - Sr. Content Writer                                                Truein is a fast-growing B2B SaaS product company, offering Attendance & Timesheet solution to the companies with Contractual and Distributed workforce. 200+ customers across the globe now believe in what we do and have embarked on this journey with us. Attendance tracking across multiple locations, Frequently changing staff, remote work...                                                                            Read more                                                             Truein - Flutter Developer                                                Truein is a fast-growing B2B SaaS product company, offering Attendance & Timesheet solution to the companies with Contractual and Distributed workforce. 200+ customers across the globe now believe in what we do and have embarked on this journey with us. Attendance tracking across multiple locations, Frequently changing staff, remote work...                                                                            Read more                                                             udaan - Accounts Receivables & Payables - Lead                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of udaan & offers credit services...                                                                            Read more                                                             udaan - IT Business Relationship Management                                                Founded in 2016 with a vision to 'transform the trade ecosystem in India leveraging technology,’ udaan is India’s largest business-to-business e-commerce platform. It has operations across categories including fruits and vegetables, FMCG, staples, lifestyle, electronics, home & kitchen, pharma, toys and general merchandise. udaan is solving core trade problems faced...                                                                            Read more                                                             udaan - Business Development                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of udaan & offers credit services...                                                                            Read more                                                             udaan - Regional Collections (North)                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient udaan Capital is the NBFC arm of udaan & offers credit services...                                                                            Read more                                                             udaan - Direct Taxation                                                Founded in 2016 with a vision to 'transform the trade ecosystem in India leveraging technology,’ udaan is India’s largest business-to-business e-commerce platform. It has operations across categories including fruits and vegetables, FMCG, staples, lifestyle, electronics, home & kitchen, pharma, toys and general merchandise. udaan is solving core trade problems faced...                                                                            Read more                                                             udaan - Indirect Tax                                                Founded in 2016 with a vision to 'transform the trade ecosystem in India leveraging technology,’ udaan is India’s largest business-to-business e-commerce platform. It has operations across categories including fruits and vegetables, FMCG, staples, lifestyle, electronics, home & kitchen, pharma, toys and general merchandise. udaan is solving core trade problems faced...                                                                            Read more                                                             Zolve - Data Scientist                                                Zolve’s mission is simple: we want to make financial products accessible to everyone. Zolve offers the ambitious a plethora of products to simplify banking in the US, such as: A Bank Account you can create from anywhere in the world in under five minutes A high-limit Credit Card that helps...                                                                            Read more                                                             Zolve - Product Designer                                                Zolve’s mission is simple: we want to make financial products accessible to everyone. Zolve offers the ambitious a plethora of products to simplify banking in the US, such as: A Bank Account you can create from anywhere in the world in under five minutes A high-limit Credit Card that helps...                                                                            Read more                                                             Zolve - Customer Obsession Manager                                                Zolve’s mission is simple: we want to make financial products accessible to everyone. Zolve offers the ambitious a plethora of products to simplify banking in the US, such as: A Bank Account you can create from anywhere in the world in under five minutes A high-limit Credit Card that helps...                                                                            Read more                                                             Zolve - Head Product Design                                                Zolve’s mission is simple: we want to make financial products accessible to everyone. Zolve offers the ambitious a plethora of products to simplify banking in the US, such as: A Bank Account you can create from anywhere in the world in under five minutes A high-limit Credit Card that helps...                                                                            Read more                                                             Safexpay - Business Development                                                At safexpay we aspire to build a global, digital platform infrastructure and product company focused for every business, with an extraordinary culture that attracts innovative, collaborative people. Experience O+years (fresher) Job Description Following the sales process to acquire new customers/Associates. Capturing meeting minutes and sending them to customer and Sales...                                                                            Read more                                                             Safexpay - IOS developer                                                At safexpay we aspire to build a global, digital platform infrastructure and product company focused for every business, with an extraordinary culture that attracts innovative, collaborative people. Experience 2+ years Job Description We are looking for an iOS developer responsible for the development and maintenance of applications aimed at a...                                                                            Read more                                                             Safexpay - VP Engineering                                                At safexpay we aspire to build a global, digital platform infrastructure and product company focused for every business, with an extraordinary culture that attracts innovative, collaborative people. Experience 2+ years Skills Technical Skills: Java, J2EE, Spring MVC, Spring Boot, Hibernate, MySql/Oracle, Angular JS, Jquery, Javascript, HTML Primary Skills: Core Java,...                                                                            Read more                                                             Safexpay - App Support Engineer                                                At safexpay we aspire to build a global, digital platform infrastructure and product company focused for every business, with an extraordinary culture that attracts innovative, collaborative people. Experience 2+ years Skills Centos 7.2, Linux, Mysql Database, HyperV Job Description Knowledge of Centos 7.2 and Linux at least 2 years. Knowledge...                                                                            Read more                                                             Safexpay - Team Lead                                                At safexpay we aspire to build a global, digital platform infrastructure and product company focused for every business, with an extraordinary culture that attracts innovative, collaborative people. Experience 6+ years Skills Technical Skills: Java, J2EE, Spring MVC, Spring Boot, Hibernate, MySql/Oracle, Angular JS/React JS, AWS, CI/CD, Jquery, Javascript, Node.js, Erlang,...                                                                            Read more                                                             Safexpay - Java Developer / Sr. Java Developer                                                At safexpay we aspire to build a global, digital platform infrastructure and product company focused for every business, with an extraordinary culture that attracts innovative, collaborative people. Experience Junior Developer 2+ years I Senior Developer 4+ years Skills Technical Skills: Java, J2EE, Spring MVC, Spring Boot, Hibernate, MySql/ Oracle, Angular...                                                                            Read more                                                             udaan - Sales Officer                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of Udaan & offers credit services...                                                                            Read more                                                             udaan - Sales Area Lead                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of Udaan & offers credit services...                                                                            Read more                                                             udaan - Modelling Analyst                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of Udaan & offers credit services...                                                                            Read more                                                             Pariksha - Sales Counsellor                                                Pariksha is India's largest vernacular test preparation App that helps aspirants from Bharat prepare for any state government job exam in the language of their choice, through videos and live streaming classes in the most affordable, convenient, and enriching manner. We are currently operational in 13 states and 8 languages...                                                                            Read more                                                             udaan - Internal Auditor                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of udaan & offers credit services...                                                                            Read more                                                             udaan - Credit Risk Strategy                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of Udaan & offers credit services...                                                                            Read more                                                             10club - Associate Operations                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Supply Chain Planning Associate                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - GM                                                We are looking to hire smart, creative, and passionate individuals for owning our brand identities across Home and Sports categories. The role spans across multiple brands within the category and will work closely with the individual brand owners to design and implement integrated brand identities. This is a critical role...                                                                            Read more                                                             10club - Sourcing - Associate/Lead                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Operations Associate                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Logistics & Warehousing Lead                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Director Operations                                                Director of Operations is a leadership role and the incumbent would be supporting the Growth Team on all operational aspects of the brand plans across marketplaces. The Director of Operations would work very closely with resellers and ensure that the reseller systems, processes and operations are in line with the...                                                                            Read more                                                             10club - Finance Associate                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Finance Associate Analyst                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Catalogue Operations                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             10club - Performance Advertising                                                This role is for an experienced professional, willing to take a seat on the rocket ship that has already launched. We are an e-commerce brand acquirer, and all our operations are focused on marketplace first businesses. The candidate selected for this role will work to ensure our company’s portfolio brands...                                                                            Read more                                                             udaan - Underwriter                                                udaan is a B2B ecommerce platform that brings traders, wholesalers, distributors, retailers, and manufacturers in India on to a single platform. Our goal is to make ‘doing business’ easy in India & make B2B commerce convenient and efficient. udaan Capital is the NBFC arm of Udaan & offers credit services...                                                                            Read more                                               Older Posts &rarr;  "
+    
+   } ,
+  
+   {
+     
+        "title"    : "INDIASTARTUPJOBS",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/",
+        "date"     : "",
+        "content"  : "      JOIN A STARTUP          Find your perfect job among 466 opportunities at 239 startups.                                  BROWSE CATEGORIES      IT / SOFTWARE DEVELOPMENT &rarr;      MARKETING / ADVERTISING&rarr;      MAINTENANCE &rarr;      DESIGN / UX &rarr;      BUSNIESS OPERATIONS / SUPPORT &rarr;      SALES &rarr;      PRODUCT MANAGEMENT &rarr;      HR / RECRUTING &rarr;      FINANCE &rarr;      INTERNSHIPS &rarr;            OTHERS &rarr;                         FEATURED JOBS       IT / SOFTWARE DEVELOPMENT                                                                        Unbox Robotics - Software Development Engineer                                                            Read more                                                                                                                             Truein - Full Stack Developer                                                            Read more                                                                                                                             Truein - Backend Developer                                                            Read more                                                                                                                             Truein - Flutter Developer                                                            Read more                                                                                                                             Zolve - Data Scientist                                                            Read more                                                                                                                             Safexpay - IOS developer                                                            Read more                                                                                                                             Safexpay - VP Engineering                                                            Read more                                                                                                                             Safexpay - Team Lead                                                            Read more                                                                                     SALES                                                                        Truein - B2B Sales Specialist                                                            Read more                                                                                                                             Pariksha - Sales Counsellor                                                            Read more                                                                                     BUSINESS OPERATION / SUPPORT                                                                        Truein - Customer Success Manager                                                            Read more                                                                                                                             udaan - Business Development                                                            Read more                                                                                                                             10club - Supply Chain Planning Associate                                                            Read more                                                                                                                             10club - Director Operations                                                            Read more                                                                                     PRODUCT                                                                        Zolve - Product Designer                                                            Read more                                                                                                                             Zolve - Customer Obsession Manager                                                            Read more                                                                                     FINANCE                                                                        udaan - Accounts Receivables & Payables - Lead                                                            Read more                                                                                                                             10club - Finance Associate                                                            Read more                                                                                                                             10club - Finance Associate Analyst                                                            Read more                                                                                     "
+    
+   } ,
+  
+   {
+     
+        "title"    : "INTERNSHIPS",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/internships/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Software Development",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/itjobs/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Maintenance",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/maintenance/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "MARKETING &amp; COMMUNICATIONS",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/marketing/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "OTHER",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/other-jobs/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Portfolio",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/portfolio/",
+        "date"     : "",
+        "content"  : "		    &#9998; Manage Clients																																	RoomaRo							Decorate your home for less!																																														SmartVigyapan							Transforming Physical into Digital																																														RoomaRo Android App							Decorate your home for less!																											"
+    
+   } ,
+  
+   {
+     
+        "title"    : "PRODUCT MANAGEMENT",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/product/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "Sales",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/sales/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "OPERATIONS / SUPPORT",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/support/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "other",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/other/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "support",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/support/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "marketing",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/marketing/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "topmarketing",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/topmarketing/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "finance",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/finance/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "topfinance",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/topfinance/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "topsupport",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/topsupport/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "sales",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/sales/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "topsales",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/topsales/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "it",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/it/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "topit",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/topit/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "product",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/product/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "topproduct",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/topproduct/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "hr",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/hr/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "maintenance",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/maintenance/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+        "title"    : "design",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/category/design/",
+        "date"     : "",
+        "content"  : ""
+    
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/page2/",
+        "date"     : "",
+        "content"  : "{% for post in site.posts %}                    {{ post.title }}                            {% if post.description %}                    {{ post.description }}                {% else %}                    {{ post.content | strip_html | truncatewords: 50 }}                {% endif %}                                                            Read more                                         {% endfor %}{% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}  &larr;    Newer Posts  {% endif %}  {% if paginator.next_page %}  Older Posts &rarr;  {% endif %}{% endif %}"
+    
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/page3/",
+        "date"     : "",
+        "content"  : "{% for post in site.posts %}                    {{ post.title }}                            {% if post.description %}                    {{ post.description }}                {% else %}                    {{ post.content | strip_html | truncatewords: 50 }}                {% endif %}                                                            Read more                                         {% endfor %}{% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}  &larr;    Newer Posts  {% endif %}  {% if paginator.next_page %}  Older Posts &rarr;  {% endif %}{% endif %}"
+    
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/page4/",
+        "date"     : "",
+        "content"  : "{% for post in site.posts %}                    {{ post.title }}                            {% if post.description %}                    {{ post.description }}                {% else %}                    {{ post.content | strip_html | truncatewords: 50 }}                {% endif %}                                                            Read more                                         {% endfor %}{% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}  &larr;    Newer Posts  {% endif %}  {% if paginator.next_page %}  Older Posts &rarr;  {% endif %}{% endif %}"
+    
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/page5/",
+        "date"     : "",
+        "content"  : "{% for post in site.posts %}                    {{ post.title }}                            {% if post.description %}                    {{ post.description }}                {% else %}                    {{ post.content | strip_html | truncatewords: 50 }}                {% endif %}                                                            Read more                                         {% endfor %}{% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}  &larr;    Newer Posts  {% endif %}  {% if paginator.next_page %}  Older Posts &rarr;  {% endif %}{% endif %}"
+    
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/page6/",
+        "date"     : "",
+        "content"  : "{% for post in site.posts %}                    {{ post.title }}                            {% if post.description %}                    {{ post.description }}                {% else %}                    {{ post.content | strip_html | truncatewords: 50 }}                {% endif %}                                                            Read more                                         {% endfor %}{% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}  &larr;    Newer Posts  {% endif %}  {% if paginator.next_page %}  Older Posts &rarr;  {% endif %}{% endif %}"
+    
+   } ,
+  
+   {
+     
+        "title"    : "Posts",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/posts/page7/",
+        "date"     : "",
+        "content"  : "{% for post in site.posts %}                    {{ post.title }}                            {% if post.description %}                    {{ post.description }}                {% else %}                    {{ post.content | strip_html | truncatewords: 50 }}                {% endif %}                                                            Read more                                         {% endfor %}{% if paginator.total_pages > 1 %}  {% if paginator.previous_page %}  &larr;    Newer Posts  {% endif %}  {% if paginator.next_page %}  Older Posts &rarr;  {% endif %}{% endif %}"
+    
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } ,
+  
+   {
+     
+   } 
+  
+]
