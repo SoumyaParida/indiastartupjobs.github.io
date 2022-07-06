@@ -102,13 +102,14 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer
-  jekyll (~> 4.2.0)
+  jekyll
   jekyll-archives (~> 2.2.1)
   jekyll-feed (~> 0.15.1)
   jekyll-gist
   jekyll-paginate (~> 1.1.0)
   jekyll-seo-tag (~> 2.7.1)
   jekyll-sitemap (~> 1.4.0)
+  kramdown-parser-gfm
 
 BUNDLED WITH
    2.1.2
