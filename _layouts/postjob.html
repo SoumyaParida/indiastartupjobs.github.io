@@ -1,0 +1,51 @@
+---
+layout: default
+title: Post a Job
+subtitle: See some of our proud customers with exemplary results.
+---
+{% assign sales = site.pages | where: "path", "sales.html" | first %}
+<section class="hero diagonal">
+  <div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
+    {% if page.heading %}
+      <h2>{{ page.heading }}</h2>
+    {% elsif page.title %}
+      <h2>{{ page.title }}</h2>
+    {% endif %}
+    {% if page.subtitle %}
+      <p class="subtext">{{ page.subtitle }}</p>
+    {% endif %}
+  </div>
+  
+</section>
+
+<!-- contact form start -->
+<section id="diagonal">
+  <div class="container">
+    <div class="row">
+      <h2 class="heading-header">Post your job</h2>
+      <p></p>
+      <p></p>
+
+      <div>     
+        <form action="https://formspree.io/f/mknngewb" method="POST">
+     
+          <div class="block">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name" name="=name">
+              </div>
+              &nbsp;&nbsp;
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email Address" name="_replyto">
+              </div>
+              &nbsp;&nbsp;
+              <div class="form-group">
+                <textarea class="form-control" rows="3" placeholder="Your Message. Give your phone number here. Our team will contact you very soon." name="massage"></textarea>
+              </div>
+            </br>
+              <button class="pricing-button" type="submit">Send Message</button>
+          </div>
+    </form>
+      </div>
+      </div>
+    </div>
+</section>
