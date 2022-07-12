@@ -1,352 +1,371 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-10T20:21:08+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">avataar - Enterprise Business Development Representative</title><link href="http://localhost:4000/support/2022/07/01/avataar01/" rel="alternate" type="text/html" title="avataar - Enterprise Business Development Representative" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar01</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar01/">&lt;p&gt;This position brings challenges and rewards of being part of the initial SDR team at Avataar. You are required to be multidimensional, but the primary responsibility is to do market research, connect with customers through email\LI\phone, set up meetings, understand their pain points, and suggest solutions, with creative follow-ups leading to sales closure.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-11T17:08:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">arzooo - Data Engineer</title><link href="http://localhost:4000/it/topit/2022/07/01/arzooo01/" rel="alternate" type="text/html" title="arzooo - Data Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/topit/2022/07/01/arzooo01</id><content type="html" xml:base="http://localhost:4000/it/topit/2022/07/01/arzooo01/">&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
 
-This position is an integral part of our sales engine and you will work directly with the co-founders to “hunt” for high-value opportunities. This collaboration makes this role unique and one of a kind in the industry.
+&lt;p&gt;We’re looking for Data Engineers who enjoy the challenge of diving into real-world problems, solving the unsolvable, develop metrics and business cases that will enable us to make impactful business decisions on products that affect millions of people everyday.&lt;/p&gt;
 
-The incumbent is expected to excel in this role and pave his/her own path to becoming a successful Account Executive in the next 18-24 months.
-
-BDRs are focused on the front end of the sales cycle and are the face of Avataar. This individual must be a highly motivated, outgoing, self-starter who is able to identify and develop opportunities from multiple sources including prospect lists, and individual research.&lt;/p&gt;
-
-&lt;p&gt;What would make you successful in this role?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What is the role like?&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Intellectually Hungry - You never stop learning and asking questions&lt;/li&gt;
-	&lt;li&gt;Integrity - You challenge the status quo when you’ve found a better way and you do the right thing no matter what&lt;/li&gt;
-	&lt;li&gt;“Get it done” mentality - You are proactive and execute with brilliant focus and a relentless spirit&lt;/li&gt;
-	&lt;li&gt;Collaborative - You care about your own career goals, in addition to the success of your team&lt;/li&gt;
-	&lt;li&gt;Driven - You challenge yourself to go above and beyond your responsibilities&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;Demonstrate ability&lt;/b&gt; to manage large-scale data modelling projects, identify requirements and tools, and build data warehousing solutions that are explainable &amp; scalable through fault-tolerant architecture. &lt;/li&gt;
+ 	&lt;li&gt;&lt;b&gt;Partner with passionate people&lt;/b&gt; in sales, marketing, operations, tech &amp; product to automate, own many large datasets,  scale the analysis, implement new data pipelines (Airflow, Python, columnar datastores) and make the data more actionable to manage Arzooo’s business.&lt;/li&gt;
+ 	&lt;li&gt;&lt;b&gt;Be an expert&lt;/b&gt; in designing and developing frameworks, tools and processes for reliably ingesting and processing vast amounts of data into our data platform.&lt;/li&gt;
+ 	&lt;li&gt;&lt;b&gt;Optimize&lt;/b&gt; data ingestion, storage and processing architecture to meet product, business and performance needs.&lt;/li&gt;
+ 	&lt;li&gt;&lt;b&gt;Adaptive Fast learner&lt;/b&gt; who thrives on learning new technologies and doesn't believe in one-size-fits-all solutions. You will adapt easily to meet the needs of our massive growth and rapidly evolving business environment.&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;Be a thought leader and advocate&lt;/b&gt; for effective practices in the data engineering space.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements:&lt;/h2&gt;
-
-&lt;p&gt;We don't think anyone is the finished article, you should always be looking for ways to develop in your role. So if you don't tick all of these boxes, don't let that put you off, we want to know where you may need some support. However, some hard requirements are:&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Our Ideal Candidate&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;High in TQ(Technology Quotient). Experience with Sales Tech Stack(e.g. Hubspot, Outreach, Salesloft, Zoominfo, Lusha, etc) is desired&lt;/li&gt;
-	&lt;li&gt;Proven work experience as an Enterprise Business Development Representative or similar roles&lt;/li&gt;
-	&lt;li&gt;Hands-on experience with multiple sales techniques (including cold calls)&lt;/li&gt;
-	&lt;li&gt;Familiarity with MS Excel (analyzing spreadsheets and charts)&lt;/li&gt;
-
-	&lt;li&gt;Understanding of sales performance metrics&lt;/li&gt;
-	&lt;li&gt;Strong written and verbal communication skills.&lt;/li&gt;
-	&lt;li&gt;Must be organized, detailed and process-oriented&lt;/li&gt;
-	&lt;li&gt;Must be a self-starter with the ability to work independently or in a team environment&lt;/li&gt;
-
-	&lt;li&gt;Ability to manage multiple tasks and use good judgment in resolving difficult issues&lt;/li&gt;
-	&lt;li&gt;Willing to work in the US time zone(6 pm-3 am)&lt;/li&gt;
-	&lt;li&gt;Open to learning best in class sales processes&lt;/li&gt;
+	&lt;li&gt;6+ years of solid track record in the data engineering-focused role with large-scale software development in the product engineering space.&lt;/li&gt;
+	&lt;li&gt;Advanced, inside-out knowledge of scalable data solutions in the cloud (AWS/ Azure / GCP). We use programming languages like Node Js/ Go lang/Java/Python/Scala data stores like Cassandra, DynamoDB, Redis and MQs like Kafka- Any programming language is fine.&lt;/li&gt;
+	&lt;li&gt;Demonstrate strength in data lake architecture, data storage strategies, data governance and relational database concepts &amp; experience with streaming and batch data processing frameworks.&lt;/li&gt;
+	&lt;li&gt;Proficiency in SQL, AWS knowledge, expertise (S3, EC2, EMR, Lambda, Kinesis, KafkCI/CD best practices) &amp; fluent with containerization and Kubernetes.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/enterprise-business-development-representative&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><category term="5-8" /><category term="8-10" /><summary type="html">This position brings challenges and rewards of being part of the initial SDR team at Avataar. You are required to be multidimensional, but the primary responsibility is to do market research, connect with customers through email\LI\phone, set up meetings, understand their pain points, and suggest solutions, with creative follow-ups leading to sales closure.</summary></entry><entry><title type="html">avataar - Business Development Representative</title><link href="http://localhost:4000/support/2022/07/01/avataar02/" rel="alternate" type="text/html" title="avataar - Business Development Representative" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar02</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar02/">&lt;p&gt;This position brings challenges and rewards of being part of the initial SDR team at Avataar. You are required to be multidimensional, but the primary responsibility is to do market research, connect with customers through email\LI\phone, set up meetings, understand their pain points, and suggest solutions, with creative follow-ups leading to sales closure.
+&lt;a href=&quot;https://career.arzooo.com/jobs/OXuc-rsf7MTu/data-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="topit" /><category term="5-8" /><category term="java" /><category term="python" /><category term="nodejs" /><summary type="html">We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!</summary></entry><entry><title type="html">arzooo - Engineering Manager</title><link href="http://localhost:4000/it/2022/07/01/arzooo02/" rel="alternate" type="text/html" title="arzooo - Engineering Manager" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo02</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo02/">&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
 
-This position is an integral part of our sales engine and you will work directly with the co-founders to “hunt” for high-value opportunities. This collaboration makes this role unique and one of a kind in the industry.
-
-The incumbent is expected to excel in this role and pave his/her own path to becoming a successful Account Executive in the next 18-24 months.
-
-BDRs are focused on the front end of the sales cycle and are the face of Avataar. This individual must be a highly motivated, outgoing, self-starter who is able to identify and develop opportunities from multiple sources including prospect lists, and individual research.&lt;/p&gt;
-
-&lt;p&gt;What would make you successful in this role?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Intellectually Hungry - You never stop learning and asking questions&lt;/li&gt;
-	&lt;li&gt;Integrity - You challenge the status quo when you’ve found a better way and you do the right thing no matter what&lt;/li&gt;
-	&lt;li&gt;“Get it done” mentality - You are proactive and execute with brilliant focus and a relentless spirit&lt;/li&gt;
-	&lt;li&gt;Collaborative - You care about your own career goals, in addition to the success of your team&lt;/li&gt;
-	&lt;li&gt;Driven - You challenge yourself to go above and beyond your responsibilities&lt;/li&gt;
+	&lt;li&gt;Work with other Arzooo's leaders to design and drive the plan for Arzooo's vision.&lt;/li&gt;
+ 	&lt;li&gt;Recruit great engineers, in collaboration with Arzooo's recruiting team.&lt;/li&gt;
+ 	&lt;li&gt;Develop engineers on the team, helping them advance in their careers.&lt;/li&gt;
+ 	&lt;li&gt;Empower the engineering team to achieve a high level of technical productivity, reliability and simplicity.&lt;/li&gt;
+ 	&lt;li&gt;Contribute to engineering-wide initiatives as a member of Arzooo's engineering management team.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements:&lt;/h2&gt;
-
-&lt;p&gt;We don't think anyone is the finished article, you should always be looking for ways to develop in your role. So if you don't tick all of these boxes, don't let that put you off, we want to know where you may need some support. However, some hard requirements are:&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;High in TQ(Technology Quotient). Experience with Sales Tech Stack(e.g. Hubspot, Outreach, Salesloft, Zoominfo, Lusha, etc) is desired&lt;/li&gt;
-	&lt;li&gt;Proven work experience as an Enterprise Business Development Representative or similar roles&lt;/li&gt;
-	&lt;li&gt;Hands-on experience with multiple sales techniques (including cold calls)&lt;/li&gt;
-	&lt;li&gt;Familiarity with MS Excel (analyzing spreadsheets and charts)&lt;/li&gt;
+	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
+	&lt;li&gt;A track record of leading productive engineering teams.&lt;/li&gt;
+	&lt;li&gt;Successfully recruited great people to your teams.&lt;/li&gt;
+	&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility.&lt;/li&gt;
 
-	&lt;li&gt;Understanding of sales performance metrics&lt;/li&gt;
-	&lt;li&gt;Strong written and verbal communication skills.&lt;/li&gt;
-	&lt;li&gt;Must be organized, detailed and process-oriented&lt;/li&gt;
-	&lt;li&gt;Must be a self-starter with the ability to work independently or in a team environment&lt;/li&gt;
+	&lt;li&gt;The desire to encourage a healthy work environment that's both supportive and challenging.&lt;/li&gt;
+	&lt;li&gt;A genuine excitement to help engineers develop new skills and advance in their careers.&lt;/li&gt;
+	&lt;li&gt;Enough technical sense to ask engineers good questions about architecture and product decisions.&lt;/li&gt;
+	&lt;li&gt;7+ years of relevant engineering and hands-on technical management experience.&lt;/li&gt;
 
-	&lt;li&gt;Ability to manage multiple tasks and use good judgment in resolving difficult issues&lt;/li&gt;
-	&lt;li&gt;Willing to work in the US time zone(6 pm-3 am)&lt;/li&gt;
-	&lt;li&gt;Open to learning best in class sales processes&lt;/li&gt;
+	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
+	&lt;li&gt;Strong hands-on experience in backend stack (C++,JAVA, Golang, Python, Nodejs)&lt;/li&gt;
+	&lt;li&gt;Expertise in distributed systems &amp; architecture&lt;/li&gt;
+	&lt;li&gt;Operational excellence in performance and scalability issues &lt;/li&gt;
+	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/business-development-representative&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><category term="5-8" /><category term="8-10" /><summary type="html">This position brings challenges and rewards of being part of the initial SDR team at Avataar. You are required to be multidimensional, but the primary responsibility is to do market research, connect with customers through email\LI\phone, set up meetings, understand their pain points, and suggest solutions, with creative follow-ups leading to sales closure.</summary></entry><entry><title type="html">avataar - 3D Senior Manager - Platform Delivery</title><link href="http://localhost:4000/support/2022/07/01/avataar03/" rel="alternate" type="text/html" title="avataar - 3D Senior Manager - Platform Delivery" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar03</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar03/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/zIV0BR7b6W4z/engineering-manager&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><category term="java" /><category term="python" /><category term="nodejs" /><category term="sql" /><summary type="html">We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!</summary></entry><entry><title type="html">arzooo - Engineering Manager - Frontend</title><link href="http://localhost:4000/it/2022/07/01/arzooo03/" rel="alternate" type="text/html" title="arzooo - Engineering Manager - Frontend" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo03</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo03/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+
+&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Responsible for building, motivating and upskilling the entire Platform Delivery team.&lt;/li&gt;
-	&lt;li&gt;Partner with business teams to ensure appropriate resource allocation across all projects.&lt;/li&gt;
-	&lt;li&gt;Monitor workload and drive delivery excellence across the Platform Delivery team to provide our global clients with the best in industry outcomes.&lt;/li&gt;
-	&lt;li&gt;Proactively anticipate issues with existing workflow, technology and staffing, and present solutions to management with sufficient time for action to be taken.&lt;/li&gt;
-
-	&lt;li&gt;Excellent communication and skills and demonstrated ability to navigate through ‘organized chaos’.&lt;/li&gt;
-	&lt;li&gt;Collaborate with HR and business partners to lead hiring, training and performance management.&lt;/li&gt;
-	&lt;li&gt;Communicate a consistent and compelling picture of the company’s position as a world-class 3D XR/AR organization to clients and staff.&lt;/li&gt;
+	&lt;li&gt;Develop, and curate the web and app-based interfaces that thousands of Arzooo customers interact with on a daily basis.&lt;/li&gt;
+ 	&lt;li&gt;Managing end to end development from the frontend perspective.&lt;/li&gt;
+ 	&lt;li&gt;Build reusable code and libraries for future use.&lt;/li&gt;
+ 	&lt;li&gt;Ensure the technical feasibility of UI/UX designs.&lt;/li&gt;
+ 	&lt;li&gt;Ensure captured data validation to the best standards.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;What’s in it for you?&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Extremely competitive compensation.&lt;/li&gt;
-	&lt;li&gt;Opportunity to lead a fast-growing team of 100+ members today with the potential to grow up to 300+ members.&lt;/li&gt;
-	&lt;li&gt;Unparalleled opportunity to build a global business out of India.&lt;/li&gt;
-	&lt;li&gt;Owning primary responsibility to scale a critical function.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements:&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;10+ years in Platform Delivery with 5+ years leading a team of artists specializing in all areas of 3D.&lt;/li&gt;
-	&lt;li&gt;Strong technical grasp of key 3D principles - modelling, texturing, animation, lighting.&lt;/li&gt;
-	&lt;li&gt;Well versed with relevant software including, but not limited to 3Ds Max, Maya, Blender, Z-Brush, Substance Painter, V-ray.&lt;/li&gt;
-	&lt;li&gt;A highly organised individual who enjoys the creative process and managing a department/team.&lt;/li&gt;
-	&lt;li&gt;Deep understanding of AR/XR industry with global exposure.&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of HTML5 CSS3 CSS preprocessors (LESS/SASS).&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of ReactJs and JavaScript.&lt;/li&gt;
+	&lt;li&gt;Familiarity with React Native is a plus.&lt;/li&gt;
+	&lt;li&gt;Knowledge of SPAs and build tools (like webpack, parcel etc. ).&lt;/li&gt;
+
+	&lt;li&gt;Proficient understanding of code versioning tools, such as GIT.&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
+	&lt;li&gt;Experience with performance optimisation of applications.&lt;/li&gt;
+	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
+
+	&lt;li&gt;Excellent problem-solving ability and desire to learn new technologies and platforms.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;http://avataar.me/career/3d-senior-manager-platform-delivery&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><category term="5-8" /><category term="8-10" /><summary type="html">Job Responsibilities:</summary></entry><entry><title type="html">avataar - 3D Senior Manager - Platform Delivery</title><link href="http://localhost:4000/support/2022/07/01/avataar04/" rel="alternate" type="text/html" title="avataar - 3D Senior Manager - Platform Delivery" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar04</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar04/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
 
-&lt;p&gt;Incumbent will be a key member of the 3D Platform Management team, working with key stakeholders to develop and execute client delivery strategies and deliver successful outcomes across engagements. We are looking for someone who would deeply imbibe Avataar’s culture + values and evangelize the same across the organization.&lt;/p&gt;
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/qYGWpUDHqG0e/engineering-manager-frontend&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Frontend Developer II</title><link href="http://localhost:4000/it/2022/07/01/arzooo04/" rel="alternate" type="text/html" title="arzooo - Frontend Developer II" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo04</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo04/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+
+&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Lead, negotiate and coordinate actions with key stakeholders to create and secure the scope of projects, plans, quotations and required resources are clearly defined, clarified and communicated.&lt;/li&gt;
-	&lt;li&gt;Monitor, track and analyse any key issues or risks that may affect stakeholder agreements, maintaining an open dialogue and communication flow of project status, changing prerequisites, deviations and end-result expectations.&lt;/li&gt;
-	&lt;li&gt;Identify and contribute to the development of optimal processes and ways of working that ensures production at high creative quality, in time and at the lowest cost.&lt;/li&gt;
-	&lt;li&gt;Contribute actively in establishing and improving common tools and methods used to structure, measure, monitor and document overall project performance, customer satisfaction and project learnings.&lt;/li&gt;
-
-	&lt;li&gt;Take responsibility of all administrative tasks related to the project, including the update of key performance indicators.&lt;/li&gt;
-	&lt;li&gt;Take leadership of the 3D Project Management team by creating ideal working conditions that enable engagement, team spirit and togetherness.&lt;/li&gt;
-	&lt;li&gt;Evaluate 3D Platform performance, identify insights and share learnings that further our expertise, efficiency and end-results of future projects.&lt;/li&gt;
-	&lt;li&gt;Experience and a general understanding of 3D based technologies is an advantage.&lt;/li&gt;
-	&lt;li&gt;Work closely with and be part of the 3D Platform Management Team.&lt;/li&gt;
+	&lt;li&gt;Develop, and curate the web and app-based interfaces that thousands of Arzooo customers interact with on a daily basis.&lt;/li&gt;
+ 	&lt;li&gt;Managing end to end development from the frontend perspective.&lt;/li&gt;
+ 	&lt;li&gt;Build reusable code and libraries for future use.&lt;/li&gt;
+ 	&lt;li&gt;Ensure the technical feasibility of UI/UX designs.&lt;/li&gt;
+ 	&lt;li&gt;Ensure captured data validation to the best standards.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;What’s in it for you?&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Extremely competitive compensation.&lt;/li&gt;
-	&lt;li&gt;Opportunity to lead a fast-growing team of 100+ members today with the potential to grow up to 300+ members.&lt;/li&gt;
-	&lt;li&gt;Unparalleled opportunity to build a global business out of India.&lt;/li&gt;
-	&lt;li&gt;Owning primary responsibility to scale a critical function.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements:&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;5+ years in Project Management.&lt;/li&gt;
-	&lt;li&gt;3+ years leading project managers.&lt;/li&gt;
-	&lt;li&gt;Strong technical grasp of key project management principles.&lt;/li&gt;
-	&lt;li&gt;Highly organised individual who enjoys the creative process and managing a department team.&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of HTML5 CSS3 CSS preprocessors (LESS/SASS).&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of ReactJs and JavaScript.&lt;/li&gt;
+	&lt;li&gt;Familiarity with React Native is a plus.&lt;/li&gt;
+	&lt;li&gt;Knowledge of SPAs and build tools (like webpack, parcel etc. ).&lt;/li&gt;
+
+	&lt;li&gt;Proficient understanding of code versioning tools, such as GIT.&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
+	&lt;li&gt;Experience with performance optimisation of applications.&lt;/li&gt;
+	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
+
+	&lt;li&gt;Excellent problem-solving ability and desire to learn new technologies and platforms.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/3d-manager-project-management-3d-platform-delivery&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><category term="5-8" /><summary type="html">Job Responsibilities:</summary></entry><entry><title type="html">avataar - ML Compiler Engineer</title><link href="http://localhost:4000/it/topit/2022/07/01/avataar05/" rel="alternate" type="text/html" title="avataar - ML Compiler Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/topit/2022/07/01/avataar05</id><content type="html" xml:base="http://localhost:4000/it/topit/2022/07/01/avataar05/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
-&lt;p&gt;At Avataar Reality labs, we are pushing the boundaries of what is possible in AR/VR and enabling the consumer shift to metaverse at scale. We are building the neural engine to empower the creation, rendering and manipulation of AR/XR content across devices. Our work involves solving challenging problems at the intersection of Computer Vision, Graphics and Deep Learning.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
 
-&lt;p&gt;As a ML Compiler Engineer, you will be working on building the framework for optimizing and deploying computer vision models across devices, making best use of modern parallel environments.&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Proficiency in C/C++&lt;/li&gt;
-	&lt;li&gt;Strong programming experience in CUDA or OpenCL.&lt;/li&gt;
-	&lt;li&gt;Strong grasp of CPU and GPU performance challenges and optimization techniques.&lt;/li&gt;
-	&lt;li&gt;Experience working with at least one deep-learning library (e.g., PyTorch, Jax,TensorFlow, Caffe2). This experience should include optimization of new algorithms.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
 
-&lt;p&gt;Preferred Requirements:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Experience working with WebAssembly.&lt;/li&gt;
-	&lt;li&gt;Experience in shipping computer vision or image processing products to customers&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/ml-compiler-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="topit" /><category term="0-2" /><category term="2-5" /><category term="5-8" /><category term="c" /><category term="c++" /><category term="cuda" /><category term="opencl" /><category term="deep-learning" /><category term="PyTorch" /><category term="TensorFlow" /><category term="Caffe2" /><category term="computer-vision" /><summary type="html">Job Responsibilities: At Avataar Reality labs, we are pushing the boundaries of what is possible in AR/VR and enabling the consumer shift to metaverse at scale. We are building the neural engine to empower the creation, rendering and manipulation of AR/XR content across devices. Our work involves solving challenging problems at the intersection of Computer Vision, Graphics and Deep Learning.</summary></entry><entry><title type="html">avataar - Manager - 3D Cloth and Simulation</title><link href="http://localhost:4000/support/2022/07/01/avataar06/" rel="alternate" type="text/html" title="avataar - Manager - 3D Cloth and Simulation" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar06</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar06/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
-&lt;p&gt;As a leader of the AI Data team, you will be responsible for the team development, forming robust structures and frameworks for better productivity and leading the team in a way that aligns with the values and vision of the organization. You will also work closely with the R&amp;D team in order to ensure timely and uninterrupted creation of the training datasets. You will be responsible for driving the initiatives and workflow on a day-to-day basis. You will also be responsible for the curation of trendy and aesthetic apparel from internet databases and approval after the team converts those into 3D assets.&lt;/p&gt;
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
 
-&lt;p&gt;What will you do:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Lead a team of skilled, energetic and dedicated young people with diverse backgrounds.&lt;/li&gt;
-	&lt;li&gt;Work closely with the R&amp;D team and understand their requirements in order to provide them with the training datasets for the development of AI.&lt;/li&gt;
-	&lt;li&gt;You will also work in close tandem with other 3D leads in order to understand the functioning of the teams and collaborate towards the product roadmap.&lt;/li&gt;
-	&lt;li&gt;Manage, plan and improve the process flow of the team working on the production of the datasets.&lt;/li&gt;
+&lt;a href=&quot;https://career.arzooo.com/jobs/3lbikUc7sf6e/frontend-developer-ii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Frontend DFrontend Developer III</title><link href="http://localhost:4000/it/2022/07/01/arzooo05/" rel="alternate" type="text/html" title="arzooo - Frontend DFrontend Developer III" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo05</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo05/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
 
-	&lt;li&gt;Understand and identify the best software and workflow for smooth, fast and timely delivery of the datasets.&lt;/li&gt;
-	&lt;li&gt;Be responsible for driving the conversion of 2D apparel images into 3D and get those rendered as training datasets.&lt;/li&gt;
-	&lt;li&gt;Be responsible for day-to-day activities and productivity of the team.&lt;/li&gt;
-	&lt;li&gt;Understand and resolve the efficiency and scalability issues.&lt;/li&gt;
-	&lt;li&gt;Research and keep the team updated with the latest trends and developments in the fashion industry, especially related to 3D, AR, XR.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
 
-&lt;p&gt;Job Requirements&lt;/p&gt;
-&lt;p&gt;Are you a dreamer who believes in the endless possibilities of AI and deep learning? Do you want to shape the future of digital commerce? Are you looking to reimagine how consumers interact with brands? Are you looking to board the next rocketship? Then Avataar is your next destination and a once in a lifetime opportunity!
+&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
 
-Avataar.Me is looking to hire a sharp, personable, highly-organized Team Lead to take ownership of various project deliveries and support the R&amp;D team. This is an opportunity to work with a stellar platform design, product, and engineering team and gain first-hand experience in delivering a product experience.
-
-The position will be based in Bangalore and you will be a part of the 3D Platform Delivery team and will report directly to the VP - Platform Delivery.&lt;/p&gt;
-
-&lt;p&gt;What we look for:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Graduate, preferably from a top-tier design college.&lt;/li&gt;
-	&lt;li&gt;Someone with knowledge of apparel CAD and 3D software like Clo3D, Marvellous Designer, Maya, etc.&lt;/li&gt;
-	&lt;li&gt;Should have knowledge and understanding of garment patterns and garment construction.&lt;/li&gt;
-	&lt;li&gt;Should be well-versed with the jargons and vocabulary used in the fashion industry.&lt;/li&gt;
-	&lt;li&gt;Should have at least 2 years prior experience of leading a team of at least 5 people.&lt;/li&gt;
+	&lt;li&gt;Develop, and curate the web and app-based interfaces that thousands of Arzooo customers interact with on a daily basis.&lt;/li&gt;
+ 	&lt;li&gt;Managing end to end development from the frontend perspective.&lt;/li&gt;
+ 	&lt;li&gt;Build reusable code and libraries for future use.&lt;/li&gt;
+ 	&lt;li&gt;Ensure the technical feasibility of UI/UX designs.&lt;/li&gt;
+ 	&lt;li&gt;Ensure captured data validation to the best standards.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/lead-manager-ai-data&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><summary type="html">Job Responsibilities: As a leader of the AI Data team, you will be responsible for the team development, forming robust structures and frameworks for better productivity and leading the team in a way that aligns with the values and vision of the organization. You will also work closely with the R&amp;D team in order to ensure timely and uninterrupted creation of the training datasets. You will be responsible for driving the initiatives and workflow on a day-to-day basis. You will also be responsible for the curation of trendy and aesthetic apparel from internet databases and approval after the team converts those into 3D assets.</summary></entry><entry><title type="html">avataar - 3D QA Manager - Platform Delivery</title><link href="http://localhost:4000/support/2022/07/01/avataar07/" rel="alternate" type="text/html" title="avataar - 3D QA Manager - Platform Delivery" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar07</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar07/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
-&lt;p&gt;We are seeking a highly motivated, self-directed, enthusiastic, 3D QA Manager to join our team in Bangalore. The ideal candidate would be well-versed in photo realism, with a background in modelling, lighting, UV unwrapping, rendering and who demonstrates photo-realistic asset creation of real-world objects. This position requires intrinsic design abilities, digital expertise, and acute attention to detail. The ability to manage multiple projects, communicate with key stakeholders and collaborate with production artists across nodes is essential. The ideal candidate will be accomplished in working with a variety of 2D and 3D software packages and demonstrate the ability to raise the quality bar in assessing the objects.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Determining quality metrics, performing regular analysis of key process indicators in 3D design&lt;/li&gt;
-	&lt;li&gt;Develop and execute project-specific QA/QC plans, ensure strict adherence to platform compliance requirements at all times&lt;/li&gt;
-	&lt;li&gt;Achieve platform quality operational objectives by identifying opportunities for process improvements and recommending strategic solutions&lt;/li&gt;
-	&lt;li&gt;Assess 3D QA associates performance, identify areas of improvement and tailor development plans/activities&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of HTML5 CSS3 CSS preprocessors (LESS/SASS).&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of ReactJs and JavaScript.&lt;/li&gt;
+	&lt;li&gt;Familiarity with React Native is a plus.&lt;/li&gt;
+	&lt;li&gt;Knowledge of SPAs and build tools (like webpack, parcel etc. ).&lt;/li&gt;
+
+	&lt;li&gt;Proficient understanding of code versioning tools, such as GIT.&lt;/li&gt;
+	&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
+	&lt;li&gt;Experience with performance optimisation of applications.&lt;/li&gt;
+	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
+
+	&lt;li&gt;Excellent problem-solving ability and desire to learn new technologies and platforms.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements&lt;/h2&gt;
-&lt;p&gt;&lt;b&gt;What we are looking for&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/oxd_08GvXz5t/frontend-developer-iii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - SDET II/III</title><link href="http://localhost:4000/it/2022/07/01/arzooo06/" rel="alternate" type="text/html" title="arzooo - SDET II/III" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo06</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo06/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;8+ years of professional experience working in a fast-paced 3D production or 3D QA environment.&lt;/li&gt;
-	&lt;li&gt;Minimum 4 years of relevant experience of leading/managing design team(s) in 3D&lt;/li&gt;
-	&lt;li&gt;Well versed with design software like Maya, Zbrush, Photoshop and Substance Painter.&lt;/li&gt;
-	&lt;li&gt;Adept with technical art production and end-to-end modelling - UV unwrapping, texturing and rendering&lt;/li&gt;
-	&lt;li&gt;Proficient in conducting root cause analysis and suggesting corrective and preventive actions&lt;/li&gt;
-	&lt;li&gt;Excellent written and verbal communication and presentation skills&lt;/li&gt;
-	&lt;li&gt;General Project Management - experience in creating, documenting &amp; refining processes&lt;/li&gt;
+	&lt;li&gt;Designing and implementing an automated test suite for various platform capabilities.&lt;/li&gt;
+ 	&lt;li&gt;Thoroughly testing various input combinations for any given API.&lt;/li&gt;
+ 	&lt;li&gt;Understanding and assuring a high standard for the platform at all times.&lt;/li&gt;
+ 	&lt;li&gt;Working closely with the product and engineering team.&lt;/li&gt;
+ 	&lt;li&gt;Participating actively in the recruitment and nurturing of QAs as awesome as you.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;b&gt;Preferred Qualifications&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Demonstrates 3D technical leadership and develops innovative solutions to improve platform quality&lt;/li&gt;
-	&lt;li&gt;Build, manage and maintain a high-performance culture among teams of 3D QA leads and 3D QA associates.&lt;/li&gt;
-	&lt;li&gt;Strong escalation management experience with multiple stakeholders including business operations and product teams&lt;/li&gt;
-	&lt;li&gt;Be accountable for developing and maintaining standard KPIs and delivering SLAs&lt;/li&gt;
-	&lt;li&gt;Ability to plan, prioritize and execute in fast-moving delivery sprints&lt;/li&gt;
+	&lt;li&gt;Experience - 3+ years.&lt;/li&gt;
+	&lt;li&gt;The ideal candidate should be able to: Write clean, elegant code.&lt;/li&gt;
+	&lt;li&gt;Solve complex problems while handling ambiguity.&lt;/li&gt;
+	&lt;li&gt;Manage his/her deliverables with a strict commitment to the project deadlines.&lt;/li&gt;
+
+	&lt;li&gt;Review and promote best coding practices among peers.&lt;/li&gt;
+	&lt;li&gt;Clearly, communicate his/her ideas and help train other team members.&lt;/li&gt;
+	&lt;li&gt;Experience in manual testing and automation testing.&lt;/li&gt;
+	&lt;li&gt;Has a solid grasp of programming fundamentals with proficiency in NodeJS/ any scripting language&lt;/li&gt;
+	&lt;li&gt;Can understand and write SQL queries.&lt;/li&gt;
+	&lt;li&gt;Good at understanding Automation tools like QTP, Selenium.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/qa-manager-platform-delivery&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><summary type="html">Job Responsibilities: We are seeking a highly motivated, self-directed, enthusiastic, 3D QA Manager to join our team in Bangalore. The ideal candidate would be well-versed in photo realism, with a background in modelling, lighting, UV unwrapping, rendering and who demonstrates photo-realistic asset creation of real-world objects. This position requires intrinsic design abilities, digital expertise, and acute attention to detail. The ability to manage multiple projects, communicate with key stakeholders and collaborate with production artists across nodes is essential. The ideal candidate will be accomplished in working with a variety of 2D and 3D software packages and demonstrate the ability to raise the quality bar in assessing the objects.</summary></entry><entry><title type="html">avataar - Senior Manager - Customer Delivery &amp;amp; Success</title><link href="http://localhost:4000/support/2022/07/01/avataar08/" rel="alternate" type="text/html" title="avataar - Senior Manager - Customer Delivery &amp;amp; Success" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar08</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar08/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
-&lt;p&gt;This is a high visibility and pivotal role that will work closely with every area of Avataar from our Platform delivery, Engineering to Product and Finance teams.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
 
-&lt;p&gt;&lt;b&gt;What you will do:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/oxd_08GvXz5t/frontend-developer-iii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Senior Devops Engineer</title><link href="http://localhost:4000/it/2022/07/01/arzooo07/" rel="alternate" type="text/html" title="arzooo - Senior Devops Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo07</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo07/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;As a Cloud Engineer, you operate our Ecom. Infra ecosystem. The role is a blend of system and software engineering where some coding and automation are essential. You embody the philosophies of DevOps with a greater focus on measuring and achieving reliability through engineering and operations work.&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Bring a true passion for building and shipping products and features to make your customers win and drive ROI outcomes.&lt;/li&gt;
-	&lt;li&gt;Own end to end delivery process while ensuring best of quality and timelines for all projects.&lt;/li&gt;
-	&lt;li&gt;Collaborate with cross-functional teams, develop scope, deliverables, project plans for new initiatives.&lt;/li&gt;
-	&lt;li&gt;Help drive revenue growth within accounts through cross-sell and up-sell.&lt;/li&gt;
-	&lt;li&gt;Clearly communicate vision, roadmap, and impact for your particular accounts to a spectrum of audiences, from internal stakeholders to the executive team.&lt;/li&gt;
+	&lt;li&gt;Your tasks will be designing, developing and improving our next-generation infrastructure.&lt;/li&gt;
+	&lt;li&gt;Migrating applications to the new infrastructure and working closely with the Dev and QA teams&lt;/li&gt;
+	&lt;li&gt;Resolve and automate production issues, while also providing rostered on-call support.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements&lt;/h2&gt;
-&lt;p&gt;This position requires a candidate with the proven ability to drive process improvements and the ability to keep pace with our explosive growth while motivating others to meet the challenges of an extremely deadline-driven environment.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Education: MBA from top-tier B-school.&lt;/li&gt;
-	&lt;li&gt;Professional experience: 5+ years of experience in any top tier strategy consulting firm or Start-ups in business operations functions.&lt;/li&gt;
-	&lt;li&gt;Communication: Strong executive presence and demonstrated ability to influence and persuade senior leadership. Excellent interpersonal skills and transparent collaborative working style.&lt;/li&gt;
-	&lt;li&gt;Superior organizational skills with the ability to juggle many tasks without losing sight of the highest priority items.&lt;/li&gt;
-	&lt;li&gt;&lt;b&gt;Hustle:&lt;/b&gt; Passion to work in a start-up culture with experience of working in a fast-paced growing team setup and ability to get things done.&lt;/li&gt;
-	&lt;li&gt;&lt;b&gt;Drive:&lt;/b&gt; Persistence and resilience coupled with story-telling ability and excited to evangelize a new technology painting a vision for clients, partners and internal teams.&lt;/li&gt;
-	&lt;li&gt;&lt;b&gt;Humility and quick learner:&lt;/b&gt; Down to earth, open to suggestions, investing the time and energy to understand the product and ready to get your hands dirty with whatever the team needs to succeed.&lt;/li&gt;
+	&lt;li&gt;Develop, maintain and administer tools which will automate operational activities and improve engineering productivity&lt;/li&gt;
+ 	&lt;li&gt;Automate continuous delivery and on-demand capacity management solutions&lt;/li&gt;
+ 	&lt;li&gt;Developing configuration and infrastructure solutions for internal deployments&lt;/li&gt;
+ 	&lt;li&gt;Troubleshooting, diagnosing and fixing software issues&lt;/li&gt;
+ 	&lt;li&gt;Updating, tracking and resolving technical issues&lt;/li&gt;
+
+ 	&lt;li&gt;Suggesting architecture improvements, recommending process improvements&lt;/li&gt;
+ 	&lt;li&gt;Evaluate new technology options and vendor products.&lt;/li&gt;
+ 	&lt;li&gt;Ensuring critical system security through the use of best in class security solutions&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/manager-senior-manager-customer-delivery-success-non-tech&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="2-5" /><summary type="html">Job Responsibilities: This is a high visibility and pivotal role that will work closely with every area of Avataar from our Platform delivery, Engineering to Product and Finance teams.</summary></entry><entry><title type="html">avataar - Associate - CEO’s Office</title><link href="http://localhost:4000/support/2022/07/01/avataar09/" rel="alternate" type="text/html" title="avataar - Associate - CEO’s Office" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar09</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar09/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
-&lt;p&gt;As an Associate, you shall be working closely with the CEO's office with a comprehensive exposure and learning of various facets of all departments within the organization. You will have an immediate impact on the company’s culture, productivity and will be responsible to streamline strategic initiatives, oversee program management, and communicate objectives between teams.&lt;/p&gt;
-
-&lt;p&gt;This would be a high visibility role.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Core Responsibilities:&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Closely assist in building a culture driven organization.&lt;/li&gt;
-	&lt;li&gt;Act as a business evangelist with internal and external stakeholders.&lt;/li&gt;
-	&lt;li&gt;Help execute large cross- functional, organization- wide projects or initiatives; bring together important stakeholders and help drive outcomes.&lt;/li&gt;
-	&lt;li&gt;Collaboration, communication and support across people and teams to plan and implement a high performing work environment.&lt;/li&gt;
-	&lt;li&gt;Manage communication between management and employees, liaising with internal and external executives on various projects and tasks.&lt;/li&gt;
+	&lt;li&gt;7+ years of technical experience or in a similar role supporting large scale production systems&lt;/li&gt;
+	&lt;li&gt;Familiar with cloud services such as AWS&lt;/li&gt;
+	&lt;li&gt;Experience in distributed environments&lt;/li&gt;
+	&lt;li&gt;Experience with tools such as Docker, Kubernetes, Kafka, Elasticsearch, Ansible, Terraform, etc&lt;/li&gt;
+
+	&lt;li&gt;Demonstrated programming capability in a high-level programming language such as Python, Bash or similar&lt;/li&gt;
+	&lt;li&gt;Strong command of Linux environment&lt;/li&gt;
+	&lt;li&gt;AWS certification is a plus&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/qEbURsV35BFa/senior-devops-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Senior Engineering Manager</title><link href="http://localhost:4000/it/2022/07/01/arzooo08/" rel="alternate" type="text/html" title="arzooo - Senior Engineering Manager" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo08</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo08/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;As a Cloud Engineer, you operate our Ecom. Infra ecosystem. The role is a blend of system and software engineering where some coding and automation are essential. You embody the philosophies of DevOps with a greater focus on measuring and achieving reliability through engineering and operations work.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Education: MBA from top-tier B-school.&lt;/li&gt;
-	&lt;li&gt;Professional Experience: 3+ years of work experience in strategy consulting firm.&lt;/li&gt;
-	&lt;li&gt;Strong relationships building skills; prior experience managing stakeholders and partners to drive cross-functional programs.&lt;/li&gt;
-	&lt;li&gt;Strong analytical and problem solving mindset.&lt;/li&gt;
-	&lt;li&gt;High bias for action and ability to handle multiple time critical projects at the same time.&lt;/li&gt;
-	&lt;li&gt;Resourcefulness and resilience to navigate through ambiguity and get things done.&lt;/li&gt;
-	&lt;li&gt;Track record of ownership and tenaciously looking for ways to get results &amp; improve the status quo.&lt;/li&gt;
-	&lt;li&gt;Strong communication and interpersonal skills.&lt;/li&gt;
+	&lt;li&gt;Work with other Arzooo's leaders to design and drive the plan for Arzooo's vision.&lt;/li&gt;
+ 	&lt;li&gt;Recruit great engineers, in collaboration with Arzooo's recruiting team.&lt;/li&gt;
+ 	&lt;li&gt;Develop engineers on the team, helping them advance in their careers.&lt;/li&gt;
+ 	&lt;li&gt;Empower the engineering team to achieve a high level of technical productivity, reliability and simplicity.&lt;/li&gt;
+ 	&lt;li&gt;Contribute to engineering-wide initiatives as a member of Arzooo's engineering management team.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.avataar.me/career/analyst-cxos-office&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="0-2" /><category term="2-5" /><summary type="html">Job Responsibilities: As an Associate, you shall be working closely with the CEO's office with a comprehensive exposure and learning of various facets of all departments within the organization. You will have an immediate impact on the company’s culture, productivity and will be responsible to streamline strategic initiatives, oversee program management, and communicate objectives between teams.</summary></entry><entry><title type="html">avataar - Director - Customer Delivery &amp;amp; Success</title><link href="http://localhost:4000/support/2022/07/01/avataar10/" rel="alternate" type="text/html" title="avataar - Director - Customer Delivery &amp;amp; Success" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/07/01/avataar10</id><content type="html" xml:base="http://localhost:4000/support/2022/07/01/avataar10/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Responsibilities:&lt;/h2&gt;
-
-&lt;p&gt;&lt;b&gt;Customer Advocacy: Act as the advocate for the company&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Own the customer relationship and positively influence them towards organizational business&lt;/li&gt;
-	&lt;li&gt;Maintain high satisfaction levels / NPS scores in their customer accounts.&lt;/li&gt;
+	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
+	&lt;li&gt;A track record of leading productive engineering teams.&lt;/li&gt;
+	&lt;li&gt;Successfully recruited great people to your teams.&lt;/li&gt;
+	&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility.&lt;/li&gt;
+
+	&lt;li&gt;The desire to encourage a healthy work environment that's both supportive and challenging.&lt;/li&gt;
+	&lt;li&gt;A genuine excitement to help engineers develop new skills and advance in their careers.&lt;/li&gt;
+	&lt;li&gt;Enough technical sense to ask engineers good questions about architecture and product decisions.&lt;/li&gt;
+
+	&lt;li&gt;7+ years of relevant engineering and hands-on technical management experience.&lt;/li&gt;
+	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
+	&lt;li&gt;Strong hands-on experience in full stack development and architecture using NodeJS, MVC, microservices, UI &amp; UX (React), ORM tool (Sequelize), CICD tools (Git, Jenkins, AWS).&lt;/li&gt;
+	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;b&gt;Seamless Delivery: Ensure quality deliverables as per committed timelines&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/qEbURsV35BFa/senior-devops-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Software Developer SDE II</title><link href="http://localhost:4000/it/2022/07/01/arzooo09/" rel="alternate" type="text/html" title="arzooo - Software Developer SDE II" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo09</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo09/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+
+&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Manage client deliverables while overseeing internal team delivery to meet client expectations.&lt;/li&gt;
-	&lt;li&gt;Work with cross-functional teams to define &amp; design exact specs of the customer delivery requirements.&lt;/li&gt;
+	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
+	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
+	&lt;li&gt;Strong hands-on experience in full-stack development and architecture using NodeJS, Express (MVC, microservice), Rest API, UI &amp; UX (React), ORM tool (Sequelize), CICD tools (Git, Jenkins).&lt;/li&gt;
+	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
+
+	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
+	&lt;li&gt;Responsible for peer code review.&lt;/li&gt;
+	&lt;li&gt;Responsible for architecting, maintaining and scaling the Arzooo platform.&lt;/li&gt;
+	&lt;li&gt;Experienced in agile methodologies.&lt;/li&gt;	
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;b&gt;Drive Outcomes: Plan for and achieve RoI metrics&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+
+&lt;a href=&quot;https://career.arzooo.com/jobs/COOeYBD5SO9T/software-developer-sde-ii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Software Developer SDE III</title><link href="http://localhost:4000/it/2022/07/01/arzooo10/" rel="alternate" type="text/html" title="arzooo - Software Developer SDE III" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo10</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo10/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+
+&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+
+&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Determine key metrics for their customer account to achieve RoI outcomes.&lt;/li&gt;
-	&lt;li&gt;Gather feedback on the functionality and user experience from customers and end consumers. and work with concerned teams in partnership with the Product team to make improvements and/or fix bugs.&lt;/li&gt;
-	&lt;li&gt;Collaborate with the Engineering, Design, and Product teams at all points of the customer lifecycle to ensure that the delivery meets business outcomes.&lt;/li&gt;
+	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
+	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
+	&lt;li&gt;Strong hands-on experience in full-stack development and architecture using NodeJS, Express (MVC, microservice), Rest API, UI &amp; UX (React), ORM tool (Sequelize), CICD tools (Git, Jenkins).&lt;/li&gt;
+
+	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
+	&lt;li&gt;Responsible for peer code review.&lt;/li&gt;
+	&lt;li&gt;Responsible for architecting, maintaining and scaling the Arzooo platform.&lt;/li&gt;
+	&lt;li&gt;Experienced in agile methodologies.&lt;/li&gt;
+
+	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
+	&lt;li&gt;Strong hands-on experience in backend stack (C++, JAVA, Golang, Python, Nodejs)&lt;/li&gt;
+	&lt;li&gt;Expertise in distributed systems &amp; architecture&lt;/li&gt;
+	&lt;li&gt;Operational excellence in performance and scalability issues&lt;/li&gt; 
+	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;b&gt;Upsell &amp; Cross-sell: Drive expansion of customer contracts&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;Upsell and/or cross-sell platform capabilities to achieve expansion in existing customer accounts.&lt;/li&gt;
-	&lt;li&gt;Maintain high renewal rates to ensure recurring revenues from their accounts.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Stakeholder management: Maintain relationships with both internal &amp; external stakeholders&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;Serve as the face of the company with the customers and act as the voice of the customers for the internal teams.&lt;/li&gt;
-	&lt;li&gt;Be accountable and communicate with the leadership for all customer account-related actions.&lt;/li&gt;
-	&lt;li&gt;Influence key stakeholders across the organization to align intent and prioritization.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Customer onboarding: Educate customers on platform capabilities&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Work with the Sales team to communicate key features of the platform to the potential customers in order to achieve closure on client acquisition.&lt;/li&gt;
-	&lt;li&gt;Partner with the customer teams in the initial stages to ensure a seamless transition onto the platform.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Job Requirements&lt;/h2&gt;
-
-&lt;p&gt;&lt;b&gt;Qualifications pertinent to this role are:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Undergrad degree in computer science, engineering, math, finance, or economics.&lt;/li&gt;
-	&lt;li&gt;Master’s degree in business from a top-tier school.&lt;/li&gt;
-	&lt;li&gt;8+ years of relevant customer management or consulting experience in a technology-focused business.&lt;/li&gt;
-	&lt;li&gt;Prior experience in managing technical products or online commerce OR Prior experience in a SaaS or consumer technology environment.&lt;/li&gt;
-	&lt;li&gt;Prior experiences in customer management/account management of Enterprise scale customers based in the US.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Core skills required for this role are:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Be consumer obsessed and come with a customer-first mindset to achieve long term strategic and business goals.&lt;/li&gt;
-	&lt;li&gt;Strong relationships building skills; experience managing stakeholders and partners to drive cross-functional programs.&lt;/li&gt;
-	&lt;li&gt;Ability to communicate clearly and effectively with different functional groups, developers, business owners, and senior business leaders.&lt;/li&gt;
-	&lt;li&gt;Ability to collaborate with and effectively influence remote teams in multiple time zones.&lt;/li&gt;
-	&lt;li&gt;Team orientation and willingness to roll up sleeves to solve complex, dynamic challenges.&lt;/li&gt;
-	&lt;li&gt;Empathetic with a genuine desire to solve customer’s problems.&lt;/li&gt;
-	&lt;li&gt;Entrepreneurial spirit, with a track record for delivering results in fast-moving and demanding environments.&lt;/li&gt;
-	&lt;li&gt;History of managing expectations in complex delivery scenarios.&lt;/li&gt;
-	&lt;li&gt;Basic level of expertise in domains of customer development, coding, UX, design, and analytics.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;a href=&quot;https://www.avataar.me/career/director-customer-delivery-success&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="0-2" /><category term="2-5" /><summary type="html">Job Responsibilities:</summary></entry></feed>
+&lt;a href=&quot;https://career.arzooo.com/jobs/QwxRK2KRa0yT/software-developer-sde-iii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Arzooo is where you belong!:</summary></entry></feed>
