@@ -41,6 +41,9 @@
 		<link rel="icon" type="image/png" href="/images/favicon.png">
 		<!--<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>-->
 		<script src="/js/simple-jekyll-search.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="https://requirejs.org/docs/release/2.3.5/minified/require.js"></script>
+		
 
 		<script type="text/javascript">
 		    (function(c,l,a,r,i,t,y){
@@ -82,9 +85,64 @@
     <p class="subtext editable">Find your perfect job among 466 opportunities at 239 startups.</p></h2>
     
     <div id="search-bar">
-    <input id="search" type="text" autocomplete="off" placeholder="Search by keyword like java, marketing, pune , 0-2 etc." />
+    <label id="search"/>
     <div id="search-result"></div>
-</div>
+</div>        
+
+<form id="flight-form" role="search" action="/search/" method="get" target="_blank" onsubmit="return setAction(this)">
+    <div id="flight-info">
+      <div class="info-box">
+        <label for="categories">CATEGORIES</label>
+        <select name="categories" id="categories">
+          <option value="it">IT / SOFTWARE DEVELOPMENT</option>
+          <option value="marketing">MARKETING / ADVERTISING</option>
+          <option value="finance">FINANCE</option>
+          <option value="design">DESIGN / UX</option>
+
+          <option value="support">BUSNIESS OPERATIONS / SUPPORT</option>
+          <option value="sales">SALES</option>
+          <option value="product">PRODUCT MANAGEMENT</option>
+          <option value="hr">HR / RECRUTING</option>
+
+          <option value="maintenance">MAINTENANCE</option>
+          <option value="intern">INTERNSHIPS</option>
+          <option value="other">OTHERS</option>
+        </select>
+      </div>
+      <div class="info-box">
+        <label for="experience">EXPERIENCE</label>
+        <select name="experience" id="experience">
+          <option value="0-2">0-2</option>
+          <option value="2-5">2-5</option>
+          <option value="5-8">5-8</option>
+          <option value="8-10">8-10</option>
+          <option value="10+">10+</option>
+        </select>
+      </div>
+      <div class="info-box">
+        <label for="location">LOCATION</label>
+        <select name="location" id="location">
+          <option value="Bangalore">Bangalore</option>
+          <option value="Pune">Pune</option>
+          <option value="Hyderabad">Hyderabad</option>
+          <option value="Pune">Pune</option>
+          <option value="Gurugram">Gurugram</option>
+          <option value="Delhi">Delhi</option>
+        </select>
+      </div>
+    </div>
+  
+    <div id="flight-search">
+      <div class="info-box">
+        <input type="submit" id="search-flight" value="SEARCH JOBS"/>
+      </div>
+    </div>
+
+</form> 
+
+<div id="confirm"></div>
+
+
 
 
     <!--<h4><a class="button alt" href="/contact/">Contact Us</a></h4>-->
@@ -834,8 +892,9 @@
 			};
 		</script>
 
-		<!--<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>-->
-<script>
+  	
+
+  	<script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search'),
       resultsContainer: document.getElementById('search-result'),
@@ -843,5 +902,67 @@
     });
   </script>
 
-	</body>
+  <script type="text/javascript">
+  	const newpaginatedJobs = [];
+  	function setAction(form) {
+  		var textValues="";
+  		let categories = form.elements[0].value;
+	  	let experience = form.elements[1].value;
+	  	let location = form.elements[2].value;
+
+	  	//alert(categories);
+	  	//alert(experience);
+	  	//alert(location);
+	  	$.getJSON('/search.json', (data) => {
+	  	//console.log(data[0]);
+	  	const paginatedJobs = [];
+	  	//const newpaginatedJobs =[];
+	  	for (var key in data) {
+				if (data.hasOwnProperty(key)) {
+		        var item = data[key];
+		        //console.log("item+=" , item);
+		        paginatedJobs.push({
+		        	title: item.title,
+		            location: item.subtitle,
+		            categories: item.categories,
+		            tags: item.tags,
+		            url: item.url,
+		            content: item.content,
+		            date: item.date
+		        });            
+		    }
+		 }
+		
+		for(var item=0; item<paginatedJobs.length-1;item++) {
+			var locationValue;
+			if (paginatedJobs[item].location !== undefined) {
+				locationValue = paginatedJobs[item].location.toLowerCase();
+				categoriesValue = paginatedJobs[item].categories.toLowerCase();
+				tagsValue = paginatedJobs[item].tags.toLowerCase();
+				if ((locationValue.includes(location.toLowerCase())) && (categoriesValue.includes(categories.toLowerCase())) && (tagsValue.includes(experience.toLowerCase())))
+				{
+					textValues += '<div"><h2 class="card-title">' + paginatedJobs[item].title + '</h2>' + '<p></p>' + 
+									'<h8>' + paginatedJobs[item].content.replace(/<(.|\n)*?>/g, '').substring(0,200)+ "..." + '</h8><p></p>'+
+									'<h8 class="card-text read-more heading-header"><a href="'+ window.location.origin + paginatedJobs[item].url + '"> Read more <i class="fa fa-xs fa-hover fa-chevron-right" aria-hidden="true"></i> </a> </h8></div><p></p>'
+
+
+									//paginatedJobs[item].subtitle + paginatedJobs[item].categories +
+									//paginatedJobs[item].tags + paginatedJobs[item].url + paginatedJobs[item].content +
+									//	paginatedJobs[item].date;
+					//console.log(paginatedJobs[item]);
+					//newpaginatedJobs.push(paginatedJobs[item]);
+				}
+			}
+		}
+		console.log(textValues);
+	  	localStorage.setItem("myValue", textValues);
+		});
+
+	  	
+    }
+  </script>
+
+ 
+
+ </body>
 </html>
