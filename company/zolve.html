@@ -1,0 +1,64 @@
+---
+layout: default
+title: zolve Jobs
+subtitle: See some of our proud customers with exemplary results.
+---
+{% assign sales = site.pages | where: "path", "sales.html" | first %}
+<section class="hero diagonal">
+  <div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
+    {% if page.heading %}
+      <h2>{{ page.heading }}</h2>
+    {% elsif page.title %}
+      <h2>{{ page.title }}</h2>
+    {% endif %}
+    {% if page.subtitle %}
+      <p class="subtext">{{ page.subtitle }}</p>
+    {% endif %}
+  </div>
+  
+</section>
+
+<section class="diagonal">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-8 mx-auto">
+
+        {% for post in site.posts %}
+        {% if post.title contains 'zolve' or post.title contains 'Zolve' %}  
+          <div class="card my-2 mx-3">
+            <div class="card-body p-5">
+                  <h3 class="card-title">{{ post.title }}</h3>
+                  <p></p>
+                  <p></p>
+                  <h8 class="card-text heading-header">
+                      {% if post.description %}
+                          {{ post.description }}
+                      {% else %}
+                          {{ post.content | strip_html | truncatewords: 50 }}
+                      {% endif %}
+                  </h8>
+                  <h8 class="card-text read-more heading-header">
+                      <a href="{{ post.url | relative_url }}">
+                          Read more <i class="fa fa-xs fa-hover fa-chevron-right" aria-hidden="true"></i>
+                      </a>
+                  </h8>
+              </div>
+          </div>
+            {% endif %}
+      
+        {% endfor %}
+
+        <!-- Pager -->
+        <div class="clearfix">
+          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+        </div>
+
+      </div>
+
+      <div class="col-md-4 py-3">
+        {% include companylist.html %}
+      </div>
+      
+    </div>
+  </div></div>
+</section>
