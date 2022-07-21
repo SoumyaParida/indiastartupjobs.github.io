@@ -6,11 +6,11 @@ navigation: True
 ---
 
 </br>
-<section class="hero diagonal patterned">
+<section class="hero diagonal patterned" style="background-image: url('{{ site.baseurl }}/images/headerImage.jpg');">
   <div class="container">
-    <h2 class="heading-header">JOIN A STARTUP
+    <h2 class="heading-header" style="text-align: center;">JOIN A STARTUP</h2>
       <p></p><p></p>
-    <p class="subtext editable">Find your perfect job among 466 opportunities at 239 startups.</p></h2>
+    <h3 class="subtext editable" style="text-align: center;"><b>Find your perfect job among 233 opportunities at 239 startups.</b></p></h3>
     
     {% include searchbar.html %}
 
@@ -33,17 +33,17 @@ navigation: True
       &nbsp;&nbsp;
       <a href="{{ site.baseurl }}/design/" class="pricing-button alt">DESIGN / UX &rarr;</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/support/" class="pricing-button alt">BUSNIESS OPERATIONS / SUPPORT &rarr;</a></h7>
-      &nbsp;&nbsp;
       <a href="{{ site.baseurl }}/sales/" class="pricing-button alt">SALES &rarr;</a></h7>
+      &nbsp;&nbsp;
+      <a href="{{ site.baseurl }}/support/" class="pricing-button alt">BUSNIESS OPERATIONS / SUPPORT &rarr;</a></h7>
       &nbsp;&nbsp;
       <a href="{{ site.baseurl }}/product/" class="pricing-button alt">PRODUCT MANAGEMENT &rarr;</a></h7>
       &nbsp;&nbsp;
       <a href="{{ site.baseurl }}/hr-recruiting/" class="pricing-button alt">HR / RECRUTING &rarr;</a></h7>
       &nbsp;&nbsp;
-      </br>
-      <a href="{{ site.baseurl }}/maintenance/" class="pricing-button alt">MAINTENANCE &rarr;</a></h7>
+       <a href="{{ site.baseurl }}/maintenance/" class="pricing-button alt">MAINTENANCE &rarr;</a></h7>
       &nbsp;&nbsp;
+      </br>
       <a href="{{ site.baseurl }}/internships/" class="pricing-button alt">INTERNSHIPS &rarr;</a></h7>
       &nbsp;&nbsp;
       <!--<h7 class="pricing-button"><a href="{{ site.baseurl }}/freelance/">FREELANCE &rarr;</a></h7>
@@ -58,7 +58,7 @@ navigation: True
 <section class="hero">
   <div class="container halves">
     <div>
-       <h3>FEATURED JOBS</h3>
+       <h3 class="heading-header" style="text-align: center;">FEATURED JOBS</h3>
        <h4 class="pricing-features">IT / SOFTWARE DEVELOPMENT</h4>
           <table style="width:100%">
           {% for post in site.categories['topit'] %}
