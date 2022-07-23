@@ -518,6 +518,83 @@
     } ,
   
     {
+      "title"    : "smallcase - DevOps Engineer-Tickertape (Remote)",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/smallcase07/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>Tickertape is disrupting the investments sector by bringing in a fresh approach to analysis and tracking. Our mission is to bring sophisticated tools to retail users in an intuitive and approachable manner</p>\n\n<p>We’ve grown rapidly over the past 12 months. With a monthly active user base which is north of 30 lakhs and over 3 crore monthly sessions, we’ve carved a niche out in a retail investor’s tool-set. Our Android app, launched in Feb '20 has had 35 lakhs installs so far with a cumulative user rating of 4.5</p>\n\n<p>The future is extremely bright, as we look to increase and improve our offerings. There are a lot of things in the pipeline and we’re looking for folks who are industry-creators to help us build them. Altering the paradigm is what we think about every day.</p>\n\n<p>We are looking for experienced DevOps/infra engineers to join our core engineering team for building and scaling low latency, fault tolerant and robust systems corresponding to real world financial markets</p>\n\n<h2 class=\"section-heading\">Responsibilities</h2>\n\n<ul>\n\t<li>Design and develop databases for real-time, high availability financial data</li>\n\t<li>Architecting solutions for new features and working along with product teams to fulfill their requirements</li>\n\t<li>Create, improve and scale microservices infrastructure, manage servers (AWS) and other AWS resources etc.</li>\n\t<li>Developing and improving K8s architecture, securing and scaling applications in a containerized environment</li>\n\t<li>Ensure the performance and security of the application/systems.</li>\n\t<li>Implement GitOps with robust CI/CD pipelines.</li>\n</ul>\n\n<h2 class=\"section-heading\">Requirements:</h2>\n<ul>\n\t<li>Strong systems architecture, database and network fundamentals. </li>\n\t<li>Strong experience in building CI/CD pipelines, enabling Devops for scaling and automating the  existing infra with tools like Ansible, Jenkins, ArgoCD, ArgoWorkflow, CodeDeploy.</li>\n\t<li>Experience with designing infra using IaaC (Infrastructure as a code) tools like AWS CDK, CDK8s, Terraform, Helm and Cloudformation.</li>\n\t<li>Experience with running services in K8s cluster, managing and securing K8s clusters. </li>\n\t<li>Knowledge/Experience with setting up/optimising monitoring and metrics stack using EFK(ES, Fluentd, Kibana) and Metrics(Prometheus, Alertmanager, Grafana).</li>\n\t<li>Familiarity with databases - (MongoDB, Postgres, Redis, InfluxDB), Scripting (bash, python, Go etc).</li>\n\n\t<li>Web development concepts - server architecture.</li>\n\t<li>Experience with AWS Infra (EC2, ELB, ALB, S3, VPC, Cloudfront, Route53, VPN ).</li>\n\t<li>Interest and experience in building secure, robust, scalable and maintainable software.</li>\n</ul>\n\n<h2 class=\"section-heading\">Good to-have's:</h2>\n<ul>\n\t<li>Open to learning open source tools and automating processes.</li>\n\t<li>Interest (and/or experience) in the financial/stock market space. </li>\n\t<li>Knowledge of (or experience with) Cloud and API security, especially AWS (IAM, KMS, WAF).</li>\n\t<li>Knowledge of Service Mesh and K8s networking</li>\n</ul>\n\n<a href=\"https://smallcase.freshteam.com/jobs/vdSWgw_lMEtx/devops-engineer-tickertape-remote\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "smallcase - DevOps Engineer",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/smallcase06/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>We’re looking for an analytical, result- driven Backend engineers who will work with team members to troubleshoot and improve current back-end applications and processes.</p>\n\n<h2 class=\"section-heading\">Responsibilities</h2>\n\n<ul>\n\t<li>Design and develop databases for real-time, high availability financial data</li>\n\t<li>Architecting solutions for new features and working along with product teams to fulfill their requirements</li>\n\t<li>Create, improve and scale microservices infrastructure, manage servers (AWS) and other AWS resources etc.</li>\n\t<li>Developing and improving K8s architecture, securing and scaling applications in a containerized environment</li>\n\t<li>Ensure the performance and security of the application/systems.</li>\n\t<li>Implement GitOps with robust CI/CD pipelines.</li>\n</ul>\n\n<h2 class=\"section-heading\">Requirements:</h2>\n<ul>\n\t<li>Strong systems architecture, database and network fundamentals. </li>\n\t<li>Strong experience in building CI/CD pipelines, enabling Devops for scaling and automating the  existing infra with tools like Ansible, Jenkins, ArgoCD, ArgoWorkflow, CodeDeploy.</li>\n\t<li>Experience with designing infra using IaaC (Infrastructure as a code) tools like AWS CDK, CDK8s, Terraform, Helm and Cloudformation.</li>\n\t<li>Experience with running services in K8s cluster, managing and securing K8s clusters. </li>\n\t<li>Knowledge/Experience with setting up/optimising monitoring and metrics stack using EFK(ES, Fluentd, Kibana) and Metrics(Prometheus, Alertmanager, Grafana).</li>\n\t<li>Familiarity with databases - (MongoDB, Postgres, Redis, InfluxDB), Scripting (bash, python, Go etc).</li>\n\n\t<li>Web development concepts - server architecture.</li>\n\t<li>Experience with AWS Infra (EC2, ELB, ALB, S3, VPC, Cloudfront, Route53, VPN ).</li>\n\t<li>Interest and experience in building secure, robust, scalable and maintainable software.</li>\n</ul>\n\n<h2 class=\"section-heading\">Good to-have's:</h2>\n<ul>\n\t<li>Open to learning open source tools and automating processes.</li>\n\t<li>Interest (and/or experience) in the financial/stock market space. </li>\n\t<li>Knowledge of (or experience with) Cloud and API security, especially AWS (IAM, KMS, WAF).</li>\n\t<li>Knowledge of Service Mesh and K8s networking</li>\n</ul>\n\n<a href=\"https://smallcase.freshteam.com/jobs/r6YdfZM_BXiX/devops-engineer\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "smallcase - Backend Engineer",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/smallcase05/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>We’re looking for an analytical, result- driven Backend engineers who will work with team members to troubleshoot and improve current back-end applications and processes.</p>\n\n<h2 class=\"section-heading\">Responsibilities</h2>\n\n<ul>\n\t<li>Design and develop databases for real-time, high availability financial data</li>\n\t<li>Will be working with MongoDB, Redis, Javascript, Node.js</li>\n\t<li>Architect and build the backend for corresponding web service (Nodejs and related frameworks)</li>\n\t<li>Create microservices and tools, manage servers (AWS), create reports etc.</li>\n</ul>\n\n<h2 class=\"section-heading\">Requirements:</h2>\n\n<ul>\n\t<li>Must to have 3+ years of Software Development experience</li>\n\t<li>Strong systems, architecture and database fundamentals.</li>\n\t<li>Prior experience with Javascript (Node.js), MongoDB</li>\n\t<li>Web development concepts - basics of REST APIs, server architecture</li>\n\t<li>Interest in building things from scratch and be a decision maker here</li>\n\t<li>Interest (and/or experience) in the financial/stock market space - interest trumps experience!</li>\n</ul>\n\n<a href=\"https://smallcase.freshteam.com/jobs/nCyDDGyJinn8/backend-engineer\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "smallcase - Talent Acquisition Executive",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;hr&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/hr/2022/07/01/smallcase04/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>Launched in 2016, smallcase is building a modern investing ecosystem - better investment products & technology platforms for the Indian capital markets - serving over 1.5M individual investors & India's most trusted & respected financial brands. We are a young, passionate 140+ member team headquartered in Bangalore & are backed by top-tier investors. smallcase has also been recognised in the ecosystem & media as a innovator & change agent</p>\n\n<h2 class=\"section-heading\">Role</h2>\n\n<p>A thorough professional who is committed to deliver desired results across Talent Acquisition functions like, Scouting most talented Tech and Non-Tech Talent. Good insights in creating and maintaining dynamic reports along with strong presentation skills. This role also involves working towards employer branding initiatives.</p>\n\n<h2 class=\"section-heading\">Skills and Qualifications</h2>\n\n<ul>\n\t<li>2 - 4 Years of experience in End to End Talent Acquisition Life Cycle</li>\n\t<li>Previous experience working in a Startup Product Development company is an advantage.</li>\n\t<li>Being effective in screening, sourcing, scheduling and coordinating is key to this role</li>\n\n\t<li>Awareness of different Talent Sourcing channels is highly desirable. </li>\n\t<li>Ability to understand Complex JD’s, integrating well with the company's culture and value system are good to have. </li>\n\t<li>Research and think through employer branding initiatives and help in implementing such programs and work towards measuring the effectiveness of the program.</li>\n\t<li>Adaptability to ATS, working towards utilisation of the ATS for maximum outcome while creating and presenting reports which are more accurate and presentable to the management.</li>\n\t<li>Any degree is fine, having an eye for detail and being good with numbers is more important</li>\n</ul>\n\n<a href=\"https://smallcase.freshteam.com/jobs/LGFcERJ-5UPd/talent-acquisition-executive\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "smallcase - Executive Talent Acquisition - Tickertape",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;hr&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/hr/2022/07/01/smallcase03/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>Tickertape was incubated inside smallcase, and is a subsidiary of smallcase. We have a dedicated 50 member team which works independently on the product across different functions. Ticketape has its own budget, pipeline and feature roadmap. With 35 lakhs monthly active users, TT is growing at a substantial rate, growing about 80% on quarter to quarter basis. Please do visit our website for more details and also our mobile app Tickertape.</p>\n\n<h2 class=\"section-heading\">Responsibilities</h2>\n\n<ul>\n\t<li>Source candidates using a variety of search methods to build a robust candidate pipeline</li>\n\t<li>Screen candidates by reviewing resumes and job applications, and performing phone screenings</li>\n\t<li>Take ownership of candidate experience by designing and managing it, Develop job postings, job descriptions, and position          requirements</li>\n\n\t<li>Perform reference checks as need</li>\n\t<li>Facilitate the offer process by extending the offer and negotiating employment terms</li>\n\t<li>Stay abreast of recruiting trends and best practices</li>\n\t<li>Manage the overall interview, selection, and closing process</li>\n\t<li>Ensure all screening, hiring, and selection is done in accordance with employment laws and regulations</li>\n</ul>\n\n<h2 class=\"section-heading\">Requirements</h2>\n\n<ul>\n\t<li>Bachelors degree in any field </li>\n\t<li>2-5 years of recruiting experience preferred in Technology</li>\n\t<li>Ability to communicate effectively, both orally and in writing</li>\n\t<li>Demonstrated ability to establish effective and cooperative working relationships built on trust</li>\n\n\t<li>Excellent organisational and time management skills</li>\n\t<li>Comfortable making decisions independently</li>\n\t<li>Working knowledge of applicant tracking and HRIS systems</li>\n\t<li>Ability to manage a wide range of relationships with a variety of stakeholders</li>\n\n\t<li>Proficient in Microsoft Office.</li>\n\t<li>Working knowledge of interview techniques and applicant screening methods</li>\n\t<li>Deep understanding of employment laws and regulations</li>\n\t<li>Familiar with a wide variety of sourcing avenues</li>\n</ul>\n\n<h2 class=\"section-heading\">Culture at Smallcase</h2>\n\n<p>We are not just building a business - we are making a long-lasting impact both in the wealth & assets landscape with our unique technology & expanding ecosystem. Over the last 5 years - our team, products, and platforms have grown - and so have our ambitions.\n\nInnovation remains at the heart of what we do. Our other core values are transparency, integrity & long term thinking.\n\nOur key asset has always been our people, and we empower individuals to build and do some of their best work in their lifetimes at smallcase. Flexibility, ownership and constant feedback loops are some of the ways we keep evolving the working environment and that reflects in one of the highest employee NPS scores in the industry.</p>\n\n\n<a href=\"https://smallcase.freshteam.com/jobs/IV5ZPxYmuoCc/executive-talent-acquisition-tickertape\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "smallcase - Senior Product Designer - smallcase Publisher",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;design&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/design/2022/07/01/smallcase02/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>At smallcase, our mission is to change how India invests. We develop delightful, simple & transparent investment products and experiences for individuals to invest in stocks & ETFs. Over 3 million investors use our apps and products on a monthly basis.</p>\n\n<p>In the last 5 years, we have orchestrated a fast-growing ecosystem of 300+ large, fast-growing and ambitious brands in the capital markets ecosystem by building a unique technology platform & API layer. We are a young, innovative team of 250 headquartered in Bangalore, yet <a href=\"https://hr.economictimes.indiatimes.com/news/trends/smallcase-announces-90-wfh-option-remote-working-allowance-for-its-employees/86426349\">operate in a remote-first way.</a>\n\nSmallcase is backed by world-class investors including funds like Sequoia Capital, Blume Ventures, Faering Capital, Premji Invest, institutions like Amazon, HDFC Bank and notable individuals including Hemendra Kothari (DSP), Nithin Kamath (Zerodha), Kunal Shah (CRED), Tanmay Bhat.</p>\n\n<h2 class=\"section-heading\">Responsibilities include</h2>\n\n<ul>\n\t<li>Execute the design projects across the entire product life cycle of the smallcase Publisher platform. You collaborate and contribute to build the vision for the user experience</li>\n\t<li>Be meticulous. Be autonomous. You’ll take full ownership of your work, and you take responsibility for every last detail, every step of the way.</li>\n\t<li>Work with multi-disciplinary teams as you’ll interact closely with engineering, product, and business folks to find elegant but practical solutions to design challenges.</li>\n\n\t<li>Rapidly produce multiple concepts; knowing when to apply pixel-perfect attention to detail, and when to make low-fi sketches and prototypes.</li>\n\t<li>Test the flows, screen implementations, copy/content, to ensure the end customers’ experience is top-notch. We take that very seriously.</li>\n\t<li>Ensure all this is done and dusted in tight timeframes and constraints. That’s where we expect the problem solver in you to come up with uber-quick feasible solutions.</li>\n\t<li>Staying in the loop and on top of the latest standards, changes, trends in the fields of user-interface, user-experience, information-architecture and more.</li>\n</ul>\n\n<h2 class=\"section-heading\">Requirements</h2>\n\n<p>We are looking for highly motivated designers who thrive in an ultra-high pace work environment. You will fit in so great if you:</p>\n\n<ul>\n\t<li>Have prior experience of 3+ years crafting product experiences for multiple screen sizes & platforms </li>\n\t<li>Have an excellent sense of visual (typography, font pairings, color theory & visual hierarchy) and interaction skills (micro-interactions & animations) along with proficiency in UI and interaction design tools - Sketch / Figma / After Effects / Photoshop / etc.</li>\n\t<li>Has a stronghold on common UX patterns, UI Patterns for different platforms & form-factors</li>\n\t<li>Have a good understanding of prototyping & Information Architecture</li>\n</ul>\n\n<h2 class=\"section-heading\">Culture at Smallcase</h2>\n\n<p>We are not just building a business - we are making a long-lasting impact both in the wealth & assets landscape with our unique technology & expanding ecosystem. Over the last 5 years - our team, products, and platforms have grown - and so have our ambitions.\n\nInnovation remains at the heart of what we do. Our other core values are transparency, integrity & long term thinking.\n\nOur key asset has always been our people, and we empower individuals to build and do some of their best work in their lifetimes at smallcase. Flexibility, ownership and constant feedback loops are some of the ways we keep evolving the working environment and that reflects in one of the highest employee NPS scores in the industry.</p>\n\n\n<a href=\"https://smallcase.freshteam.com/jobs/lwvOqIxuPyCc/senior-product-designer-smallcase-publisher\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "smallcase - AVP Design - Tickertape",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;design&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/design/2022/07/01/smallcase01/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">The reason this job description was created is…</h2>\n\n<p>At Tickertape, our mission is to help everyone make informed financial decisions. And our goal is to help as many folks to discover their next great investment, track and manage it seamlessly. We believe that great design is the key to all this. We are looking for a lead designer to join us and craft beautiful experiences with us.</p>\n\n<h2 class=\"section-heading\">The most important ways to spend time doing this job are…</h2>\n\n<ul>\n\t<li>Execute design projects across the entire product lifecycle through multiple launches. You set the vision for the UX and create the space for collaboration.</li>\n\t<li>Building, leading and mentoring talented product & brand designers, assisting them with creative inputs and ideas.</li>\n\t<li>Constantly talk to or understand customers, collect & synthesize feedback and data into meaningful practical solutions</li>\n</ul>\n\n<h2 class=\"section-heading\">The 2-3 most important duties of this job are…</h2>\n\n<ul>\n\t<li>Communicating closely with multi-disciplinary teams like business, product, engineering, growth etc. to understand their problem statements & design beautiful, elegant but practical solutions.</li>\n\t<li>Produce multiple concepts/prototypes rapidly; knowing when to strive for pixel-perfection, and when to make low-fidelity sketches/prototypes.</li>\n\t<li>Bring learnings from ever-evolving processes, trends, and tools in the design industry and implement them to improve output quality and team efficiency</li>\n</ul>\n\n<h2 class=\"section-heading\">What it takes to be successful in this job (traits/characteristics)...</h2>\n\n<ul>\n\t<li>Have prior experience of 4+ years leading design teams & crafting delightful product experiences for multiple screen sizes & platforms.</li>\n\t<li>Have a great hold of user research, brainstorming, prototyping, information architecture, visual & interaction design, coding, copywriting & data analysis.</li>\n\t<li>BAre meticulous and autonomous. You’ll take full ownership of your work, and you take responsibility for every last pixel, every step of the way.</li>\n</ul>\n\n<h2 class=\"section-heading\">Simplest way to know if this job is being done well…</h2>\n\n<ul>\n\t<li>We raise the bar for NPS & our user retention metrics</li>\n\t<li>The users share valuable testimonials highlighting the macro & micro design decisions we took on behalf of our users.</li>\n\t<li>The entire team looks up to you to evangelise great design in all key decisions.</li>\n</ul>\n\n<a href=\"https://smallcase.freshteam.com/jobs/Q25CdM4cdqGN/avp-design-tickertape\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
       "title"    : "oyerickshaw - Key Account Associate",
       "subtitle"    : "Location - NEW DELHI, Work Type: Full Time",
       "categories" : "[&quot;other&quot;]",
@@ -958,6 +1035,545 @@
     } ,
   
     {
+      "title"    : "proptiger - Manager- Design",
+      "subtitle"    : "Location - Remote, India, Work Type: Full Time",
+      "categories" : "[&quot;design&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/design/2022/07/01/housing49/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n\t<li>Partner with our Design Systems team to make plans to evolve the components and styles for our internal tooling needs.</li>\n\t<li>Lead product designers by mentoring and creating career growth opportunities for those in your team.</li>\n\t<li>Advocate for our customer, and guide teams to deliver well-executed and on-brand experiences by using our design system.</li>\n\t<li>Moderating empathy research sessions</li>\n\t<li>Designing flows and digital front end feature experiences that are incredibly</li>\n\n\t<li>simple, elegant and integrated for every product we conceptualize, research, and launch</li>\n\t<li>Contributing to high-level strategic decisions with the rest of the product and executive team</li>\n\t<li>Partnering with product managers and engineers to oversee the user</li>\n\t<li>experience of a product from conception until launch</li>\n\n\t<li>Work alongside the broader Design Leadership team to craft our teams culture, processes, and tools.</li>\n\t<li>User Interaction Design (60%) The core responsibility of this role is to create the engagement experiences and interactions for our housing customers from end to end Define design roadmap, align team priorities and deliverables to the company overall strategic goals</li>\n\t<li>Help designers advocate for best practices by providing a strong voice for design within experience development</li>\n\t<li>Provide regular, direct and impactful feedback and design Critiques beyond their team.</li>\n\n\t<li>Communicate business decisions and impact metrics with other designers/ teams</li>\n\t<li>This will functionally span everything from sketching initial ideas for digital user experience flows, to creating production-ready wireframes and comps for mobile app and website experiences.</li>\n\t<li>Customer Research (30%) A key step in our ideation and strategy process will be customer research. That means writing interview scripts and talking to customers one-on-one, writing and conducting research surveys, and getting feedback on initial new product designs. This is a highly specialized skill that will be an important component of this role, but secondary to the design work.</li>\n\t<li>Intra team Strategy (10%) The teams will be highly collaborative and therefore a component of this role will be to continually participate and interact with in- house teams like Product, Tech, Analytics and Sales team for a better understanding of the product</li>\n\n\t<li>Passion for identifying and solving real consumer and business problems</li>\n\t<li>Effective articulation of ideas and design solutions.</li>\n\t<li>Tolerance for ambiguity and healthy curiosity. Think of the bigger picture, have a holistic view while also diving deep when required.</li>\n\t<li>A strong design vision with a passion for iterating in collaboration with your team</li>\n\n\t<li>Translation of quantitative & qualitative insights into design decisions.</li>\n\t<li>A fantastic storyteller who is at ease presenting to, and can influence, senior executives</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n\t<li>A portfolio which highlights strong understanding of service and interaction design</li>\n\t<li>Can efficiently use skills to develop interaction flows and needed new designs within existing and new visual systems and design languages</li>\n\t<li>8-10 years of experience in Design or equivalent experience</li>\n\t<li>Degree or Diploma in Applied Arts / Visual Communication / Graphic InDesign, After Effects are a plus.</li>\n\t<li>Proficiency in Sketch, Figma, Zeplin, Illustrator or any Visual design and Wire-framing tools</li>\n\n\t<li>Experience with front-end programming (html and css) with the ability to work closely with engineers to implement designs</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Product Manager",
+      "subtitle"    : "Location - Remote, India, Work Type: Full Time",
+      "categories" : "[&quot;product&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/housing48/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n\t<li>Determining customers' needs and desires by specifying the research needed to obtain market information.</li>\n\t<li>Recommending the nature and scope of present and future product lines by reviewing product specifications and requirements, appraising new product ideas, and/or product or packaging changes.</li>\n\t<li>Assessing market competition by comparing the company's product to competitors' products.</li>\n\t<li>Responsible for steering products throughout the innovation stage & execution cycle, focusing specifically on the expert meeting, analyzing products tweaking products for our intended customer base.</li>\n\t<li>Creating and executing product initiatives focused on driving measurable results in conversions, user engagement and traffic growth on Housing, Makaan & PropTiger website and mobile apps</li>\n\n\t<li>Working with the team to plan and drive the execution of consumer facing features</li>\n\t<li>Developing and implementing a company-wide go-to-market plan, working with all departments to execute.</li>\n\t<li>Developing detailed, crisp requirements that can be used to create product specifications and architecture for each product.</li>\n\t<li>Should be able to mentor and groom team</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n\t<li>4-6 years of hands-on product experience in delivering scalable and effective consumer Internet products.</li>\n\t<li>An experience in consumer-facing online/ mobile products equipped with a Technical undergraduate degree from tier1/ 2 institutions (an MBA degree would be an added advantage)</li>\n\t<li> Strong exposure to analytics and performance measurement tools like Google Analytics, Mixpanel, or similar Strong Customer Centricity i.e., having an emotional connection with your customer and merging objectivity in your analysis while understanding the actual problems that they face.</li>\n\t<li>HA streamlined thinking and logical depth to break down complex problems in solvable steps along with a strong bias towards swift action and hunger for results to figure out what's best for your customer- in short, \"Driver Personality with Product Judgment skills\"</li>\n\t<li>A high bar for design and product architecture- something you wish to exemplify in not only your contributions but also the products you work on.</li>\n\n\t<li>Love for Data i.e. ability to make quick decisions based on small or large sets of data and embed this as a habit in every key decision you make.</li>\n\t<li>The knack of monitoring and measuring launched products and feeding learnings back into product development process.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Product Analyst",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;product&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/product/2022/07/01/housing47/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<p>As Product Analyst, you will be part of an agile and user-centric product development team working on key product and business problems on an ongoing basis. You are expected to work with multiple stakeholders (product, technology, business, sales) and provide full support in product growth</p>\n\n<ul>\n\t<li>Responsible for delivery of precise and accurate analyses, models, dashboards and reports to tight timescales and work to resolve problems</li>\n\t<li>Work directly with product owners to understand, research and provide actionable insights</li>\n\t<li>Mine, develop and distribute industry benchmarking data</li>\n\t<li>Analyze website performance & conduct custom analyses on large datasets</li>\n\t<li>Provide tracking recommendations for analytics and product efficacy</li>\n\n\t<li>Provide analysis to deliver the New & Existing Customer Strategy driving customer acquisition online</li>\n\t<li>Management of Google Analytics and Google Tag Manager Account configurations</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n\t<li>A degree in Engineering from Tier 1 Engineering colleges Schools (IITs, NITs, IIITs, DTU, NSUT etc.)</li>\n\t<li>2 to 5 years of Experience working as Analyst in Internet Consumer or Analytics Firms</li>\n\t<li>Mid to Expert SQL Knowledge</li>\n\t<li>Hands-on experience with any language (Python, Java, R)</li>\n\t<li>In-depth experience with Google Analytics</li>\n\n\t<li>Experience with BigQuery (or a keen desire to learn)</li>\n\t<li>Experience with Reporting Tools such as Tableau (or a keen desire to learn)</li>\n\t<li>Experience in advanced web analytics methodologies such as experimentation and testing, competitive analysis, surveys and market research</li>\n\t<li>Experience in using the Microsoft Office suite with very strong Excel skills</li>\n\t<li>Excellent communication skills and ability to interact with all levels of end users and stakeholders</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Assistant Manager - Social Media",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;marketing&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/marketing/2022/07/01/housing46/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<p>To build brand’s advocacy on social media with creative conceptualization and execution of memorable campaigns</p>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n\t<li>An extensive experience in adapting the brand brief into shareable social content</li>\n\t<li>An experience in unique social media content creation, implementation, and optimization</li>\n\t<li>Ability to work with cross functional teams for end-to-end solutions</li>\n\t<li>Excellent creative thinking and communication skills, both verbal and written</li>\n\t<li>High proficiency in using social media tools like buffer/ sprout social etc.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Assistant Manager - Marketing",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;marketing&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/marketing/2022/07/01/housing45/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>Manage Housing’s paid Facebook campaigns for real estate business</li>\n\t<li>Drive the implementation of new scalable, cost-efficient campaigns and maximize ROI against key metrics (Traffic, Lead, Conversion, Reach, Brand Awareness) for both Housing’s Site/App</li>\n\t<li>Ideate and implement Growth Initiatives while working with Marketing Tech Team to help drive platform conversion or Traffic</li>\n\t<li>Monitoring, Tracking and optimizing campaigns to ensure business deliveries</li>\n\t<li>Manage internal, agency and external relationships to run campaigns across a wide array of networks and mediums</li>\n\t<li>Develop strong internal relationships with our product management and technical establishments to drive customer experience and marketing improvements on Housing’s Site/App</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n\t<li>A B.Tech/ MBA (will be an added advantage) degree with 2+ years experience of direct marketing work experience</li>\n\t<li>Deep knowledge of Facebook advertising ecosystem with hands-on experience of Facebook Business Manager</li>\n\t<li>Working knowledge of Excel, exposure to various web analytics tools (GA / Omniture), SQL etc.</li>\n\t<li>Ability to work at the strategic level (generating bold and innovative ideas for growth) and at the tactical level (managing advertising campaign execution, creating and optimizing campaigns, analyzing traffic data and solving problems)</li>\n\t<li>Proven experience in traffic generation, managing online advertising and search on behalf of an internet business in B2C space</li>\n\n\t<li>Good analytical skills, with a sound grasp of performance optimization strategies. Must be very commercially aware, having owned marketing budgets and revenue goals of significant scale</li>\n\t<li>Passion for metrics and quantitative analysis, and ability to turn analysis into actionable programs. Be able to bridge data analysis, research, competitive intelligence and marketing savvy to build efficient and scalable customer acquisition programs</li>\n\t<li>Strong drive for execution and delivering results. An ambitious self-starter with excellent follow through skills to develop ideas independently and thrive in fast-paced environment is crucial</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Security Engineer",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing44/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>Perform in-depth security assessment of web & mobile applications along with API testing.</li>\n\t<li>Demonstrate knowledge of current vulnerabilities (SQL Injection, XXE, CSRF etc) and their exploitation techniques.</li>\n\t<li>Security automation - writing & automating our own scripts & tools to improve the security posture of the organization.</li>\n\t<li>Work with cross functional teams to align and prioritise remediation efforts.</li>\n\t<li>Responsibility of performing source code review using manual & automated tools.</li>\n\t<li>Experience in working with tools such as Burp Suite, Acunetix, OWASP ZAP scanner,Nessus, Qualys etc.</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n\t<li>Strong exposure to popular application security standards including OWASP top 10, SANS Top 25 etc and knowledge of leading security practices & regulatory requirements.</li>\n\t<li>Hands-on experience of writing and deploying security scripts & tools. Understanding of programming/ scripting languages such as Python, Go, Ruby, Java etc.</li>\n\t<li>Knowledge of Risk rating standards such as CVSS, DREAD, STRIDE etc.</li>\n\t<li>Experience in working with tools such as Burp Suite, Acunetix, OWASP ZAP scanner,Nessus, Qualys etc.</li>\n\t<li>Bug Bounty experience and certification like OSCP, CompTIA Security+, will be an added advantage</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - IOS Developer",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing43/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>Research, guide, and execute iOS architecture changes</li>\n\t<li>Build reusable components with modular views, manage data on the client and tests everything</li>\n\t<li>Measure and resolve performance bottlenecks • Refactor or improve existing code</li>\n\t<li>Work closely with our product, design, and UX teams to create amazing and intuitive experiences that make it effortless to connect different apps together</li>\n\t<li>Help put tools, processes, and documentation in place to improve our code quality</li>\n\t<li>Review code written by other team members or other teams</li>\n\t<li>Work with complex and varied data structures</li>\n\t<li>Share what you know and learn either one-on-one or with lightning talks to the group</li>\n\t<li>Give back to the community via open source and blog posts</li>\n</ul>\n\n<p><b>Apply if you have</b></p>\n<ul>\n    <li>3 - 5 years of experience in iOS development having good knowledge of iOS technologies, swift language, network architecture, Swift UI, UIKit and design pattern (MVC, VIPER, MVVM)</li>\n\t<li>Experience with iOS frameworks such as Core Data, Core Animation, etc.</li>\n\t<li>Experience with offline storage, threading, and performance tuning</li>\n\t<li>Knowledge of iOS platform and OWASP security practices</li>\n\t<li>Experience with iOS development tools (XCode 10+, Cocoa Pods etc.)</li>\n\t<li>Own code quality and experience in writing extensive unit tests</li>\n\t<li>Familiarity with modern build pipelines and tools</li>\n\t<li>Proven ability to learn and adapt to new technologies and frameworks quickly</li>\n\t<li>Ability to deliver in Agile method (SCRUM)</li>\n\t<li>Excellent written communication and follow-up skills</li>\n\t<li>Experience developing and consuming REST APIs / GraphQL</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Technical Support Engineer",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing42/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<p>As a Senior Technical Support Engineer, you will be tasked with monitoring and coordinating\nwith various stakeholders i.e., Sales team, Product team and Engineering team for addressing\ncustomers’ or business concerns and identifying respective solutions.</p>\n\n<ul>\n    <li>Taking ownership of customer and sales teams’ issues and seeing problems through to resolution</li>\n\t<li>Researching, diagnosing, troubleshooting, and identifying solutions to resolve system issues</li>\n\t<li>Following procedures for proper escalation of unresolved issues to the appropriate internal teams</li>\n\t<li>Understanding of requirement specifications and absorb system knowledge in quick time</li>\n\t<li>Liasoning between Engineering, Product and Sales teams for solving sales team and customer problems</li>\n\t<li>Identify, record, document thoroughly and track bugs</li>\n\t<li>Estimate, prioritize, plan and coordinate testing activities</li>\n\t<li>Investigate the causes of non-conforming processes/functions and train users to adopt\nsolutions</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n \n\t<li>Expert level knowledge in Database and hands-on experience in developing SQLs with high level of complexities</li>\n\t<li>An ability to multi-task and ability to address multiple teams simultaneously</li>\n\t<li>An ability to prepare accurate and timely reports</li>\n\t<li>Proven work experience of being a Technical Support engineer in an online product based organization</li>\n\t<li>Familiarity with cross browser and cross platform application testing</li>\n\n\t<li>Excellent problem-solving and communication skills</li>\n\t<li>An ability to provide step-by-step technical help, both written and verbal</li>\n\t<li>Bachelors’ / Masters’ in Computer Science from a reputed institute.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Data Engineering",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing41/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>Taking responsibility of onboarding data into data lake - pulling data from master data sources, storing & processing in S3, Databricks, Snowflake & then developing reports in Tableau/ Metabase for business audience</li>\n\t<li>Working closely with business audiences to translate business requirements into technical solutions • Working on data models and analytical capabilities according to business needs and ensuring proper data governance and quality</li>\n\t<li>Maintaining high levels of development practices including: technical design, solution development, systems configuration, test documentation/execution, issue identification and resolution, writing clean, modular and self-sustaining code, with repeatable quality and predictability</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n \n\t<li>Master’s degree in computer science or equivalent working experience in software development, data engineering or related field</li>\n\t<li>2-4 years of hands-on experience in delivering data pipelines and reporting tools using technologies like AWS, Snowflake, Kafka, Spark, Databricks, Tableau, PowerBI</li>\n\t<li>Strong experience with SQL/NoSQL datastores & understanding of scripting languages like Python etc.</li>\n\t<li>Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment</li>\n\t<li>Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to engineering teams and business audiences</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - DevOps Engineer",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing40/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>CI/ CD and Configuration Management</li>\n\t<li>Doing RCA of production issues and providing resolution</li>\n\t<li>Setting up failover, DR, backups, logging, monitoring and alerting</li>\n\t<li>Containerizing different applications on Kubernetes platform</li>\n\t<li>Capacity planning of different environment's infrastructure</li>\n\t<li>Ensuring zero outage of critical services</li>\n\t<li>Database administration of SQL and NoSQL databases</li>\n\t<li>Infrastructure as a code (IaC)</li>\n\t<li>Keeping the cost of the infrastructure to the minimum</li>\n\t<li>Setting up right set of security measures</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation/post-graduation degree in Computer Science and related fields</li>\n\t<li>1.5-4 years of strong DevOps experience with Linux environment</li>\n\t<li>Strong interest to work in our tech stack with excellent communication skills</li>\n\n\t<li>Worked with minimal supervision and love to work as a self-starter</li>\n\t<li>Hands-on experience with at least 2 scripting languages- Bash, Python, Perl, Ruby etc.</li>\n\t<li>Experience with version control systems like Git and other tools like Maven, Ant, Grunt, RVM, RPM Package Manager etc.</li>\n\t<li>Strong experience of Amazon Web Services (EC2, RDS, VPC, S3, Route53, IAM etc.)</li>\n\t<li>Strong experience with managing the Production Systems day in and day out</li>\n\t<li>Experience in finding issues in different layers of architecture in production environment and fixing them</li>\n\t<li>Knowledge of SQL and NoSQL databases, ElasticSearch, Solr etc.</li>\n\t<li>Knowledge of networking, firewalls, load balancers, Nginx, Apache etc.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Software Development Engineer (SDE)/ Senior SDE- Mobile App (React Native )",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5, 5-8",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing39/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>As part of the Mobile Apps team at housing, you will get to build awesome & engaging experience for your users. Be it creating a practical yet cool UX or optimizing screen rendering time, you will get to learn & find best of solutions</li>\n\t<li>You will get to brainstorm & architect apps from scratch using best practices like Architecture components (MVVM), Reactive programming (Rx), dependency injection( Hilt) etc.</li>\n\t<li>Experience complete ownership of a module(s)</li>\n\n\t<li>Work on exciting modules like recurring engagement notifications that are triggered from the app itself or creating a seamless sharing & landing experience using dynamic links</li>\n\t<li>Since a lot of app users are returning users, you will get to create great personalized experiences by smartly managing relevant data locally</li>\n\t<li>Work & improve CI/CD, security, build size, code quality etc.</li>\n\t<li>Contribute to building a great team & culture</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>2-7 years of experience in Mobile application development domain</li>\n\t<li>A minimum 2 years of React native production level dev experience</li>\n\t<li>At least 2 React native published apps</li>\n\n\t<li>A firm grasp of the JavaScript language and its nuances, including ES6+ syntax</li>\n\t<li>An expert level knowledge of React Native, Redux, Rx & related stack</li>\n\t<li>An excellent knowledge of Tools</li>\n\t<li>Some native Android & iOS development experience (preferable)</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Software Development Engineer - Test (Automation Testing)",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing38/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>Should be proficient in preparing automation test scripts using multiple tools and frameworks</li>\n\t<li>Design and execute QA tests using scripts that automatically test End- to-End functionality (including Backend functionality)</li>\n\t<li>Can work well both individually or in a team by taking a collaborative approach to problem solving and delivery</li>\n\n\t<li>Identify bugs and quality issues in development, service or business processes</li>\n\t<li>Collaborate with other business units to understand how automation can improve workflow</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>An experience of minimum 2 years of Automation Testing using Selenium</li>\n\t<li>Proficiency in programming languages such as Java and Javascript</li>\n\t<li>An experience with framework development and automated testing of web applications or Mobile app. Deep knowledge of testing frameworks TestNG, Mocha is must</li>\n\n\t<li>Experience to automate REST APIs using Rest-Assured</li>\n\t<li>Sound knowledge of Database testing and Security testing</li>\n\t<li>Knowledge of CI/CD, Bug tracking tools like JIRA, version control system like Git is mandatory</li>\n\t<li>Excellent mathematical and problem-solving skills</li>\n\t<li>Knowledge of API monitoring tools like Kibana, Grafana etc. (desirable)</li>\n\t<li>Performance testing knowledge of backend servers using JMeter (desirable)</li>\n\t<li>Good to have knowledge of Appium (desirable)</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Software Development Engineer (SDE) / Senior SDE- Frontend",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing37/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<p><b>Responsibilities include:</b></p>\n\n<ul>\n    <li>Working collaboratively with product managers to translate requirements into reusable fast web modules</li>\n\t<li>Partnering and working closely with Backend developer for seamless API integration</li>\n\t<li>Building usable product by evaluating through the eyes of the customer; builds strong customer engagement and creates processes with customer viewpoints</li>\n\n\t<li>Developing well-written front-end code for new product features as well as maintain code and fix defects within the existing code base</li>\n\t<li>Applying best-practices and coding patterns to ensure your solutions are maintainable, modular of high code-quality and work well across browsers and devices</li>\n\t<li>We have multiple automated checks in place before your code goes live. Some important ones include bundle size, Lint errors, Lighthouse Scores, integration test suites and many more, so we expect you to be compliant with them. We want our developers to be lazy, they should be always looking for opportunities to automate anything and everything</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation/ post-graduation degree in Computer Science/ Mathematics</li>\n\t<li>1 – 5 years of strong experience and 100% hands on with Core and Object Orient Javascript</li>\n\t<li>Hands on experience with HTML and CSS</li>\n\n\t<li>An experience with ReactJs, Redux, React Router, GraphQL and Svelte</li>\n\t<li>An experience with build tools like grunt/gulp/webpack Linting, Compiling, Minifying, etc.</li>\n\t<li>An experience with best practices for JS development using jslint, testing frameworks etc</li>\n\t<li>Hands on experience with version control system preferably Git</li>\n\t<li>An experience with package managers like npm or yarn</li>\n\t<li>An experience with Cloud based development (AWS)</li>\n\t<li>An experience with micro services architecture</li>\n\t<li>An experience with Dockers</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - QA Engineer",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing36/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<ul>\n    <li>End to end Manual testing</li>\n\t<li>Comprehending Problem Statements and drawing test cases against them</li>\n\t<li>Strong data orientation along with verifying input/ output at data level</li>\n\n\t<li>Developing integration and API level testing</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>An experience of minimum 2 years of end to end Manual testing</li>\n\t<li>An experience of a minimum of a year of multi-platform, multi devices and multi browser testing</li>\n\t<li>An ability of problem statement comprehension and drawing test cases</li>\n\n\t<li>Good understanding of user experience and usability</li>\n\t<li>Strong logical thinking and data driven approach</li>\n\t<li>Working experience with service-oriented architecture/ microservices architecture</li>\n\t<li>Working experience in GitHub and tools like Postman</li>\n\t<li>An expertise in developing integration and API level testing</li>\n\t<li>An ability to write and execute SQLs (intermediate level) in MySQL</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Lead Software Development Engineer- Frontend",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing35/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p><b>What does this role hold for you…??</b></p>\n\n<p><b>Responsibilities include:</b></p>\n\n<ul>\n    <li>Working collaboratively with product managers to translate requirements into reusable fast web modules</li>\n\t<li>Partnering and working closely with Backend developer for seamless API integration</li>\n\t<li>Building usable product by evaluating through the eyes of the customer; builds strong customer engagement and creates processes with customer viewpoints</li>\n\n\t<li>Developing well-written front-end code for new product features as well as maintain code and fix defects within the existing code base</li>\n\t<li>Applying best-practices and coding patterns to ensure your solutions are maintainable, modular of high code-quality and work well across browsers and devices</li>\n\t<li>We have multiple automated checks in place before your code goes live. Some important ones include bundle size, Lint errors, Lighthouse Scores, integration test suites and many more, so we expect you to be compliant with them. We want our developers to be lazy, they should be always looking for opportunities to automate anything and everything</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A Graduation/Post Graduation degree in Computer Science (IITs, IIITs and NITs preferred)</li>\n\t<li>5+ years of strong experience in various frontend development technologies which includes Javascript (core and oops), Nodejs, Html, CSS</li>\n\t<li>Expertise in\n\t\t<ul>\n\t\t\t<li>Any UI framework React/Vue</li>\n\t\t\t<li>State Management libraries like redux</li>\n\t\t\t<li>Build tools (webpack, grunt, gulp etc.)</li>\n\t\t</ul>\n\t</li>\n\n\t<li>Experience with\n\t\t<ul>\n\t\t\t<li>best practices for JS development using jslint, testing frameworks etc.</li>\n\t\t\t<li>package managers like npm or yarn</li>\n\t\t</ul>\n\t</li>\n\n\t<li>Experience working with agile teams and making rapid decisions in dynamic and disruptive environments.</li>\n\t<li>Experience in leading and managing a team</li>\n\t<li>Hands on experience in writing and reviewing code</li>\n\t<li>Exceptional design and architectural skills</li>\n\t<li>Strong communication skills</li>\n\t<li>Experience with AWS, Nginx, CDN caching (desirable)</li>\n\t<li>Exposure to Performance optimization techniques/tools (caching, cdn, lighthouse, optimization)</li>\n\t<li>Experience with Dockers & Containerization (desirable)</li>\n\t<li>Knowledge of tools and best practices for Linting, Compiling, Minifying, bundling etc. (desirable)</li>\n\t<li>Experience with \"Micro Frontend architecture\" & “Backend For Frontend” (desirable)</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Software Development Engineer- Backend",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/housing34/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<p><b>Coding</b></p>\n\n<ul>\n    <li>Writing efficient and scalable solution for all product problems</li>\n\t<li>Building abstractions and contracts with separation of concerns for a larger scope</li>\n\t<li>Developing robust and scalable web-based applications</li>\n</ul>\n\n<p><b>Technical Design</b></p>\n<ul>\n\t<li>Doing high-level design with guidance, Functional modeling, break-down of a module</li>\n\t<li>Thinking platforms & reuse</li>\n</ul>\n\n<p><b>Architecture</b></p>\n<ul>\n\t<li>Doing incremental changes to architecture if required and impact analysis of the same</li>\n\t<li>Doing performance improvements in large scale service-oriented architecture</li>\n</ul>\n<p><b>Company Development</b></p>\n<ul>\n\t<li>Inspiring other minds in team and fostering team spirit</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A minimum of 3 to 7 years of experience with a graduation/post-graduation degree in Computer Science/ Mathematics (IITs, IIITs, and NITs preferred)</li>\n\t<li>Expert programming experience in any one general programming language- Ruby/ Elixir/ JAVA/ Node.js (strong OO skills preferred)</li>\n\t<li>Hands-on experience in writing APIs using frameworks like Rails with a good understanding of MVC architecture</li>\n\t<li>Solid experience with REST and API design</li>\n\t<li>Sound knowledge of one RDBMS system. Understanding of transactions, query optimization techniques, indexes, etc. are required</li>\n\t<li>A solid foundation in computer science, with sound knowledge of data structures, algorithms, and software design</li>\n\t<li>Enthusiasm for solving complex and interesting problem statements</li>\n\t<li>An experience with search techniques and solid foundation in search engines- Solr, Elastic search or others (desirable)</li>\n\t<li>An experience in NoSQL datastores like Redis, MongoDB, Couchdb, etc. with an understanding of underlying sharing and scaling techniques (desirable)</li>\n\t<li>An experience in building highly scalable business applications, which involve implementing large complex business flows and dealing with a huge amount of data</li>\n\t<li>An experience with Cloud-based development (AWS), microservices architecture, Dockers, etc. (desirable)</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Account Manager - Developer Sales",
+      "subtitle"    : "Location - Thane, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing33/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 2 to 5 years of experience in B2B sales responsibility. </li>\n\t<li>Worked in real estate, e-commerce, or any online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Thane, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing32/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Doing regular On-boarding of new clients and servicing of existing clients for increased business.</li>\n\t<li>Responsible for the entire process of lead management, sales and business development.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameter.</li>\n\t<li>Ensure timely collection of all revenue from clients</li>\n\t<li>Ensure end to end client relationship management and servicing</li>\n\t<li>Provide the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Will be responsible for achieving sales and revenue targets in the designated areas</li>\n\t<li>Mapping of new Broker in designated territories, acquisition of new broker to ensure coverage across designated territory.</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Done your graduation and have worked in a real estate business with 1-5 yrs of experience in B2B sales.</li>\n\t<li>Confident and authoritative speaker.</li>\n\t<li>Strong presentation skills.</li>\n\t<li>Confidence in your own abilities.</li>\n\t<li>High degree of self-motivation, passion for selling &personal ambition.</li>\n\t<li>Ability to communicate with people at all levels.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Thane, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing31/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Use leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Take prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>Be compliant with operations process</li>\n\t<li>Ensure that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Provide after sales services and assist in Home Loans for the customers</li>\n</ul>\n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduate / MBA degree </li>\n\t<li>Positive  attitude  for  doing  2-3  meetings  each  day,  for  meeting  new  people  and someone who enjoys doing sales</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Kolkatta, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing30/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Who we are…?</h2>\n\n<p>REA India (previously known as Elara Technologies Pte. Ltd.) is a part of REA Group Ltd. of Australia (ASX: REA) (“REA Group”). It is the country’s leading full stack real estate technology platform that owns Housing.com, Makaan.com and PropTiger.com.</p>\n\n<p>In December 2020, REA Group acquired a controlling stake in REA India. REA Group, headquartered in Melbourne, Australia, is a multinational digital advertising business specialising in property. It operates Australia’s leading residential and commercial property websites, realestate.com.au and realcommercial.com.au and owns leading portals in Hong Kong (squarefoot.com.hk) and Chinaâ€¯(myfun.com). REA Group also holds a significant minority shareholding in Move, Inc., operator ofâ€¯realtor.comâ€¯in the US, and the PropertyGuru Group, operator of leading property sites in Malaysia, Singapore, Thailand, Vietnam and Indonesia.</p>\n\n<p>REA India is the only player in India that offers a full range of services in the real estate space, assisting consumers through their entire home seeking journey all the way from initial search and discovery to financing to the final step of transaction closure. It offers advertising and listings products to real estate developers, agents & homeowners, exclusive sales and marketing solutions to builders, data and content services, and personalized search, virtual viewing, site visits, negotiations, home loans and post- sales services to consumers for both buying and renting.</p>\n\n<p>REA India has a national presence with 13 offices across India with its corporate office located in Gurugram, Haryana.</p>\n\n<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generate self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring  that  prospects  and  customers  are  satisfied  with  their  interaction  with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers </li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation / MBA degree with 2+ years experience in Direct sales / B2C sales / HNI sales.</li>\n\t<li>Positive  attitude  for  doing  2-3  meetings  each  day,  for  meeting  new  people  and someone who enjoys doing sales</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Pune, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing29/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n     <li>Responsible for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsible for service delivery and ensuring client retention.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsible for achieving targets in the designated areas.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation or Post-graduation degree with 2 to 5 yrs of experience in B2B/Channel sales responsibility.</li>\n\t<li>Have worked in a real estate business.</li>\n\t<li>An outgoing personality and are confident & self-motivated</li>\n\t<li>Strong presentation skills</li>\n\t<li>A passion for selling and are resilient and persistent </li>\n\t<li>Ability to communicate with people at all levels & have strong negotiation skills</li>\n\t<li>Strong execution skills.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing28/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Developer Sales",
+      "subtitle"    : "Location - Ahmedabad, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing27/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n     <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Manage client acquisition campaigns and generate leads to build a flagship brand for property services in the respective region.</li>\n\t<li>Responsible for service delivery to ensure client retention.</li>\n\t<li>Provide market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsible for mapping of new projects and builders in designated territories & acquisition of new projects and builders to ensure coverage across designated territory.</li>\n\t<li>Ensuring efficient relationship management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 3 to 5 years of experience in B2B sales responsibility.</li>\n\t<li>Worked in real estate, e-commerce or any online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Developer Sales",
+      "subtitle"    : "Location - Pune, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing26/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n     <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 2 to 5 years of experience in B2B sales responsibility.</li>\n\t<li>Worked in real estate, e-commerce or any online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Navi Mumbai Belapur, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing25/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Doing regular On-boarding of new clients and servicing of existing clients for increased business.</li>\n\t<li>Responsible for the entire process of lead management, sales and business development.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameter.</li>\n\t<li>Ensure timely collection of all revenue from clients</li>\n\t<li>Ensure end to end client relationship management and servicing</li>\n\t<li>Provide the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Will be responsible for achieving sales and revenue targets in the designated areas.</li>\n\t<li>Mapping of new Broker in designated territories, acquisition of new broker to ensure coverage across designated territory.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Done your graduation and have worked in a real estate business with 1-5 yrs of experience in B2B sales.</li>\n\t<li>Confident and authoritative speaker.</li>\n\t<li>Strong presentation skills.</li>\n\t<li>Confidence in your own abilities.</li>\n\t<li>High degree of self-motivation, passion for selling &personal ambition.</li>\n\t<li>Ability to communicate with people at all levels.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Navi Mumbai Belapur, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing24/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Team Manager - Developer Sales",
+      "subtitle"    : "Location - Andheri, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "5-8, 8-10",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing23/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n\t<li>Manage a team of Account/Senior Account Managers</li>\n    <li>Responsibility for managing relationship with priority clients</li>\n\t<li>Driving scale and growth through proper sales planning and precise execution and sell online space to key accounts</li>\n\t<li>Responsibility for data management to ensure 100% coverage in assigned territory and tracking other key parameter.</li>\n\t<li>Ensuring client relationship management, negotiation & contract development.</li>\n\t<li>Managing the client acquisition campaigns and generate leads to build a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility for service delivery ensuring client retention and references</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Ensuring efficient Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 8 - 10 years of experience in B2B/Channel sales.</li>\n\t<li>Real estate background will be added advantage</li>\n\t<li>Strong presentation skills.</li>\n\t<li>Passion for selling and persistence ability to communicate with people at all levels.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Bangalore, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing22/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Use leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Take prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>Be compliant with operations process</li>\n\t<li>Ensure that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Provide after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Developer Sales",
+      "subtitle"    : "Location - Bangalore, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing21/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining database regular reporting & follow-ups.</li>\n\t<li>B2B Frontline Sales Role.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 3 to 5 years of experience in B2B/Channel sales responsibility.</li>\n\t<li>Worked in real estate, e-commerce, online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling</li>\n\t<li>Personal ambition, resilience and persistence</li>\n\t<li>Ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Upsell",
+      "subtitle"    : "Location - Bangalore, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing20/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation or Post-graduation degree with 3 to 5 yrs of experience in B2B/Channel sales responsibility.</li>\n\t<li>Have worked in a real estate business.</li>\n\t<li>An outgoing personality and are confident & self-motivated</li>\n\t<li>Strong presentation skills</li>\n\t<li>A passion for selling and are resilient and persistent </li>\n\t<li>Ability to communicate with people at all levels & have strong negotiation skills</li>\n\t<li>Strong execution skills.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Andheri, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing19/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Use leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Take prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>Be compliant with operations process</li>\n\t<li>Ensure that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Provide after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Andheri, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing18/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation or Post-graduation degree with 2 to 5 yrs of experience in B2B/Channel sales responsibility.</li>\n\t<li>Have worked in a real estate business.</li>\n\t<li>An outgoing personality and are confident & self-motivated</li>\n\t<li>Strong presentation skills</li>\n\t<li>A passion for selling and are resilient and persistent </li>\n\t<li>Ability to communicate with people at all levels & have strong negotiation skills</li>\n\t<li>Strong execution skills.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Account Manager - Developer Sales",
+      "subtitle"    : "Location - Andheri, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing17/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 2 to 5 years of experience in B2B sales responsibility. </li>\n\t<li>Worked in real estate, e-commerce or any online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling Personal ambition resilience and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Associate - Strategic Business",
+      "subtitle"    : "Location - Andheri, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing16/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for managing the relationship with priority clients</li>\n\t<li>Driving scale and growth through proper sales planning and the precise execution and selling online space to key accounts</li>\n\t<li>Responsibility for data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Ensuring client relationship management, negotiation & contract development.</li>\n\t<li>Managing the client acquisition campaigns and generating leads to build a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility for service delivery ensuring client retention and references</li>\n\t<li>Providing the market intelligence, data analytics, and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquiring new projects and builders to ensure coverage across the designated territory.</li>\n\t<li>Ensuring efficient Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 4 - 8 years of experience in B2B / Channel sales.</li>\n\t<li>Real estate background will be added advantage</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling Personal ambition resilience and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Thane, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing15/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Manage client acquisition campaigns and generate leads to build a flagship brand for property services in the respective region.</li>\n\t<li>Responsible for service delivery to ensure client retention.</li>\n\t<li>Provide market intelligence, data analytics, and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsible for mapping of new projects and builders in designated territories & acquisition of new projects and builders to ensure coverage across the designated territory.</li>\n\t<li>Ensuring efficient relationship management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 3 to 5 years of experience in B2B/Channel sales responsibility.</li>\n\t<li>Worked in a real estate, e commerce, online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling Personal ambition resilience and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Developer Sales",
+      "subtitle"    : "Location - Navi Mumbai Belapur, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing14/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n\t<li>Regular On-boarding of new clients and servicing of existing clients for increased business</li>\n    <li>Responsibility for the entire process of lead management, sales and business development</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Ensure timely collection of all revenue from clients</li>\n\t<li>Ensure end to end client relationship management and servicing</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Will be responsible for achieving sales and revenue targets in the designated areas</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across designated territory</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 3 to 5 years of experience in B2B/Channel sales responsibility.</li>\n\t<li>Worked in a real estate, e commerce, online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling Personal ambition resilience and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Developer Sales",
+      "subtitle"    : "Location - Chennai, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing13/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Driving scale and growth through proper sales planning and precise execution.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 3 to 5 years of experience in B2B/Channel sales responsibility.</li>\n\t<li>Worked in a real estate, e commerce, online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling Personal ambition resilience and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Developer Sales",
+      "subtitle"    : "Location - Bengaluru, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing12/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Driving scale and growth through proper sales planning and precise execution.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>A graduation degree with 3 to 5 years of experience in B2B/Channel sales responsibility.</li>\n\t<li>Worked in a real estate, e commerce, online business.</li>\n\t<li>Strong presentation skills</li>\n\t<li>Passion for selling Personal ambition resilience and persistence ability to communicate with people at all levels</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Hyderabad, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing11/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Driving scale and growth through proper sales planning and precise execution.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.</li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation or Post-graduation degree with 2 to 7 yrs of experience in B2B/Channel sales responsibility.</li>\n\t<li>An outgoing and likable personality</li>\n\t<li>Confidence and authoritative speaking</li>\n\t<li>Strong presentation skills & confidence in your own abilities</li>\n\t<li>A high degree of self-motivation</li>\n\t<li>A passion for selling, Personal ambition, Resilience and persistence</li>\n\t<li>Ability to communicate with people at all levels & strong negotiation skills</li>\n\t<li>Ability to work on your own initiative and as part of a team</li>\n\t<li>Strong execution skills</li>\n\t<li>Knowledge of MS office (word and excel) and know how to use Internet.</li>\n\t<li>Passion for results & good time management.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Pune, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5, 5-8",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing10/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Hyderabad, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing09/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing08/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Who we are…?</h2>\n\n<p>REA India (previously known as Elara Technologies Pte. Ltd.) is a part of REA Group Ltd. of Australia (ASX: REA) (“REA Group”). It is the country’s leading full stack real estate technology platform that owns Housing.com, Makaan.com and PropTiger.com.</p>\n\n<p>In December 2020, REA Group acquired a controlling stake in REA India. REA Group, headquartered in Melbourne, Australia, is a multinational digital advertising business specialising in property. It operates Australia’s leading residential and commercial property websites, realestate.com.au and realcommercial.com.au and owns leading portals in Hong Kong (squarefoot.com.hk) and Chinaâ€¯(myfun.com). REA Group also holds a significant minority shareholding in Move, Inc., operator ofâ€¯realtor.comâ€¯in the US, and the PropertyGuru Group, operator of leading property sites in Malaysia, Singapore, Thailand, Vietnam and Indonesia.</p>\n\n<p>REA India is the only player in India that offers a full range of services in the real estate space, assisting consumers through their entire home seeking journey all the way from initial search and discovery to financing to the final step of transaction closure. It offers advertising and listings products to real estate developers, agents & homeowners, exclusive sales and marketing solutions to builders, data and content services, and personalized search, virtual viewing, site visits, negotiations, home loans and post- sales services to consumers for both buying and renting.</p>\n\n<p>REA India has a national presence with 13 offices across India with its corporate office located in Gurugram, Haryana.</p>\n\n<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales and business development for the region.</li>\n\t<li>Driving scale and growth through proper sales planning and precise execution.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility service delivery ensuring client retention and reference.  </li>\n\t<li>Providing the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas. </li>\n\t<li>Developing and maintaining of database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects and new builders to ensure coverage across designated territory. </li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n\t<li>Achieving revenue and coverage targets. </li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Post-graduation degree with 3 to 5 yrs of experience in B2B/Channel sales responsibility. </li>\n\t<li>Have worked in a real estate business. </li>\n\t<li>An outgoing and likable personality </li>\n\t<li>Confidence and authoritative speaking</li>\n\t<li>Strong presentation skills & confidence in your own abilities </li>\n\t<li>A high degree of self-motivation</li>\n\t<li>A passion for selling, Personal ambition, Resilience and persistence  </li>\n\t<li>Ability to communicate with people at all levels & strong negotiation skills</li>\n\t<li>Ability to work own your own initiative and as part of a team</li>\n\t<li>Strong execution skills  • Knowledge of MS office (word and excel) and know how to use Internet.</li>\n\t<li>Passion for results & good time management </li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Gurgaon, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing07/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Who we are…?</h2>\n\n<p>REA India (previously known as Elara Technologies Pte. Ltd.) is a part of REA Group Ltd. of Australia (ASX: REA) (“REA Group”). It is the country’s leading full stack real estate technology platform that owns Housing.com, Makaan.com and PropTiger.com.</p>\n\n<p>In December 2020, REA Group acquired a controlling stake in REA India. REA Group, headquartered in Melbourne, Australia, is a multinational digital advertising business specialising in property. It operates Australia’s leading residential and commercial property websites, realestate.com.au and realcommercial.com.au and owns leading portals in Hong Kong (squarefoot.com.hk) and Chinaâ€¯(myfun.com). REA Group also holds a significant minority shareholding in Move, Inc., operator ofâ€¯realtor.comâ€¯in the US, and the PropertyGuru Group, operator of leading property sites in Malaysia, Singapore, Thailand, Vietnam and Indonesia.</p>\n\n<p>REA India is the only player in India that offers a full range of services in the real estate space, assisting consumers through their entire home seeking journey all the way from initial search and discovery to financing to the final step of transaction closure. It offers advertising and listings products to real estate developers, agents & homeowners, exclusive sales and marketing solutions to builders, data and content services, and personalized search, virtual viewing, site visits, negotiations, home loans and post- sales services to consumers for both buying and renting.</p>\n\n<p>REA India has a national presence with 13 offices across India with its corporate office located in Gurugram, Haryana.</p>\n\n<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Kolkata, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing06/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Senior Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Chennai, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing05/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<p>APPLY IF YOU HAVE…</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self-leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  \t<li>Graduation/ MBA degree</li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales</li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills</li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Chennai, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing04/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Doing regular On-boarding of new clients and servicing of existing clients for increased business.</li>\n\t<li>Responsible for the entire process of lead management, sales and business development.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameter.</li>\n\t<li>Ensure timely collection of all revenue from clients</li>\n\t<li>Ensure end to end client relationship management and servicing</li>\n\t<li>Provide the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Will be responsible for achieving sales and revenue targets in the designated areas.</li>\n\t<li>Mapping of new Broker in designated territories, acquisition of new broker to ensure coverage across designated territory.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  <li>Done your graduation and have worked in a real estate business with 1-3 yrs of experience in B2B sales.</li>\n\t<li>Confident and authoritative speaker.</li>\n\t<li>Strong presentation skills.</li>\n\t<li>Confidence in your own abilities.</li>\n\t<li>High degree of self-motivation, passion for selling &personal ambition.</li>\n\t<li>Ability to communicate with people at all levels.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Sales",
+      "subtitle"    : "Location - Noida, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing03/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Doing regular On-boarding of new clients and servicing of existing clients for increased business.</li>\n\t<li>Responsible for the entire process of lead management, sales and business development.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameter.</li>\n\t<li>Ensure timely collection of all revenue from clients</li>\n\t<li>Ensure end to end client relationship management and servicing</li>\n\t<li>Provide the market intelligence, data analytics and insights for the marketing team to launch the right promotional and customer communication initiatives.</li>\n\t<li>Will be responsible for achieving sales and revenue targets in the designated areas.</li>\n\t<li>Mapping of new Broker in designated territories, acquisition of new broker to ensure coverage across designated territory.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  <li>Done your graduation and have worked in a real estate business with 1-3 yrs of experience in B2B sales.</li>\n\t<li>Confident and authoritative speaker.</li>\n\t<li>Strong presentation skills.</li>\n\t<li>Confidence in your own abilities.</li>\n\t<li>High degree of self-motivation, passion for selling &personal ambition.</li>\n\t<li>Ability to communicate with people at all levels.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Relationship Manager - Primary Sales",
+      "subtitle"    : "Location - Ahmedabad, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "0-2, 2-5, 5-8",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing02/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Converting prospects into customers by show-casing appropriate primary residential properties to the prospects, which matching the investment need of the prospects</li>\n\t<li>Using leads generated by Marketing Team for the above as well as generating self- leads to convert them into customers, through local activities (procuring relevant databases, doing on-ground activities in corporates, clubs etc).</li>\n\t<li>Taking prospects for site visits in residential projects, answering all relevant queries in the process, liaising with Developer or with PropTiger’s Developer Relations Team for any clarification required for that</li>\n\t<li>To be compliant with operations process</li>\n\t<li>Ensuring that prospects and customers are satisfied with their interaction with PropTiger at all touch-points</li>\n\t<li>Providing after sales services and assist in Home Loans for the customers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Apply if you have…  </h2>\n<ul>\n  <li>Graduate / MBA degree </li>\n\t<li>Positive attitude for doing 2-3 meetings each day, for meeting new people and someone who enjoys doing sales </li>\n\t<li>Experience in direct sales will be an added advantage</li>\n\t<li>Good communication skills </li>\n\t<li>Ability to understand requirements of prospects and decent aptitude to understand and pitch property solutions to prospects</li>\n\t<li>High levels of passion and ownership.</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "proptiger - Account Manager - Broker Acquisition",
+      "subtitle"    : "Location - Ahmedabad, India, Work Type: Full Time",
+      "categories" : "[&quot;sales&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/sales/2022/07/01/housing01/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<p>What does this role hold for you…??</p>\n\n<ul>\n    <li>Responsibility for the entire process of lead management, sales, and business development for the region.</li>\n\t<li>Driving scale and growth through proper sales planning and precise execution.</li>\n\t<li>Data management to ensure 100% coverage in assigned territory and tracking other key parameters.</li>\n\t<li>Client acquisition campaigns and lead generation to build as a flagship brand for Property Services in the respective region.</li>\n\t<li>Responsibility for service delivery ensuring client retention and reference.</li>\n\t<li>Providing market intelligence, data analytics & insights for the marketing team</li>\n\t<li>to launch the right promotional and customer communication initiatives.</li>\n\t<li>Responsibility for achieving targets in the designated areas.</li>\n\t<li>Developing and maintaining database regular reporting &follow-ups.</li>\n\t<li>B2B Frontline Sales.</li>\n\t<li>Mapping of new projects and new builders in designated territories, acquisition of new projects, and new brokers to ensure coverage across the designated territory.</li>\n\t<li>Relationship Management with existing clients to ensure 100% coverage of new projects launched by them.</li>\n\t<li>Achieving revenue and coverage targets.</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Required Candidate profile:</h2>\n<ul>\n  <li>Graduate with 2 to 5 yrs of experience in B2B/Channel sales responsibility.</li>\n\t<li>Have worked in the Portal industry</li>\n\t<li>An outgoing and likable personality</li>\n\t<li>Confidence and authoritative speaking</li>\n\t<li>Strong presentation skills & confidence in your own abilities</li>\n\t<li>A high degree of self-motivation</li>\n\t<li>A passion for selling, Personal ambition, Resilience, and persistence</li>\n\t<li>Ability to communicate with people at all levels & strong negotiation skills</li>\n\t<li>Ability to work on your own initiative and as part of a team</li>\n\t<li>Strong execution skills</li>\n\t<li>Knowledge of MS office (word and excel) and know how to use the Internet</li>\n</ul>\n\n<a href=\"https://www.proptiger.com/careers\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
       "title"    : "freecharge - Lead DevOps Engineer",
       "subtitle"    : "Location -   Gurugram, Work Type: Full time",
       "categories" : "[&quot;it&quot;, &quot;topit&quot;]",
@@ -1285,6 +1901,116 @@
       "url"      : "/marketing/2022/07/01/byju01/",
       "date"     : "2022-07-01 00:00:00 +0000",
       "content": "<p>We are looking to hire a Rockstar Growth & Retention Marketing professional to design and execute marketing campaigns for us. You will be working on some key growth campaigns at any given time across web, email, SMS, and Push notifications. If you have experience in successfully designing and executing at scale CRM campaigns, are comfortable with data and possess good communication we would like to meet you.</p>\n\n<h2 class=\"section-heading\">What You'll Do:</h2>\n\n<ul>\n\t<li>Create clear compelling copy for various mediums (push notifications, emails, SMS, email notifications)</li>\n\t<li>Work closely with Category Managers and Program managers</li>\n\n\t<li>Manage end to end campaigns and engage customers through relevant communications</li>\n\t<li>Create relevant customer segments, analyze trends and prioritize campaigns</li>\n\n\t<li>Increase user growth across platforms</li>\n\t<li>Provide messaging and channel understanding to internal stakeholders.</li>\n\n\t<li>Working on marketing tools like Clevertap / MoEngage / WebEngage</li>\n</ul>\n\n<h2 class=\"section-heading\">What You'll Need:</h2>\n\n<ul>\n\t<li>Exp required: 2+ years</li>\n\t<li>Required: Knowledge of WebEngage, Clevertap, Netcore, or MoEngage is a must.</li>\n\n\t<li>Proficient in Excel and HTML</li>\n\t<li>Knowledge of SQL will be desirable</li>\n\n\t<li>Should be analytical, detail-oriented and organized</li>\n\t<li>General understanding of the ed-tech landscape and trends will be desirable</li>\n\n\t<li>Preferred: a good working understanding of javascript/using API endpoints</li>\n</ul>\n\n<a href=\"https://byjusexamprep.com/careers/a62b96f1e9e378\" class=\"pricing-button\">Apply</a>"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Retention Manager",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;support&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/support/2022/07/01/blackbuck10/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Key Job Purpose</h2>\n<p>Retention Manager will be responsible for improving the engagement of subscribed shippers and truckers in the BlackBuck platforms such that there is higher retention and renewals.</p>\n\n<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n  <li>Analyse reasons for the low retention levels among different customer segments for the BlackBuck product</li>\n  <li>Solution for the identified reasons and execute measures to improve customer retention</li>\n  <li>Ideate on increasing product recall in the minds of shipper and truckers</li>\n  <li>Increase wallet share for both the customer bases resulting in higher engagement and retention</li>\n  <li>Drive subscription renewals for both shippers and truckers</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n<ul>\n  <li>Minimum 2-3 years of prior experience in retention of customers / vendors</li>\n  <li>Exposure to managing tele-calling channel is preferred</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Area Sales Manager, Fleet Management Platform",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;support&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/support/2022/07/01/blackbuck09/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Key Job Purpose</h2>\n<p>Leading the business development activities for Services Platform offerings in the specific region/state.</p>\n\n<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n  <li>Mapping market potential with regard to existing or upcoming offerings in the region</li>\n  <li>Responsible for the achievement of the key business financial metrics for the region</li>\n  <li>Lead the complete cycle of new customer acquisition, onboarding and service delivery</li>\n  <li>Build and manage a team of high performing sales associates </li>\n  <li>Relationship management & troubleshooting issues for on boarded customers</li>\n  <li>Drive key initiatives pertaining to the launch of new categories or improving the performance of any specific category in the market</li>\n  <li>Share key insights regarding customer experience and market adoption of new offerings in the respective region with the Category and Product teams</li>\n  <li>Drive marketing activities in the region with a view of strengthening the brand of brand Blackbuck and increase market penetration</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n<ul>\n  <li>Experience Range: of 3 - 8 Years </li>\n  <li>Educational Qualification: MBA </li>\n  <li>Experience in managing a large field sales team and high growth trajectories for business. Sales Experience in OEM Truck Dealerships, Truck Finance and Insurance companies, Tyre segment is an added advantage</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Category Manager, Fleet Management Platform",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;support&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/support/2022/07/01/blackbuck08/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Key Job Purpose</h2>\n<p>Drive P&L responsibility for the specific category of offerings.</p>\n\n<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n  <li>Creation of product offering focussing on the customer value proposition and business synergies.</li>\n  <li>Creation and roll out of “Go-to-market” Strategy for the category</li>\n  <li>Liaison with the product team to develop and continuously evolve the right product offering on the platform</li>\n  <li>Responsible for Principle partner identification, onboarding and ongoing relationship management</li>\n  <li>Set up governance mechanism and work closely with various sales channels i.e. Feet-on-street, Digital Sales etc. to drive revenue numbers for the category</li>\n  <li>Conceptualize and run various initiatives pertaining to the category to increase the wallet share with regards to the overall potential of the customers</li>\n  <li>Manage relationship with internal and external stakeholders to drive various enhancements focussing on building a profitable category</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n<ul>\n  <li>Experience range: 3-7 Years (post-MBA) </li>\n  <li>Educational Qualification: MBA from a Tier 1 institute </li>\n  <li>Consulting experience in tier 1 consulting firms OR Category Management in e-Commerce / FMCG Company</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Business Development Manager, Corporate Business",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;support&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/support/2022/07/01/blackbuck07/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Key Job Purpose</h2>\n<p>Responsible to lead business development efforts and drive P&L for a set of large customers in a particular industry segment.</p>\n\n<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n    <li>Lead the complete cycle of business acquisition, service delivery and business expansion for a set of key customer accounts</li>\n    <li>Revenue pipeline management through the increase of wallet share with existing customers and through the acquisition of new customers in the defined industry segment</li>\n    <li>Proactively build and maintain trusted client relationships through an effective solution and ensuring the delivery of high-quality service</li>\n    <li>Strategically formulate account plan to provide clients’ needs-based solutions, structure appropriate business mix and ensure the targeted profitability for each account within the permissible credit limit</li>\n    <li>Partner effectively with internal stakeholders to deliver effective client solutions</li>\n</ul>\n            \n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n<ul>\n  <li>Experience range: 1-4 years (post-MBA)</li>\n  <li>Educational Qualification: MBA from a Tier 1 institute</li>\n  <li>Experience in Business Development and client servicing in any industry, B2B preferred</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - UI/UX Developer and Designer",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/blackbuck06/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n\t<li>Design and deliver rapid prototypes and mock-ups optimized for a wide range of devices and interfaces, predominantly mobile app</li>\n\t<li>Identify design problems and devise elegant solutions</li>\n\t<li>Make strategic design and user interface decisions related to core, and new functions and features</li>\n\t<li>Take a user-centered design approach, rapidly test and iterate designs</li>\n\t<li>Collaborate with other team members (Front-End/Android) and stakeholders</li>\n\t<li>Take smart risks and champion new ideas</li>\n\t<li>Quality check the final outcome to deliver a pixel-perfect experience</li>\n\t<li>Should take ownership of the complete User Interface</li>\n\t<li>Present design, communicate concepts and explain design choices</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n\n<ul>\n\t<li>Experience: 1-3 years in UI</li>\n\t<li>Understanding of Google Material Design guidelines, familiarity with Lean UX processes. Ability to work with highly core technical teams and handle multiple projects in a fast-paced early stage start-up environment</li>\n\t<li>Proficient in working with sketch, Photoshop, illustrator, and invision</li>\n\t<li>Behance or Dribble Portfolio required</li>\n\t<li>Experience in designing mobile apps for Indian audience would be preferred</li>\n\t<li>Compulsive problem-solvers with excellent visualization, collaboration, and communication skills</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Data Scientist",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/blackbuck05/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n\t<li>Structure the available data to be able to better mine patterns and derive insights; BlackBuck’s network generates diverse data varying from clickstream/transactions data generated on our diverse set of apps to telemetry data generated via sensors/devices on our trucks.</li>\n\t<li>Build solutions for a wide range of problems leveraging advanced Machine Learning algorithms. Some of the problem areas are\n\t<ul>\n\t\t<li>Vehicle tracking</li>\n\t\t<li>Route planning and optimization</li>\n\t\t<li>Marketplace demand shaping</li>\n\t\t<li>Insights across drivers, truck owners, and shippers</li>\n\t\t<li>Risk / Fraud modeling for our financial services</li>\n\t\t<li>Driver Behaviour monitoring etc.</li>\n\t</ul>\n\t<li>Work closely with our engineering and product teams to ensure the data science solutions are baked into the product</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n\n<ul>\n\t<li>Experience: 3-7 years post Bachelors with a minimum of 2 years’ experience in Data Scientist profile.</li>\n\t<li>Eligibility:​ ​B.Tech/M.Tech/PhD​ ​in​ ​CS/Statistics/Operations Research​ ​with​ ​demonstrated​ ​experience​ ​in​ ​ML/Statistics through​ ​papers/projects</li>\n\t<li>Techniques span from clustering, compression, classification, matrix factorization, probabilistic graphical models, networks algorithms, topic modeling, image processing, deep learning, linear and mixed-integer programming</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Product Analyst",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/blackbuck04/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n\t<li>End-to-end ownership of daily metrics, weekly metrics, and quarterly metrics. Work with each product manager to understand areas we need to measure and ensure the needle is moving in the direction in each of those areas.</li>\n\t<li>Identify areas of opportunities from metrics and work with \"Head of Products\" to assign areas of responsibilities for relevant teams</li>\n\t<li>Chase those relevant teams for driving the right analysis and getting back the relevant data</li>\n\t<li>Conduct self and/or push others to conduct analysis on projects/experiments and then help to drive important strategic decisions from the analysis</li>\n\t<li>Write SQL queries, perform data analysis, and create data visualizations to keep the nerve center of our engine running</li>\n\t<li>Automate reporting to provide visibility into different businesses - email reporting, dashboard reporting etc.</li>\n\t<li>Proactively define, develop and analyse new KPIs/metrics to help optimize execution and operations</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n\n<ul>\n\t<li>Hands on SQL experience</li>\n\t<li>Minimum 2 years of experience using data to facilitate business decisions</li>\n\t<li>Decent knowledge of Python is a plus</li>\n\t<li>Experience presenting data visually and selling ideas to leadership</li>\n\t<li>Excellent knowledge of all tools and functions of excel</li>\n\t<li>Excellent communication skills and attention to detail</li>\n\t<li>Drive to push oneself and others to get the metrics on time and delivery excellence to ensure the sanity of data</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - Product Manager",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "2-5, 5-8",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/blackbuck03/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n\t<li>Defining, communicating and owning the product plan from conception to launch</li>\n\t<li>Analysing the results of a launch and creating the plan to iterate and build new features</li>\n\t<li>Ruthlessly prioritizing features based on business impact and available resources</li>\n\t<li>Proactively filling communication gaps amongst all team members – Good communication solves half the problem</li>\n\t<li>Growing and inspiring top performing team members even without direct authority</li>\n\t<li>Contributing to technical conversations around deadlines and engineering solutions</li>\n\t<li>Drive product research priorities for strategically important projects</li>\n\t<li>Make magic out of the complicated and antiquated freight industry through an intense focus on simplification and shipping minimal viable products quickly</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n\n<ul>\n\t<li>Bachelor’s degree (preferably in either computer science or a quantitative domain (math/stats))</li>\n\t<li>3+ years of relevant Product Management experience for B2C or B2B</li>\n\t<li>5+ years of overall experience – software engineering experience before Product Management</li>\n\t<li>Experience communicating technical concepts to a non-technical audience</li>\n\t<li>Technical expertise and the ability to question, understand and challenge software implementation decisions and priorities</li>\n\t<li>Passionately curious to learn and adapt to dynamic research, development and industry knowledge</li>\n\t<li>A bold, optimistic, result-oriented personality: We are coming to work every day challenging the status quo, and we’re looking for people comfortable asking bold, quirky questions, along with the mental resilience to know we’re just at the start of a long journey</li>\n\t<li>Master’s degree in Business or Psychology will be a plus</li>\n\t<li>Track record of successfully launching software products from 0 to 1 on a large scale will be preferable</li>\n\t<li>Experience with products in Logistics/Transportation/Operations – building and/or selling will be a value add</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - SDE III",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "5-8",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/blackbuck02/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n\t<li>Actively get involved in technical discussions with other engineering team members on design and technical implementation details</li>\n\t<li>Influence product requirements & operational plans while working with software development manager to estimate and plan projects in the agile development framework</li>\n\t<li>Instil best practices for development and champion their adoption, mentor junior engineers in software design, coding practices, and TDD strategies</li>\n\t<li>API Definitions and end-to-end service design and implementations</li>\n\t<li>Design applications in a true service-oriented architecture</li>\n\t<li>Develop object-oriented models and design data structure for new software projects taking systems aspects into account</li>\n\t<li>Participate and contribute to discussions and decisions for creating and improving architecture across applications</li>\n\t<li>Make correct design choices in the context of a problem for data store, caching, search, scaling etc.</li>\n\t<li>Write good quality, modular, reusable, performant, well documented, unit-tested code, identify the areas and approach to refactor and simplify the modules; refactor code to improve code quality and bring modularity and simplicity.</li>\n\t<li>Create common libraries and Utilities to be used by multiple engineering teams</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n\n<ul>\n\t<li>BE or higher in Computer Science or related technical discipline (or equivalent)</li>\n\t<li>Minimum 5 years of experience in product based company</li>\n\t<li>Strong expertise in at least one programming language and tech stack for web development to write maintainable, scalable, unit-tested code</li>\n\t<li>Strong object-oriented design skills, knowledge of design patterns, data structures, and algorithms</li>\n\t<li>Strong expertise of working with relational and nosql databases</li>\n\t<li>Experience in building large complex business applications with only high-level tech guidance</li>\n\t<li>Experience leading multi-engineer projects and mentoring junior engineers</li>\n\t<li>Experience with full lifecycle development on a Linux/Ubuntu platform</li>\n\t<li>Prior experience in working with Agile software methodologies (XP, Scrum)</li>\n\t<li>Knowledge of Test Driven Development</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
+    } ,
+  
+    {
+      "title"    : "blackbuck - SDE II",
+      "subtitle"    : "Location - India, Work Type: Full Time",
+      "categories" : "[&quot;it&quot;]",
+      "tags"     : "0-2, 2-5",
+      "description"     : "",
+      "url"      : "/it/2022/07/01/blackbuck01/",
+      "date"     : "2022-07-01 00:00:00 +0000",
+      "content": "<h2 class=\"section-heading\">Roles & Responsibilities:</h2>\n<ul>\n\t<li>Actively drive discussions to improve product across engineering teams, wherever there are interdependencies across products</li>\n\t<li>Understand well-defined business use cases / PRD and design the solution for the business cases</li>\n\t<li>API Definitions and end-to-end service design and implementations</li>\n\t<li>Design applications in a true service-oriented architecture</li>\n\t<li>Develop object-oriented models and design data structure for new software projects taking systems aspects into account</li>\n\t<li>Make correct design choices in the context of a problem for data store, caching, search, scaling etc.</li>\n\t<li>Write good quality, modular, reusable, performant, well documented, unit-tested code</li>\n\t<li>Continuously refactor the code to improve code quality and bring modularity and simplicity in coding</li>\n</ul>\n\n\n<h2 class=\"section-heading\">Requisites / Prerequisites:</h2>\n\n<ul>\n\t<li>BE or higher in Computer Science or related technical discipline (or equivalent)</li>\n\t<li>Minimum of 3 years of experience</li>\n\t<li>Strong expertise in at least one programming language and tech stack for web development to write maintainable, scalable, unit-tested code</li>\n\t<li>Strong object-oriented design skills, knowledge of design patterns, data structures, and algorithms</li>\n\t<li>Strong expertise of working with relational and nosql databases</li>\n\t<li>Well-versed with Computer Science fundamentals</li>\n\t<li>Experience with full life cycle development on a Linux</li>\n\t<li>Knowledge of Test Driven Development</li>\n</ul>\n\n<a href=\"https://www.blackbuck.com/careers.php\" class=\"pricing-button\">Apply</a>\n"
     } ,
   
     {
@@ -2597,6 +3323,34 @@
     } 
   
   ,
+  
+    {
+      
+    } ,
+  
+    {
+      
+    } ,
+  
+    {
+      
+    } ,
+  
+    {
+      
+    } ,
+  
+    {
+      
+    } ,
+  
+    {
+      
+    } ,
+  
+    {
+      
+    } ,
   
     {
       

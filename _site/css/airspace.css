@@ -348,3 +348,16 @@ th {
   font-weight: 600;
   border-radius: 3px;
 }
+
+.cardhome{
+  background-color:#C0C0C0;
+  background-clip:border-box;
+  border:1px solid rgba(0,0,0,.125);
+  border-radius:.25rem;
+  opacity: 0.1;
+    }
+
+.cardhome-body{
+  flex:1 1 auto;
+  padding:1rem 1rem
+}
