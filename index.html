@@ -10,7 +10,7 @@ navigation: True
   <div class="container">
     <h2 class="heading-header" style="text-align: center;">JOIN A STARTUP</h2>
       <p></p><p></p>
-    <h3 class="subtext editable" style="text-align: center;"><b>Find your perfect job among 233 opportunities at 239 startups.</b></p></h3>
+    <h3 class="subtext editable" style="text-align: center;"><b>Find your perfect job among {{ site.posts.size }} opportunities at 28 startups.</b></p></h3>
     
     {% include searchbar.html %}
 
@@ -25,30 +25,29 @@ navigation: True
     <div>
       <h3 class="heading-header">BROWSE CATEGORIES</h3>
       
-      <a href="{{ site.baseurl }}/itjobs/" class="pricing-button alt">IT / SOFTWARE DEVELOPMENT &rarr;</a>
+      <a href="{{ site.baseurl }}/itjobs/" class="pricing-button alt">IT / SOFTWARE DEVELOPMENT ({{ site.categories['it'].size }})</a>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/marketing/" class="pricing-button alt">MARKETING / ADVERTISING&rarr;</a></h7>
+      <a href="{{ site.baseurl }}/marketing/" class="pricing-button alt">MARKETING / ADVERTISING ({{ site.categories['marketing'].size }})</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/finance/" class="pricing-button alt">FINANCE &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/finance/" class="pricing-button alt">FINANCE ({{ site.categories['finance'].size }})</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/design/" class="pricing-button alt">DESIGN / UX &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/design/" class="pricing-button alt">DESIGN / UX ({{ site.categories['design'].size }})</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/sales/" class="pricing-button alt">SALES &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/sales/" class="pricing-button alt">SALES ({{ site.categories['sales'].size }})</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/support/" class="pricing-button alt">BUSNIESS OPERATIONS / SUPPORT &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/support/" class="pricing-button alt">BUSNIESS OPERATIONS / SUPPORT ({{ site.categories['support'].size }})</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/product/" class="pricing-button alt">PRODUCT MANAGEMENT &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/product/" class="pricing-button alt">PRODUCT MANAGEMENT ({{ site.categories['product'].size }})</a></h7>
       &nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/hr-recruiting/" class="pricing-button alt">HR / RECRUTING &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/hr-recruiting/" class="pricing-button alt">HR / RECRUTING ({{ site.categories['hr'].size }})</a></h7>
       &nbsp;&nbsp;
-       <a href="{{ site.baseurl }}/maintenance/" class="pricing-button alt">MAINTENANCE &rarr;</a></h7>
+       <a href="{{ site.baseurl }}/maintenance/" class="pricing-button alt">MAINTENANCE ({{ site.categories['maintenance'].size }})</a></h7>
       &nbsp;&nbsp;
-      </br>
-      <a href="{{ site.baseurl }}/internships/" class="pricing-button alt">INTERNSHIPS &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/internships/" class="pricing-button alt">INTERNSHIPS ({{ site.categories['internships'].size }})</a></h7>
       &nbsp;&nbsp;
       <!--<h7 class="pricing-button"><a href="{{ site.baseurl }}/freelance/">FREELANCE &rarr;</a></h7>
       <h7 class="pricing-button"><a href="{{ site.baseurl }}/cofounders/">SEEKING COFOUNDERS &rarr;</a></h7>-->
-      <a href="{{ site.baseurl }}/other-jobs/" class="pricing-button alt">OTHERS &rarr;</a></h7>
+      <a href="{{ site.baseurl }}/other-jobs/" class="pricing-button alt">OTHERS ({{ site.categories['other'].size }})</a></h7>
       <!--<p class="editable">We take pride in our previous work and our happy customers. We cater to any sector to boost business and increase exposure.</p>
       <p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>-->
     </div>
