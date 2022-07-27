@@ -1,4 +1,223 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-25T16:01:49+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">arzooo - Data Engineer</title><link href="http://localhost:4000/it/topit/2022/07/01/arzooo01/" rel="alternate" type="text/html" title="arzooo - Data Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/topit/2022/07/01/arzooo01</id><content type="html" xml:base="http://localhost:4000/it/topit/2022/07/01/arzooo01/">&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-27T11:28:31+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">lendingkartcareers - Senior Software Engineer Data</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers01/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Software Engineer Data" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers01</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers01/">&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;(4-6) years of work exp&lt;/li&gt;
+	&lt;li&gt;Experience in Java / Scala &amp; Python work ex is optional&lt;/li&gt;
+	&lt;li&gt;Should have working exp on the following areas :-&lt;/li&gt;
+	&lt;li&gt;Distributed columnar data bases like Redshift, Cassandra, HBase etc.&lt;/li&gt;
+	&lt;li&gt;Worked any one project and written code using MapReduce frameworks to process data like:
+		&lt;ul&gt;
+			&lt;li&gt;Spark (with Scala is a plus)&lt;/li&gt;
+			&lt;li&gt;Hadoop MapReduce&lt;/li&gt;
+			&lt;li&gt;Kafka Streams&lt;/li&gt;
+			&lt;li&gt;Flink&lt;/li&gt;
+			&lt;li&gt;KV Store like Redis&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;li&gt;Proficient with Engg practices like Unit Testing, CI/CD , Code Reviews, Code Coverage &amp; documentation.&lt;/li&gt;
+	&lt;li&gt;Document oriented databases like MongoDB.&lt;/li&gt;
+	&lt;li&gt;Nice to have : Expose of GraphDB’s like Neo4j.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-software-engineer-data/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><category term="5-8" /><summary type="html">Requirements</summary></entry><entry><title type="html">lendingkartcareers - Software Engineer Data</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers02/" rel="alternate" type="text/html" title="lendingkartcareers - Software Engineer Data" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers02</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers02/">&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt; (2-3) years of work exp&lt;/li&gt;
+	&lt;li&gt;Experience in Java / Scala , (Python work ex is optional)&lt;/li&gt;
+	&lt;li&gt;Possess SQL skills&lt;/li&gt;
+	&lt;li&gt;Should have working exp on the following areas :-
+		&lt;ul&gt;
+			&lt;li&gt;Distributed columnar data bases like Redshift, Cassandra, HBase etc.&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Worked any one project and written code using MapReduce frameworks to process data like:
+		&lt;ul&gt;
+			&lt;li&gt;Spark (either Scala/Java or python)&lt;/li&gt;
+			&lt;li&gt;Kafka Streams&lt;/li&gt;
+			&lt;li&gt;KV Stores like Redis&lt;/li&gt;
+			&lt;li&gt;Document oriented databases like MongoDB,CouchDB etc&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/software-engineer-data/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">Requirements</summary></entry><entry><title type="html">lendingkartcareers - Software Engineer: Angular</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers03/" rel="alternate" type="text/html" title="lendingkartcareers - Software Engineer: Angular" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers03</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers03/">&lt;h2 class=&quot;section-heading&quot;&gt;About Lendingkart&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Lendingkart is a digital lending platform that facilitates working capital financing for entrepreneurs and small businesses in India through our network of affiliated lending partners. We have developed a technology platform powered by machine learning
+	algorithms which use big data to help its affiliate lenders evaluate borrower’s credit worthiness. Customers can apply for a loan using the web or mobile applications at their convenience and receive their sanctioned loans in as less as 3 days anywhere in the country.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is the only lending company from India to be featured in the Top 50 most established fintech firms acclaimed in annual ‘Fintech100’ report by KPMG, where they have uncovered the most innovative Fintech companies globally.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is one of the leading fintech firms in the Indian lending space. It is backed by top-tier investors – Temasek (through its 100% subsidiary Fullerton Financial Services), Bertelsmann, Mayfield Fund, India Quotient and Saama Capital to name a few.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles and Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Collaborate with cross-functional teams to define, design, and push new features and innovative front-end solutions.&lt;/li&gt;
+	&lt;li&gt;Translate UI/UX design wireframes to actual code that will produce visual elements of the application.&lt;/li&gt;
+	&lt;li&gt;Continuously discovering, evaluating, and implementing new technologies to maximize development efficiency.&lt;/li&gt;
+	&lt;li&gt;Provide technical leadership towards new UI architectures.&lt;/li&gt;
+	&lt;li&gt;Unit-testing code for robustness, including edge cases, usability, and general reliability.&lt;/li&gt;
+	&lt;li&gt;Create and be accountable for user interaction models, workflows, information architecture, prototypes, and guidelines for user interfaces.&lt;/li&gt;
+	&lt;li&gt;Work closely and collaborate with other members of the development teams to ensure smooth integration of the UI component with back end technologies&lt;/li&gt;
+	&lt;li&gt;Designing and building responsive web applications.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Desired Skills &amp; Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;At least 1+ years of Frontend development experience&lt;/li&gt;
+	&lt;li&gt;BE/BS in Computer Science, Management and Information Systems, or equivalent&lt;/li&gt;
+	&lt;li&gt;Problem Solver: Ability to formulate/implement technical solutions, proven ability to understand, analyze, and solve issues with guidance.&lt;/li&gt;
+	&lt;li&gt;Should have executed a production level end to end UI application on his own&lt;/li&gt;
+	&lt;li&gt;A hands-on contributor who played an important role in implementing the proposed architecture and design&lt;/li&gt;
+	&lt;li&gt;Excellent command over HTML5, CSS,Javascript,Jquery,Ajax,MVVM. Proficient&lt;/li&gt;
+	&lt;li&gt;understanding of web markup.&lt;/li&gt;
+	&lt;li&gt;Expert Level proficiency of Bootstrap, Angular.js (Angular Latest version preferred), Framework.General Familiarity with Node.js, Ember.js, Can.js, React.js&lt;/li&gt;
+	&lt;li&gt;Proficient in unit test cases for UI applications functionality and flow testing using Jasmine/Karma Framework&lt;/li&gt;
+	&lt;li&gt;Good knowledge of caching and memory management for UI applications&lt;/li&gt;
+	&lt;li&gt;Exposure to data visualization libraries such as D3.js&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/software-engineer-angular/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">lendingkartcareers - Senior Software Engineer Flutter</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers04/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Software Engineer Flutter" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers04</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers04/">&lt;h2 class=&quot;section-heading&quot;&gt;About Lendingkart&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Lendingkart is a digital lending platform that facilitates working capital financing for entrepreneurs and small businesses in India through our network of affiliated lending partners. We have developed a technology platform powered by machine learning
+	algorithms which use big data to help its affiliate lenders evaluate borrower’s credit worthiness. Customers can apply for a loan using the web or mobile applications at their convenience and receive their sanctioned loans in as less as 3 days anywhere in the country.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is the only lending company from India to be featured in the Top 50 most established fintech firms acclaimed in annual ‘Fintech100’ report by KPMG, where they have uncovered the most innovative Fintech companies globally.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is one of the leading fintech firms in the Indian lending space. It is backed by top-tier investors – Temasek (through its 100% subsidiary Fullerton Financial Services), Bertelsmann, Mayfield Fund, India Quotient and Saama Capital to name a few.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles and Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Design and develop high-volume, low-latency applications for mission-critical systems, delivering high-availability and performance&lt;/li&gt;
+	&lt;li&gt;Diagnose performance issues, fix bugs (including crashes and ANRs) to increase the functionality of the application&lt;/li&gt;
+	&lt;li&gt;Write well designed, testable, efficient code&lt;/li&gt;
+	&lt;li&gt;Contribute to the entire lifecycle of product development.&lt;/li&gt;
+	&lt;li&gt;Unit test, refactor, iterate&lt;/li&gt;
+	&lt;li&gt;Build, hire, mentor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Desired Skills &amp; Qualifications&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Have two or more iOS/Android apps developed with Flutter.&lt;/li&gt;
+	&lt;li&gt;Either deployed on the AppStore/Google Play or available on Github&lt;/li&gt;
+	&lt;li&gt;3-5 years experience is required&lt;/li&gt;
+	&lt;li&gt;Flutter / DART&lt;/li&gt;
+	&lt;li&gt;Experience with third-party libraries and APIs&lt;/li&gt;
+	&lt;li&gt;MVVM, cross-platform compatibility (hybrid apps)&lt;/li&gt;
+	&lt;li&gt;Understanding of the Agile development life-cycle&lt;/li&gt;
+	&lt;li&gt;Experience with automated testing and building&lt;/li&gt;
+	&lt;li&gt;Experience with Git, Jenkins, or other version control tools&lt;/li&gt;
+	&lt;li&gt;experience with A/B Testing strategies&lt;/li&gt;
+	&lt;li&gt;Java/Kotlin Experience&lt;/li&gt;
+	&lt;li&gt;Hands on experience on Java/Kotlin (preferred)&lt;/li&gt;
+	&lt;li&gt;diagnose performance issues (crashes and application not responding- ANRs)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-software-engineer-flutter/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">lendingkartcareers - BA(Model Development)</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers05/" rel="alternate" type="text/html" title="lendingkartcareers - BA(Model Development)" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers05</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers05/">&lt;h2 class=&quot;section-heading&quot;&gt;About Lendingkart&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Lendingkart is a digital lending platform that facilitates working capital financing for entrepreneurs and small businesses in India through our network of affiliated lending partners. We have developed a technology platform powered by machine learning
+	algorithms which use big data to help its affiliate lenders evaluate borrower’s credit worthiness. Customers can apply for a loan using the web or mobile applications at their convenience and receive their sanctioned loans in as less as 3 days anywhere in the country.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is the only lending company from India to be featured in the Top 50 most established fintech firms acclaimed in annual ‘Fintech100’ report by KPMG, where they have uncovered the most innovative Fintech companies globally.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is one of the leading fintech firms in the Indian lending space. It is backed by top-tier investors – Temasek (through its 100% subsidiary Fullerton Financial Services), Bertelsmann, Mayfield Fund, India Quotient and Saama Capital to name a few.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles and Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Support tactical and strategic projects with analytical input to aid organization take data backed decisions.&lt;/li&gt;
+	&lt;li&gt;Conceptualize reports to track key business metrics and work with technology team to develop the dashboards.&lt;/li&gt;
+	&lt;li&gt;Should be able to engage successfully across multiple projects in a fast-paced environment.&lt;/li&gt;
+	&lt;li&gt;Building Machine learning models.&lt;/li&gt;
+	&lt;li&gt;Exploring different machine learning modelling techniques to build the optimum solution.&lt;/li&gt;
+	&lt;li&gt;Machine learning model parameter tuning&lt;/li&gt;
+	&lt;li&gt;Create a highly modular code – data extraction layer, data transformation layer, modeling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Desired profile/Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Strong python skills to develop Credit score models&lt;/li&gt;
+	&lt;li&gt;Strong Understanding of modelling techniques- XGBoost, Random forest, logistic regression, IV, WOE etc.&lt;/li&gt;
+	&lt;li&gt;Understanding of Credit Bureau features&lt;/li&gt;
+	&lt;li&gt;Good at SQL&lt;/li&gt;
+	&lt;li&gt;Good knowledge in excel&lt;/li&gt;
+	&lt;li&gt;Ability to think logically, critically, and constructively about complex problems, clearly&lt;/li&gt;
+	&lt;li&gt;communicate findings and propose solutions that address expressed needs&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/bamodel-development/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">lendingkartcareers - Senior Data Scientist</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers06/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Data Scientist" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers06</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers06/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Description for Senior Data Scientist:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Building Machine learning models for credit underwriting&lt;/li&gt;
+ 	&lt;li&gt;Exploring different machine learning modelling techniques to build the optimum solution.&lt;/li&gt;
+	&lt;li&gt;Machine learning model parameter tuning&lt;/li&gt;
+	&lt;li&gt;Ad hoc Credit analysis&lt;/li&gt;
+	&lt;li&gt;Create a highly modular code – data extraction layer, data transformation layer, modeling layer, results streaming layer&lt;/li&gt;
+	&lt;li&gt;Automation of repetitive codes, strong bug fixing skill.&lt;/li&gt;
+	&lt;li&gt;Manage code repository as well&lt;/li&gt;
+	&lt;li&gt;Critical: Building credit scoring model for MSME lending&lt;/li&gt;
+	&lt;li&gt;Immediate joinee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Skills:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Strong python skills to develop Credit score models&lt;/li&gt;
+	&lt;li&gt;Strong Understanding of modelling techniques- XGBoost, Random forest, logistic regression, IV, WOE etc.&lt;/li&gt;
+	&lt;li&gt;Understanding of Credit Bureau features&lt;/li&gt;
+	&lt;li&gt;Good at SQL&lt;/li&gt;
+	&lt;li&gt;Good knowledge in excel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Btech&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-data-scientist/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><summary type="html">Job Description for Senior Data Scientist:</summary></entry><entry><title type="html">lendingkartcareers - Software Engineer Flutter</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers07/" rel="alternate" type="text/html" title="lendingkartcareers - Software Engineer Flutter" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers07</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers07/">&lt;h2 class=&quot;section-heading&quot;&gt;About Lendingkart&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Lendingkart is a digital lending platform that facilitates working capital financing for entrepreneurs and small businesses in India through our network of affiliated lending partners. We have developed a technology platform powered by machine learning
+	algorithms which use big data to help its affiliate lenders evaluate borrower’s credit worthiness. Customers can apply for a loan using the web or mobile applications at their convenience and receive their sanctioned loans in as less as 3 days anywhere in the country.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is the only lending company from India to be featured in the Top 50 most established fintech firms acclaimed in annual ‘Fintech100’ report by KPMG, where they have uncovered the most innovative Fintech companies globally.&lt;/li&gt;
+	&lt;li&gt;Lendingkart is one of the leading fintech firms in the Indian lending space. It is backed by top-tier investors – Temasek (through its 100% subsidiary Fullerton Financial Services), Bertelsmann, Mayfield Fund, India Quotient and Saama Capital to name a few.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Job Description for Senior Data Scientist:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Collaborate with cross-functional teams to define, design, and push new features and innovative front-end solutions.&lt;/li&gt;
+	&lt;li&gt;Translate UI/UX design wireframes to actual code that will produce visual elements of the application.&lt;/li&gt;
+	&lt;li&gt;Continuously discovering, evaluating, and implementing new technologies to maximize development efficiency.&lt;/li&gt;
+	&lt;li&gt;Provide technical leadership towards new UI architectures.&lt;/li&gt;
+	&lt;li&gt;Unit-testing code for robustness, including edge cases, usability, and general reliability.&lt;/li&gt;
+	&lt;li&gt;Create and be accountable for user interaction models, workflows, information architecture, prototypes, and guidelines for user interfaces.&lt;/li&gt;
+	&lt;li&gt;Work closely and collaborate with other members of the development teams to ensure smooth integration of the UI component with back end technologies&lt;/li&gt;
+	&lt;li&gt;Designing and building responsive web applications&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Desired Skills &amp; Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;At least 3+ years of Frontend development experience&lt;/li&gt;
+	&lt;li&gt;BE/BS in Computer Science, Management and Information Systems, or&lt;/li&gt;
+	&lt;li&gt;equivalent Problem Solver: Ability to formulate/implement technical solutions, proven&lt;/li&gt;
+	&lt;li&gt;ability to understand, analyze, and solve issues with guidance.&lt;/li&gt;
+	&lt;li&gt;Should have executed a production level end to end UI application on his own&lt;/li&gt;
+	&lt;li&gt;A hands-on contributor who played an important role in implementing the proposed&lt;/li&gt;
+	&lt;li&gt;architecture and design&lt;/li&gt;
+	&lt;li&gt;Excellent command over HTML5, CSS,Javascript,Jquery,Ajax,MVVM. Proficient&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-flutter/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">arzooo - Data Engineer</title><link href="http://localhost:4000/it/topit/2022/07/01/arzooo01/" rel="alternate" type="text/html" title="arzooo - Data Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/topit/2022/07/01/arzooo01</id><content type="html" xml:base="http://localhost:4000/it/topit/2022/07/01/arzooo01/">&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
 
 &lt;p&gt;We’re looking for Data Engineers who enjoy the challenge of diving into real-world problems, solving the unsolvable, develop metrics and business cases that will enable us to make impactful business decisions on products that affect millions of people everyday.&lt;/p&gt;
 
@@ -102,270 +321,4 @@
 
 &lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
 
-&lt;a href=&quot;https://career.arzooo.com/jobs/qYGWpUDHqG0e/engineering-manager-frontend&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Frontend Developer II</title><link href="http://localhost:4000/it/2022/07/01/arzooo04/" rel="alternate" type="text/html" title="arzooo - Frontend Developer II" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo04</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo04/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
-
-&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Develop, and curate the web and app-based interfaces that thousands of Arzooo customers interact with on a daily basis.&lt;/li&gt;
- 	&lt;li&gt;Managing end to end development from the frontend perspective.&lt;/li&gt;
- 	&lt;li&gt;Build reusable code and libraries for future use.&lt;/li&gt;
- 	&lt;li&gt;Ensure the technical feasibility of UI/UX designs.&lt;/li&gt;
- 	&lt;li&gt;Ensure captured data validation to the best standards.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Proficient understanding of HTML5 CSS3 CSS preprocessors (LESS/SASS).&lt;/li&gt;
-	&lt;li&gt;Proficient understanding of ReactJs and JavaScript.&lt;/li&gt;
-	&lt;li&gt;Familiarity with React Native is a plus.&lt;/li&gt;
-	&lt;li&gt;Knowledge of SPAs and build tools (like webpack, parcel etc. ).&lt;/li&gt;
-
-	&lt;li&gt;Proficient understanding of code versioning tools, such as GIT.&lt;/li&gt;
-	&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
-	&lt;li&gt;Experience with performance optimisation of applications.&lt;/li&gt;
-	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
-
-	&lt;li&gt;Excellent problem-solving ability and desire to learn new technologies and platforms.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/3lbikUc7sf6e/frontend-developer-ii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Frontend DFrontend Developer III</title><link href="http://localhost:4000/it/2022/07/01/arzooo05/" rel="alternate" type="text/html" title="arzooo - Frontend DFrontend Developer III" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo05</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo05/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
-
-&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Develop, and curate the web and app-based interfaces that thousands of Arzooo customers interact with on a daily basis.&lt;/li&gt;
- 	&lt;li&gt;Managing end to end development from the frontend perspective.&lt;/li&gt;
- 	&lt;li&gt;Build reusable code and libraries for future use.&lt;/li&gt;
- 	&lt;li&gt;Ensure the technical feasibility of UI/UX designs.&lt;/li&gt;
- 	&lt;li&gt;Ensure captured data validation to the best standards.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Proficient understanding of HTML5 CSS3 CSS preprocessors (LESS/SASS).&lt;/li&gt;
-	&lt;li&gt;Proficient understanding of ReactJs and JavaScript.&lt;/li&gt;
-	&lt;li&gt;Familiarity with React Native is a plus.&lt;/li&gt;
-	&lt;li&gt;Knowledge of SPAs and build tools (like webpack, parcel etc. ).&lt;/li&gt;
-
-	&lt;li&gt;Proficient understanding of code versioning tools, such as GIT.&lt;/li&gt;
-	&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
-	&lt;li&gt;Experience with performance optimisation of applications.&lt;/li&gt;
-	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
-
-	&lt;li&gt;Excellent problem-solving ability and desire to learn new technologies and platforms.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/oxd_08GvXz5t/frontend-developer-iii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - SDET II/III</title><link href="http://localhost:4000/it/2022/07/01/arzooo06/" rel="alternate" type="text/html" title="arzooo - SDET II/III" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo06</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo06/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Designing and implementing an automated test suite for various platform capabilities.&lt;/li&gt;
- 	&lt;li&gt;Thoroughly testing various input combinations for any given API.&lt;/li&gt;
- 	&lt;li&gt;Understanding and assuring a high standard for the platform at all times.&lt;/li&gt;
- 	&lt;li&gt;Working closely with the product and engineering team.&lt;/li&gt;
- 	&lt;li&gt;Participating actively in the recruitment and nurturing of QAs as awesome as you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Experience - 3+ years.&lt;/li&gt;
-	&lt;li&gt;The ideal candidate should be able to: Write clean, elegant code.&lt;/li&gt;
-	&lt;li&gt;Solve complex problems while handling ambiguity.&lt;/li&gt;
-	&lt;li&gt;Manage his/her deliverables with a strict commitment to the project deadlines.&lt;/li&gt;
-
-	&lt;li&gt;Review and promote best coding practices among peers.&lt;/li&gt;
-	&lt;li&gt;Clearly, communicate his/her ideas and help train other team members.&lt;/li&gt;
-	&lt;li&gt;Experience in manual testing and automation testing.&lt;/li&gt;
-	&lt;li&gt;Has a solid grasp of programming fundamentals with proficiency in NodeJS/ any scripting language&lt;/li&gt;
-	&lt;li&gt;Can understand and write SQL queries.&lt;/li&gt;
-	&lt;li&gt;Good at understanding Automation tools like QTP, Selenium.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/oxd_08GvXz5t/frontend-developer-iii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Senior Devops Engineer</title><link href="http://localhost:4000/it/2022/07/01/arzooo07/" rel="alternate" type="text/html" title="arzooo - Senior Devops Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo07</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo07/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;As a Cloud Engineer, you operate our Ecom. Infra ecosystem. The role is a blend of system and software engineering where some coding and automation are essential. You embody the philosophies of DevOps with a greater focus on measuring and achieving reliability through engineering and operations work.&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Your tasks will be designing, developing and improving our next-generation infrastructure.&lt;/li&gt;
-	&lt;li&gt;Migrating applications to the new infrastructure and working closely with the Dev and QA teams&lt;/li&gt;
-	&lt;li&gt;Resolve and automate production issues, while also providing rostered on-call support.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Develop, maintain and administer tools which will automate operational activities and improve engineering productivity&lt;/li&gt;
- 	&lt;li&gt;Automate continuous delivery and on-demand capacity management solutions&lt;/li&gt;
- 	&lt;li&gt;Developing configuration and infrastructure solutions for internal deployments&lt;/li&gt;
- 	&lt;li&gt;Troubleshooting, diagnosing and fixing software issues&lt;/li&gt;
- 	&lt;li&gt;Updating, tracking and resolving technical issues&lt;/li&gt;
-
- 	&lt;li&gt;Suggesting architecture improvements, recommending process improvements&lt;/li&gt;
- 	&lt;li&gt;Evaluate new technology options and vendor products.&lt;/li&gt;
- 	&lt;li&gt;Ensuring critical system security through the use of best in class security solutions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;7+ years of technical experience or in a similar role supporting large scale production systems&lt;/li&gt;
-	&lt;li&gt;Familiar with cloud services such as AWS&lt;/li&gt;
-	&lt;li&gt;Experience in distributed environments&lt;/li&gt;
-	&lt;li&gt;Experience with tools such as Docker, Kubernetes, Kafka, Elasticsearch, Ansible, Terraform, etc&lt;/li&gt;
-
-	&lt;li&gt;Demonstrated programming capability in a high-level programming language such as Python, Bash or similar&lt;/li&gt;
-	&lt;li&gt;Strong command of Linux environment&lt;/li&gt;
-	&lt;li&gt;AWS certification is a plus&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/qEbURsV35BFa/senior-devops-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Senior Engineering Manager</title><link href="http://localhost:4000/it/2022/07/01/arzooo08/" rel="alternate" type="text/html" title="arzooo - Senior Engineering Manager" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo08</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo08/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;As a Cloud Engineer, you operate our Ecom. Infra ecosystem. The role is a blend of system and software engineering where some coding and automation are essential. You embody the philosophies of DevOps with a greater focus on measuring and achieving reliability through engineering and operations work.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Work with other Arzooo's leaders to design and drive the plan for Arzooo's vision.&lt;/li&gt;
- 	&lt;li&gt;Recruit great engineers, in collaboration with Arzooo's recruiting team.&lt;/li&gt;
- 	&lt;li&gt;Develop engineers on the team, helping them advance in their careers.&lt;/li&gt;
- 	&lt;li&gt;Empower the engineering team to achieve a high level of technical productivity, reliability and simplicity.&lt;/li&gt;
- 	&lt;li&gt;Contribute to engineering-wide initiatives as a member of Arzooo's engineering management team.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
-	&lt;li&gt;A track record of leading productive engineering teams.&lt;/li&gt;
-	&lt;li&gt;Successfully recruited great people to your teams.&lt;/li&gt;
-	&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility.&lt;/li&gt;
-
-	&lt;li&gt;The desire to encourage a healthy work environment that's both supportive and challenging.&lt;/li&gt;
-	&lt;li&gt;A genuine excitement to help engineers develop new skills and advance in their careers.&lt;/li&gt;
-	&lt;li&gt;Enough technical sense to ask engineers good questions about architecture and product decisions.&lt;/li&gt;
-
-	&lt;li&gt;7+ years of relevant engineering and hands-on technical management experience.&lt;/li&gt;
-	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
-	&lt;li&gt;Strong hands-on experience in full stack development and architecture using NodeJS, MVC, microservices, UI &amp; UX (React), ORM tool (Sequelize), CICD tools (Git, Jenkins, AWS).&lt;/li&gt;
-	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/qEbURsV35BFa/senior-devops-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Software Developer SDE II</title><link href="http://localhost:4000/it/2022/07/01/arzooo09/" rel="alternate" type="text/html" title="arzooo - Software Developer SDE II" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo09</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo09/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
-
-&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
-
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
-	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
-	&lt;li&gt;Strong hands-on experience in full-stack development and architecture using NodeJS, Express (MVC, microservice), Rest API, UI &amp; UX (React), ORM tool (Sequelize), CICD tools (Git, Jenkins).&lt;/li&gt;
-	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
-
-	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
-	&lt;li&gt;Responsible for peer code review.&lt;/li&gt;
-	&lt;li&gt;Responsible for architecting, maintaining and scaling the Arzooo platform.&lt;/li&gt;
-	&lt;li&gt;Experienced in agile methodologies.&lt;/li&gt;	
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/COOeYBD5SO9T/software-developer-sde-ii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Arzooo is where you belong!:</summary></entry><entry><title type="html">arzooo - Software Developer SDE III</title><link href="http://localhost:4000/it/2022/07/01/arzooo10/" rel="alternate" type="text/html" title="arzooo - Software Developer SDE III" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo10</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo10/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
-
-&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
-
-&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
-
-
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
-
-&lt;ul&gt;
-	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
-	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
-	&lt;li&gt;Strong hands-on experience in full-stack development and architecture using NodeJS, Express (MVC, microservice), Rest API, UI &amp; UX (React), ORM tool (Sequelize), CICD tools (Git, Jenkins).&lt;/li&gt;
-
-	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
-	&lt;li&gt;Responsible for peer code review.&lt;/li&gt;
-	&lt;li&gt;Responsible for architecting, maintaining and scaling the Arzooo platform.&lt;/li&gt;
-	&lt;li&gt;Experienced in agile methodologies.&lt;/li&gt;
-
-	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
-	&lt;li&gt;Strong hands-on experience in backend stack (C++, JAVA, Golang, Python, Nodejs)&lt;/li&gt;
-	&lt;li&gt;Expertise in distributed systems &amp; architecture&lt;/li&gt;
-	&lt;li&gt;Operational excellence in performance and scalability issues&lt;/li&gt; 
-	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
-
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
-
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
-
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
-
-&lt;a href=&quot;https://career.arzooo.com/jobs/QwxRK2KRa0yT/software-developer-sde-iii&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Arzooo is where you belong!:</summary></entry></feed>
+&lt;a href=&quot;https://career.arzooo.com/jobs/qYGWpUDHqG0e/engineering-manager-frontend&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry></feed>
