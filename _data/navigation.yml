@@ -5,5 +5,9 @@ links:
 #  link: /pricing/
 #- name: About
 #  link: /about/
+- name: share your resume with recruiters
+  link: /share-resume/
+#- name: Post a Job
+#  link: /post-a-job/
 - name: Contact
   link: /contact/
