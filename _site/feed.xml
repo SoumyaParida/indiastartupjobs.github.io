@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-29T19:18:59+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">lendingkartcareers - Senior Software Engineer Data</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers01/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Software Engineer Data" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers01</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers01/">&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-02T14:09:45+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">lendingkartcareers - Senior Software Engineer Data</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers01/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Software Engineer Data" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers01</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers01/">&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;(4-6) years of work exp&lt;/li&gt;
@@ -217,108 +217,252 @@
 &lt;/ul&gt;
 
 
-&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-flutter/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">arzooo - Data Engineer</title><link href="http://localhost:4000/it/topit/2022/07/01/arzooo01/" rel="alternate" type="text/html" title="arzooo - Data Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/topit/2022/07/01/arzooo01</id><content type="html" xml:base="http://localhost:4000/it/topit/2022/07/01/arzooo01/">&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-flutter/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">FamPay - Android Engineer</title><link href="http://localhost:4000/it/2022/07/01/FamPay01/" rel="alternate" type="text/html" title="FamPay - Android Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/FamPay01</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/FamPay01/">&lt;h2 class=&quot;section-heading&quot;&gt;About FamPay&lt;/h2&gt;
 
-&lt;p&gt;We’re looking for Data Engineers who enjoy the challenge of diving into real-world problems, solving the unsolvable, develop metrics and business cases that will enable us to make impactful business decisions on products that affect millions of people everyday.&lt;/p&gt;
+&lt;p&gt;FamPay is building India’s first neo-bank exclusively teens. FamPay helps teens make their own online and offline payments through UPI, FamPay App and FamCard. Our aim is to make banking cool for teens and to help them learn the value of money, savings and spending wisely. We are on a mission to raise a new, financially aware generation, and drive 250 Million+ Indian teenagers to kickstart their financial journey super early in their life.&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;What is the role like?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Founded in 2019 by IIT Roorkee alumni, FamPay is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Sequoia Capital India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angels.&lt;/p&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;&lt;b&gt;Demonstrate ability&lt;/b&gt; to manage large-scale data modelling projects, identify requirements and tools, and build data warehousing solutions that are explainable &amp; scalable through fault-tolerant architecture. &lt;/li&gt;
- 	&lt;li&gt;&lt;b&gt;Partner with passionate people&lt;/b&gt; in sales, marketing, operations, tech &amp; product to automate, own many large datasets,  scale the analysis, implement new data pipelines (Airflow, Python, columnar datastores) and make the data more actionable to manage Arzooo’s business.&lt;/li&gt;
- 	&lt;li&gt;&lt;b&gt;Be an expert&lt;/b&gt; in designing and developing frameworks, tools and processes for reliably ingesting and processing vast amounts of data into our data platform.&lt;/li&gt;
- 	&lt;li&gt;&lt;b&gt;Optimize&lt;/b&gt; data ingestion, storage and processing architecture to meet product, business and performance needs.&lt;/li&gt;
- 	&lt;li&gt;&lt;b&gt;Adaptive Fast learner&lt;/b&gt; who thrives on learning new technologies and doesn't believe in one-size-fits-all solutions. You will adapt easily to meet the needs of our massive growth and rapidly evolving business environment.&lt;/li&gt;
-	&lt;li&gt;&lt;b&gt;Be a thought leader and advocate&lt;/b&gt; for effective practices in the data engineering space.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About this Role&lt;/h2&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Our Ideal Candidate&lt;/h2&gt;
+&lt;p&gt;You will be the gatekeeper of FamPay's user's interaction. Your capabilities will define how our users will perceive our capabilities. We are looking for creators with obsessive need for visual and performance perfection, combined with high learning+implementation combo powers. The ones who iterate the script 100s of times, if required, to get that feature right.&lt;/p&gt;
+
+&lt;p&gt;Let's get on the rocketship together?&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;On the Job&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;6+ years of solid track record in the data engineering-focused role with large-scale software development in the product engineering space.&lt;/li&gt;
-	&lt;li&gt;Advanced, inside-out knowledge of scalable data solutions in the cloud (AWS/ Azure / GCP). We use programming languages like Node Js/ Go lang/Java/Python/Scala data stores like Cassandra, DynamoDB, Redis and MQs like Kafka- Any programming language is fine.&lt;/li&gt;
-	&lt;li&gt;Demonstrate strength in data lake architecture, data storage strategies, data governance and relational database concepts &amp; experience with streaming and batch data processing frameworks.&lt;/li&gt;
-	&lt;li&gt;Proficiency in SQL, AWS knowledge, expertise (S3, EC2, EMR, Lambda, Kinesis, KafkCI/CD best practices) &amp; fluent with containerization and Kubernetes.&lt;/li&gt;
+	&lt;li&gt;Build and support FamPay android app&lt;/li&gt;
+	&lt;li&gt;Take ownership for shipping features in android&lt;/li&gt;
+	&lt;li&gt;Coordinate with product, design and backend to get things done&lt;/li&gt;
+	&lt;li&gt;Being proactive in solving issues&lt;/li&gt;
+	&lt;li&gt;Trying out new things that can help improve user experience&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://career.arzooo.com/jobs/OXuc-rsf7MTu/data-engineer&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="topit" /><category term="5-8" /><category term="java" /><category term="python" /><category term="nodejs" /><summary type="html">We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!</summary></entry><entry><title type="html">arzooo - Engineering Manager</title><link href="http://localhost:4000/it/2022/07/01/arzooo02/" rel="alternate" type="text/html" title="arzooo - Engineering Manager" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo02</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo02/">&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Work with other Arzooo's leaders to design and drive the plan for Arzooo's vision.&lt;/li&gt;
- 	&lt;li&gt;Recruit great engineers, in collaboration with Arzooo's recruiting team.&lt;/li&gt;
- 	&lt;li&gt;Develop engineers on the team, helping them advance in their careers.&lt;/li&gt;
- 	&lt;li&gt;Empower the engineering team to achieve a high level of technical productivity, reliability and simplicity.&lt;/li&gt;
- 	&lt;li&gt;Contribute to engineering-wide initiatives as a member of Arzooo's engineering management team.&lt;/li&gt;
+	&lt;li&gt;1-2 years of experience&lt;/li&gt;
+	&lt;li&gt;Good programming and android fundamentals&lt;/li&gt;
+	&lt;li&gt;Experience with reactive programming and paradigms&lt;/li&gt;
+	&lt;li&gt;Experience with Firebase (messaging, analytics, crashlytics, remote-config, realtime database)&lt;/li&gt;
+	&lt;li&gt;Good knowledge about the android build system&lt;/li&gt;
+	&lt;li&gt;Basic knowledge of multi module architecture&lt;/li&gt;
+	&lt;li&gt;Basic knowledge about programatically generated UI&lt;/li&gt;
+	&lt;li&gt;Basic knowledge of android modern architecture&lt;/li&gt;
+	&lt;li&gt;Basic Knowledge about deeplinking in android&lt;/li&gt;
+	&lt;li&gt;Practical knowledge of Git - Went through app distribution process at least once&lt;/li&gt;
+	&lt;li&gt;Well-versed with Software Development Life Cycle&lt;/li&gt;
+	&lt;li&gt;Demonstrate the ability to be a self-starter and learn quickly&lt;/li&gt;
+	&lt;li&gt;Excellent analytical and problem-solving skills&lt;/li&gt;
+	&lt;li&gt;Passion for learning and implementing new technologies&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Why should you join us?&lt;/h2&gt;
+
+&lt;p&gt;Every once in a while, a product comes to life that makes people think, why was this not done earlier? The users love it, the investors dream about the great returns and the team feels the joy and pride every day. We have strong indicators for users &amp; investors, and we are building a team that will have stories to tell all their life.&lt;/p&gt;
+&lt;p&gt;We believe that a great product is built by a high-quality team that finds purpose and joy in their work, and we also go beyond it to put heavy emphasis on having fun at work as well.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Perks&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Bachelor's degree in Computer Science or related technical discipline (Tier I colleges preferable).&lt;/li&gt;
-	&lt;li&gt;A track record of leading productive engineering teams.&lt;/li&gt;
-	&lt;li&gt;Successfully recruited great people to your teams.&lt;/li&gt;
-	&lt;li&gt;The ability to thrive on a high level of autonomy and responsibility.&lt;/li&gt;
-
-	&lt;li&gt;The desire to encourage a healthy work environment that's both supportive and challenging.&lt;/li&gt;
-	&lt;li&gt;A genuine excitement to help engineers develop new skills and advance in their careers.&lt;/li&gt;
-	&lt;li&gt;Enough technical sense to ask engineers good questions about architecture and product decisions.&lt;/li&gt;
-	&lt;li&gt;7+ years of relevant engineering and hands-on technical management experience.&lt;/li&gt;
-
-	&lt;li&gt;Previous experience at good tech startups/product companies.&lt;/li&gt;
-	&lt;li&gt;Strong hands-on experience in backend stack (C++,JAVA, Golang, Python, Nodejs)&lt;/li&gt;
-	&lt;li&gt;Expertise in distributed systems &amp; architecture&lt;/li&gt;
-	&lt;li&gt;Operational excellence in performance and scalability issues &lt;/li&gt;
-	&lt;li&gt;Excellent knowledge of RDBMS, SQL, NoSQL, Cache, Linux based systems.&lt;/li&gt;
+	&lt;li&gt;Industry's best ESOPs scheme&lt;/li&gt;
+	&lt;li&gt;Medical Insurances suiting your needs&lt;/li&gt;
+	&lt;li&gt;Access to Mental Health professionals&lt;/li&gt;
+	&lt;li&gt;Top gadgets to achieve skill level - Bruce Wayne&lt;/li&gt;
+	&lt;li&gt;Flexible work schedule so you never miss brunch, lunch, or dinner plans&lt;/li&gt;
+	&lt;li&gt;Friendly leaves policy that’ll make your friends jealous&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Know more about us!&lt;/h2&gt;
 
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;First Payments App Exclusively for Teens in India&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+&lt;p&gt;Before FamPay, the only experience teens could have with money was asking their parents for more. By allowing them to make and receive payments, track their transactions, build a savings streak, and earn exciting rewards, we are enabling them to finally start gaining financial autonomy.&lt;/p&gt;
 
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;India’s First Numberless Card&lt;/b&gt;&lt;/p&gt;
 
-&lt;a href=&quot;https://career.arzooo.com/jobs/zIV0BR7b6W4z/engineering-manager&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><category term="java" /><category term="python" /><category term="nodejs" /><category term="sql" /><summary type="html">We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!</summary></entry><entry><title type="html">arzooo - Engineering Manager - Frontend</title><link href="http://localhost:4000/it/2022/07/01/arzooo03/" rel="alternate" type="text/html" title="arzooo - Engineering Manager - Frontend" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/arzooo03</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/arzooo03/">&lt;h2 class=&quot;section-heading&quot;&gt;Arzooo is where you belong!:&lt;/h2&gt;
+&lt;p&gt;Sleek, black, and numberless, our FamCard is aesthetically on point and makes carrying your card around super secure.&lt;/p&gt;
 
-&lt;p&gt;We're building E-commerce, Fintech &amp; Supply Chain stacks for Indian Retail &amp; heads down focused on solving the hard, industry-defining challenges. If you love the first principle approach, freedom to build &amp; own your outcomes, Arzooo is the place! Welcoming all entrepreneurial minds to BUILD &amp; blitz scale with us!!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;India’s First Visa Card for Teens&lt;/b&gt;&lt;/p&gt;
 
-&lt;p&gt;We are looking for an exceptional, highly motivated and success-oriented senior engineer with great skills to join our team. The candidate should be committed to delivering critically high-performance products working closely with the Product Team. This individual will also work closely with architects, other key engineering teams and all stakeholders to help build our next generation platforms which will enable Arzooo teams to work with utmost quality and speed.&lt;/p&gt;
+&lt;p&gt;The most personalized card ever with doodles on it! Making your own payments wherever you go is not only more convenient than ever but also in vogue&lt;/p&gt;
 
-&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Trusted by Marquee Investors&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We are backed by internationally acclaimed investors including Elevation Capital, Y-Combinator, Sequoia Capital India, Venture Highway, Global Founder’s Capital, and the likes of Kunal Shah, and Amrish Rao as angels.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;LinkedIn Top Startups&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We were one of LinkedIn’s Top 25 Startups for 2021. Valuing talent over degree and creating a people-first culture has its perks ;)&lt;/p&gt;
+
+&lt;p&gt;Check out what Life at Fam looks like!&lt;/p&gt;
+
+&lt;a href=&quot;https://jobs.lever.co/fampay/4809c526-1cc1-4d9b-aa67-62c0255046b1&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><summary type="html">About FamPay</summary></entry><entry><title type="html">FamPay - Android Engineering Intern</title><link href="http://localhost:4000/internships/2022/07/01/FamPay02/" rel="alternate" type="text/html" title="FamPay - Android Engineering Intern" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/internships/2022/07/01/FamPay02</id><content type="html" xml:base="http://localhost:4000/internships/2022/07/01/FamPay02/">&lt;h2 class=&quot;section-heading&quot;&gt;About FamPay&lt;/h2&gt;
+
+&lt;p&gt;FamPay is building India’s first neo-bank exclusively teens. FamPay helps teens make their own online and offline payments through UPI, FamPay App and FamCard. Our aim is to make banking cool for teens and to help them learn the value of money, savings and spending wisely. We are on a mission to raise a new, financially aware generation, and drive 250 Million+ Indian teenagers to kickstart their financial journey super early in their life.&lt;/p&gt;
+
+&lt;p&gt;Founded in 2019 by IIT Roorkee alumni, FamPay is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Sequoia Capital India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angels.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;About this Role&lt;/h2&gt;
+
+&lt;p&gt;We take our internship program very seriously and hope to get our future team members from among our interns. You can take up as challenging a work as you are capable of.&lt;/p&gt;
+
+&lt;p&gt;You will be the gatekeeper of FamPay's user's interaction. Your capabilities will define how our users will perceive our capabilities. We are looking for creators with obsessive need for visual and performance perfection, combined with high learning+implementation combo powers. The ones who iterate the script 100s of times, if required, to get that feature right.&lt;/p&gt;
+
+&lt;p&gt;Let's get on the rocketship together?&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;On the Job&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Develop, and curate the web and app-based interfaces that thousands of Arzooo customers interact with on a daily basis.&lt;/li&gt;
- 	&lt;li&gt;Managing end to end development from the frontend perspective.&lt;/li&gt;
- 	&lt;li&gt;Build reusable code and libraries for future use.&lt;/li&gt;
- 	&lt;li&gt;Ensure the technical feasibility of UI/UX designs.&lt;/li&gt;
- 	&lt;li&gt;Ensure captured data validation to the best standards.&lt;/li&gt;
+	&lt;li&gt;Build and support FamPay android app&lt;/li&gt;
+	&lt;li&gt;Take ownership for shipping features in android&lt;/li&gt;
+	&lt;li&gt;Coordinate with product, design and backend to get things done&lt;/li&gt;
+	&lt;li&gt;Being proactive in solving issues&lt;/li&gt;
+	&lt;li&gt;Trying out new things that can help improve user experience&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Requirements:&lt;/h2&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Proficient understanding of HTML5 CSS3 CSS preprocessors (LESS/SASS).&lt;/li&gt;
-	&lt;li&gt;Proficient understanding of ReactJs and JavaScript.&lt;/li&gt;
-	&lt;li&gt;Familiarity with React Native is a plus.&lt;/li&gt;
-	&lt;li&gt;Knowledge of SPAs and build tools (like webpack, parcel etc. ).&lt;/li&gt;
-
-	&lt;li&gt;Proficient understanding of code versioning tools, such as GIT.&lt;/li&gt;
-	&lt;li&gt;Proficient understanding of cross-browser compatibility issues and ways to work around them.&lt;/li&gt;
-	&lt;li&gt;Experience with performance optimisation of applications.&lt;/li&gt;
-	&lt;li&gt;Write well designed, testable, efficient and well-documented code by using best software development practices.&lt;/li&gt;
-
-	&lt;li&gt;Excellent problem-solving ability and desire to learn new technologies and platforms.&lt;/li&gt;
+	&lt;li&gt;B.Tech in computer science or equal work experience&lt;/li&gt;
+	&lt;li&gt;Good programming and android fundamentals&lt;/li&gt;
+	&lt;li&gt;Experience with reactive programming and paradigms&lt;/li&gt;
+	&lt;li&gt;Experience with Firebase (messaging, analytics, crashlytics, remote-config, realtime database)&lt;/li&gt;
+	&lt;li&gt;Good knowledge about the android build system&lt;/li&gt;
+	&lt;li&gt;Basic knowledge of multi module architecture&lt;/li&gt;
+	&lt;li&gt;Basic knowledge about programatically generated UI&lt;/li&gt;
+	&lt;li&gt;Basic knowledge of android modern architecture&lt;/li&gt;
+	&lt;li&gt;Basic Knowledge about deeplinking in android&lt;/li&gt;
+	&lt;li&gt;Practical knowledge of Git - Went through app distribution process at least once&lt;/li&gt;
+	&lt;li&gt;Well-versed with Software Development Life Cycle&lt;/li&gt;
+	&lt;li&gt;Demonstrate the ability to be a self-starter and learn quickly&lt;/li&gt;
+	&lt;li&gt;Excellent analytical and problem-solving skills&lt;/li&gt;
+	&lt;li&gt;Passion for learning and implementing new technologies&lt;/li&gt;
+	&lt;li&gt;Internship experience with top product-based startups/Contribution to GSOC or any other open source community would be a huge plus&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;About Arzooo.com&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Why should you join us?&lt;/h2&gt;
 
-&lt;p&gt;Founded by ex-Flipkart leadership and IIT alumni, Arzooo is a vertical focused e-commerce startup, digitising the Consumer Electronics value chain in India.&lt;/p&gt;
+&lt;p&gt;Every once in a while, a product comes to life that makes people think, why was this not done earlier? The users love it, the investors dream about the great returns and the team feels the joy and pride every day. We have strong indicators for users &amp; investors, and we are building a team that will have stories to tell all their life.&lt;/p&gt;
+&lt;p&gt;We believe that a great product is built by a high-quality team that finds purpose and joy in their work, and we also go beyond it to put heavy emphasis on having fun at work as well.&lt;/p&gt;
 
-&lt;p&gt;Arzooo started as a B2B platform empowering thousands of Consumer Durables stores with the best pricing &amp; product selection through its e-commerce stack and also creating a very efficient supply chain infrastructure across tier-2,3,4 towns in India. The recent foray into fintech has enabled us to empower Indian retail with a low cost, digital-first Credit alternative, which is unlocking immense scale for Arzooo.&lt;/p&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;Perks&lt;/h2&gt;
 
-&lt;p&gt;We are the largest e-comm player in India in the Electronics domain, and scaling fast towards capturing this multi-billion opportunity. With a presence in 300+ cities, we're now building a direct to consumer platform on top of Arzooo existing network of thousands of Durables stores. Through the direct to consumer platform we're taking all these stores online with Live Commerce capabilities, building appliances focused shopping experience for tier-2+ India. We're a team of 600+ Arzooites, with deep experience in scaling startups, and we are building this team further now.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Competitive Stipend&lt;/li&gt;
+	&lt;li&gt;Certificate and Letter of Recommendation&lt;/li&gt;
+	&lt;li&gt;Subscriptions to premium platforms&lt;/li&gt;
+	&lt;li&gt;Access to Mental Health professionals&lt;/li&gt;
+	&lt;li&gt;Friendly leaves policy that’ll make your friends jealous&lt;/li&gt;
+	&lt;li&gt;Flexible work schedule so you never miss brunch, lunch, or dinner plans&lt;/li&gt;
+	&lt;li&gt;Chance to work full-time at FamPay&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;a href=&quot;https://career.arzooo.com/jobs/qYGWpUDHqG0e/engineering-manager-frontend&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><category term="5-8" /><category term="html" /><category term="css" /><category term="javascript" /><summary type="html">Arzooo is where you belong!:</summary></entry></feed>
+&lt;h2 class=&quot;section-heading&quot;&gt;Know more about us!&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;First Payments App Exclusively for Teens in India&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Before FamPay, the only experience teens could have with money was asking their parents for more. By allowing them to make and receive payments, track their transactions, build a savings streak, and earn exciting rewards, we are enabling them to finally start gaining financial autonomy.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;India’s First Numberless Card&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Sleek, black, and numberless, our FamCard is aesthetically on point and makes carrying your card around super secure.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;India’s First Visa Card for Teens&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The most personalized card ever with doodles on it! Making your own payments wherever you go is not only more convenient than ever but also in vogue&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Trusted by Marquee Investors&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We are backed by internationally acclaimed investors including Elevation Capital, Y-Combinator, Sequoia Capital India, Venture Highway, Global Founder’s Capital, and the likes of Kunal Shah, and Amrish Rao as angels.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;LinkedIn Top Startups&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We were one of LinkedIn’s Top 25 Startups for 2021. Valuing talent over degree and creating a people-first culture has its perks ;)&lt;/p&gt;
+
+&lt;p&gt;Check out what Life at Fam looks like!&lt;/p&gt;
+
+&lt;a href=&quot;https://jobs.lever.co/fampay/0e26c41d-029d-4eea-b598-33c27c346128&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="internships" /><category term="0-2" /><summary type="html">About FamPay</summary></entry><entry><title type="html">FamPay - Backend Engineer</title><link href="http://localhost:4000/it/2022/07/01/FamPay03/" rel="alternate" type="text/html" title="FamPay - Backend Engineer" /><published>2022-07-01T00:00:00+00:00</published><updated>2022-07-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/01/FamPay03</id><content type="html" xml:base="http://localhost:4000/it/2022/07/01/FamPay03/">&lt;h2 class=&quot;section-heading&quot;&gt;About FamPay&lt;/h2&gt;
+
+&lt;p&gt;FamPay is building India’s first neo-bank exclusively teens. FamPay helps teens make their own online and offline payments through UPI, FamPay App and FamCard. Our aim is to make banking cool for teens and to help them learn the value of money, savings and spending wisely. We are on a mission to raise a new, financially aware generation, and drive 250 Million+ Indian teenagers to kickstart their financial journey super early in their life.&lt;/p&gt;
+
+&lt;p&gt;Founded in 2019 by IIT Roorkee alumni, FamPay is backed by some of the most respected investors around the world like Elevation Capital, Y-Combinator, Sequoia Capital India, Venture Highway, Global Founder’s Capital and the likes of Kunal Shah, Amrish Rao as angels.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;About this Role&lt;/h2&gt;
+
+&lt;p&gt;We've got your back if you've got ours!&lt;/p&gt;
+
+&lt;p&gt;We are looking for builders of the 1st order. You should get a rush from creating things from scratch and take pleasure in watching users try to tear it apart through sheer volume and strange, unthinkable use cases. And when it breaks, you are to the Fam's rescue! — make everything smooth, secure and stronger than ever! If you inhale resilience and exhale code, apply now!&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;On the Job&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Craft clean, manageable code and maintain proper documentation&lt;/li&gt;
+	&lt;li&gt;Create, test and deploy the applications on production servers&lt;/li&gt;
+	&lt;li&gt;Participate in our on-call rotation triage &amp; address reliability issues that come up in production&lt;/li&gt;
+	&lt;li&gt;Continuously discover, evaluate, and implement new technologies and frameworks to maximize development efficiency&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Experience of minimum 1 year in designing and developing complex server side components&lt;/li&gt;
+	&lt;li&gt;Bachelors in Computer Science (or equivalent work experience) is preferred&lt;/li&gt;
+	&lt;li&gt;Experience with DevOps and writing REST APIs &amp; micro services architecture&lt;/li&gt;
+	&lt;li&gt;Strong programming expertise in Python, Django will be an added advantage&lt;/li&gt;
+	&lt;li&gt;Good understanding of relational databases (preferably PostgreSQL)&lt;/li&gt;
+	&lt;li&gt;Exposure to Cloud Platforms like AWS (preferred), Azure or Google Cloud&lt;/li&gt;
+	&lt;li&gt;Unix command line experience&lt;/li&gt;
+	&lt;li&gt;Well-versed with Software Development Life Cycle&lt;/li&gt;
+	&lt;li&gt;Demonstrate the ability to be a self-starter and learn quickly&lt;/li&gt;
+	&lt;li&gt;Excellent analytical and problem-solving skills&lt;/li&gt;
+	&lt;li&gt;Passion for learning and implementing new technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Why should you join us?&lt;/h2&gt;
+
+&lt;p&gt;Every once in a while, a product comes to life that makes people think, why was this not done earlier? The users love it, the investors dream about the great returns and the team feels the joy and pride every day. We have strong indicators for users &amp; investors, and we are building a team that will have stories to tell all their life.&lt;/p&gt;
+&lt;p&gt;We believe that a great product is built by a high-quality team that finds purpose and joy in their work, and we also go beyond it to put heavy emphasis on having fun at work as well.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Perks&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Industry's best ESOPs scheme&lt;/li&gt;
+	&lt;li&gt;Medical Insurances suiting your needs&lt;/li&gt;
+	&lt;li&gt;Subscriptions to premium platforms so you have all the resources you need&lt;/li&gt;
+	&lt;li&gt;Access to Mental Health professionals&lt;/li&gt;
+	&lt;li&gt;Top gadgets to achieve skill level - Bruce Wayne&lt;/li&gt;
+	&lt;li&gt;Flexible work schedule so you never miss brunch, lunch, or dinner plans&lt;/li&gt;
+	&lt;li&gt;Friendly leaves policy that’ll make your friends jealous&lt;/li&gt;
+	&lt;li&gt;Annual all-expenses-paid workations🍹&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Know more about us!&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;First Payments App Exclusively for Teens in India&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Before FamPay, the only experience teens could have with money was asking their parents for more. By allowing them to make and receive payments, track their transactions, build a savings streak, and earn exciting rewards, we are enabling them to finally start gaining financial autonomy.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;India’s First Numberless Card&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Sleek, black, and numberless, our FamCard is aesthetically on point and makes carrying your card around super secure.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;India’s First Visa Card for Teens&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The most personalized card ever with doodles on it! Making your own payments wherever you go is not only more convenient than ever but also in vogue&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Trusted by Marquee Investors&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We are backed by internationally acclaimed investors including Elevation Capital, Y-Combinator, Sequoia Capital India, Venture Highway, Global Founder’s Capital, and the likes of Kunal Shah, and Amrish Rao as angels.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;LinkedIn Top Startups&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We were one of LinkedIn’s Top 25 Startups for 2021. Valuing talent over degree and creating a people-first culture has its perks ;)&lt;/p&gt;
+
+&lt;p&gt;Check out what Life at Fam looks like!&lt;/p&gt;
+
+&lt;a href=&quot;https://jobs.lever.co/fampay/0293cdf5-7524-4b06-8e89-1a203715df01&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><summary type="html">About FamPay</summary></entry></feed>
