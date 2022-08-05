@@ -361,3 +361,8 @@ th {
   flex:1 1 auto;
   padding:1rem 1rem
 }
+
+figure { display: table; }
+
+
+figcaption { display: table-caption; caption-side: bottom ; }
