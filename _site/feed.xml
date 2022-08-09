@@ -1,138 +1,511 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-09T15:34:32+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">PlayShifu - Full Stack Developer (Frontend focus)</title><link href="http://localhost:4000/it/2022/08/01/playshifu01/" rel="alternate" type="text/html" title="PlayShifu - Full Stack Developer (Frontend focus)" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/playshifu01</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/playshifu01/">&lt;p&gt;Build APIs for the games as well as creating web portals and fresh new look for the overall web. You will also work on AI-driven game data engines (changing features and game levels based on the gameplay data).&lt;/p&gt;
-
-
-&lt;a href=&quot;https://www.playshifu.com/careers&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">Build APIs for the games as well as creating web portals and fresh new look for the overall web. You will also work on AI-driven game data engines (changing features and game levels based on the gameplay data).</summary></entry><entry><title type="html">PlayShifu - Game Developer</title><link href="http://localhost:4000/it/2022/08/01/playshifu02/" rel="alternate" type="text/html" title="PlayShifu - Game Developer" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/playshifu02</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/playshifu02/">&lt;p&gt;Develop Unity game flow, core game structures, enchanting UI and smooth UX.Learn the fundamentals of Augmented Reality development while also learning to develop games in a phygital environment.&lt;/p&gt;
-
-
-&lt;a href=&quot;https://www.playshifu.com/careers&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><summary type="html">Develop Unity game flow, core game structures, enchanting UI and smooth UX.Learn the fundamentals of Augmented Reality development while also learning to develop games in a phygital environment.</summary></entry><entry><title type="html">PlayShifu - Sr Game Developer</title><link href="http://localhost:4000/it/2022/08/01/playshifu03/" rel="alternate" type="text/html" title="PlayShifu - Sr Game Developer" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/playshifu03</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/playshifu03/">&lt;p&gt;Lead one of the gaming platforms on end-to-end platform architecture including core, analytics, and gaming modules while learning to develop games in a phygital environment.&lt;/p&gt;
-
-
-&lt;a href=&quot;https://www.playshifu.com/careers&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">Lead one of the gaming platforms on end-to-end platform architecture including core, analytics, and gaming modules while learning to develop games in a phygital environment.</summary></entry><entry><title type="html">PlayShifu - Full Stack Developer (Frontend focus)</title><link href="http://localhost:4000/it/2022/08/01/playshifu04/" rel="alternate" type="text/html" title="PlayShifu - Full Stack Developer (Frontend focus)" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/playshifu04</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/playshifu04/">&lt;p&gt;Build APIs for the games as well as creating web portals and fresh new look for the overall web. You will also work on AI-driven game data engines (changing features and game levels based on the gameplay data).&lt;/p&gt;
-
-
-&lt;a href=&quot;https://www.playshifu.com/careers&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">Build APIs for the games as well as creating web portals and fresh new look for the overall web. You will also work on AI-driven game data engines (changing features and game levels based on the gameplay data).</summary></entry><entry><title type="html">PlayShifu - Game Developer (Unity)</title><link href="http://localhost:4000/it/2022/08/01/playshifu05/" rel="alternate" type="text/html" title="PlayShifu - Game Developer (Unity)" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/playshifu05</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/playshifu05/">&lt;p&gt;Develop Unity game flow, core game structures, enchanting UI and smooth UX.Learn the fundamentals of Augmented Reality development while also learning to develop games in a phygital environment.&lt;/p&gt;
-
-
-&lt;a href=&quot;https://www.playshifu.com/careers&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><category term="2-5" /><summary type="html">Develop Unity game flow, core game structures, enchanting UI and smooth UX.Learn the fundamentals of Augmented Reality development while also learning to develop games in a phygital environment.</summary></entry><entry><title type="html">PlayShifu - Visual Designer</title><link href="http://localhost:4000/design/2022/08/01/playshifu06/" rel="alternate" type="text/html" title="PlayShifu - Visual Designer" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/design/2022/08/01/playshifu06</id><content type="html" xml:base="http://localhost:4000/design/2022/08/01/playshifu06/">&lt;p&gt;Sketch, wireframe &amp; design beautiful components for game related applications with the Development and 3D team as well as directing efforts on branding through creative creation on Website, Social Media, Print and other platforms.&lt;/p&gt;
-
-
-&lt;a href=&quot;https://www.playshifu.com/careers&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="design" /><category term="2-5" /><summary type="html">Sketch, wireframe &amp; design beautiful components for game related applications with the Development and 3D team as well as directing efforts on branding through creative creation on Website, Social Media, Print and other platforms.</summary></entry><entry><title type="html">lendingkartcareers - Senior Software Engineer Data</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers01/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Software Engineer Data" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers01</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers01/">&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-09T17:45:58+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Urban Template</title><subtitle>Jekyll template with example content for a web agency.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">medibuddy - Branch Manager</title><link href="http://localhost:4000/support/2022/08/01/medibuddy01/" rel="alternate" type="text/html" title="medibuddy - Branch Manager" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/08/01/medibuddy01</id><content type="html" xml:base="http://localhost:4000/support/2022/08/01/medibuddy01/">&lt;h2 class=&quot;section-heading&quot;&gt;Branch Manager required for Chennai location. Following are the requirements :&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;(4-6) years of work exp&lt;/li&gt;
-	&lt;li&gt;Experience in Java / Scala &amp; Python work ex is optional&lt;/li&gt;
-	&lt;li&gt;Should have working exp on the following areas :-&lt;/li&gt;
-	&lt;li&gt;Distributed columnar data bases like Redshift, Cassandra, HBase etc.&lt;/li&gt;
-	&lt;li&gt;Worked any one project and written code using MapReduce frameworks to process data like:
-		&lt;ul&gt;
-			&lt;li&gt;Spark (with Scala is a plus)&lt;/li&gt;
-			&lt;li&gt;Hadoop MapReduce&lt;/li&gt;
-			&lt;li&gt;Kafka Streams&lt;/li&gt;
-			&lt;li&gt;Flink&lt;/li&gt;
-			&lt;li&gt;KV Store like Redis&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;li&gt;Proficient with Engg practices like Unit Testing, CI/CD , Code Reviews, Code Coverage &amp; documentation.&lt;/li&gt;
-	&lt;li&gt;Document oriented databases like MongoDB.&lt;/li&gt;
-	&lt;li&gt;Nice to have : Expose of GraphDB’s like Neo4j.&lt;/li&gt;
+	&lt;li&gt;He / she should be from the TPA / Similar industry.&lt;/li&gt;
+	&lt;li&gt;Should be able to work as per required TAT's and SLA's of the clients. Shgould be able to coordinate well with internal teams.&lt;/li&gt;
+	&lt;li&gt;Should have a team handling experience of more than three years.&lt;/li&gt;
+	&lt;li&gt;Should have  5 or more years of total experience.&lt;/li&gt;
+	&lt;li&gt;Should have good leadership skills / ownership of the assigned work.&lt;/li&gt;
+	&lt;li&gt;Should be able to prepare and analyse reports. ( MS excel)&lt;/li&gt;
+	&lt;li&gt;Should have a proven track report of good performer.&lt;/li&gt;
+	&lt;li&gt;Should be flexible with work timings.&lt;/li&gt;
+	&lt;li&gt;Should have good communication skills in English and local language.&lt;/li&gt;
+	&lt;li&gt;Should have an aptitute for growth and improving the current business.&lt;/li&gt;
+	&lt;li&gt;Should understand calling and back office work requirements.&lt;/li&gt;
+	&lt;li&gt;Should be target driven.&lt;/li&gt;
+	&lt;li&gt;Should be able to join immediately ( within a month).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-software-engineer-data/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><category term="5-8" /><summary type="html">Requirements</summary></entry><entry><title type="html">lendingkartcareers - Software Engineer Data</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers02/" rel="alternate" type="text/html" title="lendingkartcareers - Software Engineer Data" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers02</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers02/">&lt;h2 class=&quot;section-heading&quot;&gt;Requirements&lt;/h2&gt;
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk0sr59/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="5-8" /><summary type="html">Branch Manager required for Chennai location. Following are the requirements :</summary></entry><entry><title type="html">medibuddy - Branch Manager</title><link href="http://localhost:4000/support/2022/08/01/medibuddy02/" rel="alternate" type="text/html" title="medibuddy - Branch Manager" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/08/01/medibuddy02</id><content type="html" xml:base="http://localhost:4000/support/2022/08/01/medibuddy02/">&lt;h2 class=&quot;section-heading&quot;&gt;Branch Manager required for Mumbai location. Following are the requirements :&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt; (2-3) years of work exp&lt;/li&gt;
-	&lt;li&gt;Experience in Java / Scala , (Python work ex is optional)&lt;/li&gt;
-	&lt;li&gt;Possess SQL skills&lt;/li&gt;
-	&lt;li&gt;Should have working exp on the following areas :-
-		&lt;ul&gt;
-			&lt;li&gt;Distributed columnar data bases like Redshift, Cassandra, HBase etc.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
-	&lt;li&gt;Worked any one project and written code using MapReduce frameworks to process data like:
-		&lt;ul&gt;
-			&lt;li&gt;Spark (either Scala/Java or python)&lt;/li&gt;
-			&lt;li&gt;Kafka Streams&lt;/li&gt;
-			&lt;li&gt;KV Stores like Redis&lt;/li&gt;
-			&lt;li&gt;Document oriented databases like MongoDB,CouchDB etc&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/li&gt;
+	&lt;li&gt;He / she should be from the TPA / Similar industry.&lt;/li&gt;
+	&lt;li&gt;Should have a team handling experience of min 5 years.&lt;/li&gt;
+	&lt;li&gt;Should have good leadership skills / ownership of the assigned work.&lt;/li&gt;
+	&lt;li&gt;Should be able to maintain the TAT's and work as per the given SLA's.&lt;/li&gt;
+	&lt;li&gt;He shouls have understanding of PPMC matrices and should be able to work accordingly.&lt;/li&gt;
+	&lt;li&gt;Should be able to prepare and analyse reports. &lt;/li&gt;
+	&lt;li&gt;Should have a proven track report of good performer.&lt;/li&gt;
+	&lt;li&gt;Should be able to increase PPMC business through insurer contacts.&lt;/li&gt;
+	&lt;li&gt;Should be flexible with work timings.&lt;/li&gt;
+	&lt;li&gt;Should have good communication skills in English and local language.&lt;/li&gt;
+	&lt;li&gt;Should have an aptitute for growth of himself and for team members.&lt;/li&gt;
+	&lt;li&gt;Should understand calling and back office work requirements.&lt;/li&gt;
+	&lt;li&gt;Should be target driven.&lt;/li&gt;
+	&lt;li&gt;Should be able to join immediately&lt;/li&gt; 
 &lt;/ul&gt;
 
-&lt;a href=&quot;https://www.lendingkartcareers.com/job/software-engineer-data/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">Requirements</summary></entry><entry><title type="html">lendingkartcareers - Software Engineer: Angular</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers03/" rel="alternate" type="text/html" title="lendingkartcareers - Software Engineer: Angular" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers03</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers03/">&lt;h2 class=&quot;section-heading&quot;&gt;About Lendingkart&lt;/h2&gt;
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk02pt3/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="5-8" /><summary type="html">Branch Manager required for Mumbai location. Following are the requirements :</summary></entry><entry><title type="html">medibuddy - Corporate Sales Manager</title><link href="http://localhost:4000/sales/2022/08/01/medibuddy03/" rel="alternate" type="text/html" title="medibuddy - Corporate Sales Manager" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/sales/2022/08/01/medibuddy03</id><content type="html" xml:base="http://localhost:4000/sales/2022/08/01/medibuddy03/">&lt;p&gt;&lt;b&gt;Job Description - Corporate Sales Manager&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;About: MediBuddy &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Founders Satish Kannan: CEO &amp; Co-Founder linkedin.com/in/satishkannan16&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Enbasekar D: CTO &amp; Co-Founder linkedin.com/in/enbasekar&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;MediBuddy is India’s largest digital healthcare platform. It gives users 24x7 access to high-quality healthcare on their fingertips. MediBuddy helps its users consult specialist doctors instantly via chat,video or voice call, order medicines and book lab tests from the comfort of their homes. It is also a partner to several leading corporate customers in the country and helps their employees access multiple healthcare benefits.&lt;/p&gt;
+
+&lt;p&gt;With a partner network of over 90,000 doctors, 7000 hospitals, 3000 diagnostic centres and 2500 pharmacies covering 23,000 pin-codes in India, and a 1000-member team located across 22 Indian cities, MediBuddy has catered to the healthcare needs of 3Cr Indians &amp; attends to the needs of over 35,000 Indians daily across the length and breadth of the country. &lt;/p&gt;
+
+&lt;p&gt;To establish market leadership and to strengthen its services, DocsApp (India’s largest online doctor consultation space) merged with MediBuddy. Today DocsApp and MediBuddy both operate under single brand name &quot;MediBuddy&quot;&lt;/p&gt;
+
+&lt;p&gt;The venture has so far raised over $50 million from India Life Sciences Fund III, LLC, Bessemer Venture Partners, Rebright Partners, TechMatrix Corporation, DeNA networks, Milliways Fund LLC, Mitsui Sumitomo (MSIVC), TEAMFund LP, JAFCO Asia Fund, FinSight Ventures, ALES Global Japan, Beyond Next Ventures, Makita corporation and Facebook’s angel investors, Anand Rajaraman and Venky Harinarayan.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;MediBuddy’s pioneering work has been widely recognised by many leading entities:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Lendingkart is a digital lending platform that facilitates working capital financing for entrepreneurs and small businesses in India through our network of affiliated lending partners. We have developed a technology platform powered by machine learning
-	algorithms which use big data to help its affiliate lenders evaluate borrower’s credit worthiness. Customers can apply for a loan using the web or mobile applications at their convenience and receive their sanctioned loans in as less as 3 days anywhere in the country.&lt;/li&gt;
-	&lt;li&gt;Lendingkart is the only lending company from India to be featured in the Top 50 most established fintech firms acclaimed in annual ‘Fintech100’ report by KPMG, where they have uncovered the most innovative Fintech companies globally.&lt;/li&gt;
-	&lt;li&gt;Lendingkart is one of the leading fintech firms in the Indian lending space. It is backed by top-tier investors – Temasek (through its 100% subsidiary Fullerton Financial Services), Bertelsmann, Mayfield Fund, India Quotient and Saama Capital to name a few.&lt;/li&gt;
+	&lt;li&gt;MediBuddy - Best Brand 2020 in Healthcare by ET Edge&lt;/li&gt;
+	&lt;li&gt;MediBuddy - Best Health &amp; Wellness Solution by ET- Intelligent Health &amp; Tech Awards 2020&lt;/li&gt;
+	&lt;li&gt;MediBuddy also bagged Marketing Campaign of the Year - #AapkaHealthBuddy &amp; Award for Best Marketing Excellence in Health &amp; Wellness Sector at National Awards for Marketing Excellence&lt;/li&gt;
+	&lt;li&gt;The “Industry Achievement Award 2019” by Hurun Report.&lt;/li&gt;
+	&lt;li&gt;The online digital platform also bagged 3 coveted awards- Best Healthcare Entrepreneur of the Year, Best Marketing Campaign, Best healthcare start-up of the year at Healthcare Leadership Awards presented by ABP News in the year 2019&lt;/li&gt;
+	&lt;li&gt;Best healthcare startup company of the year, Best use of social media &amp; Digital marketing in Healthcare, Best Marketing Campaign - #BaatTohKaro (DocsApp) &amp; Best Healthcare Entrepreneur of the year- Satish Kannan at National Healthcare Leadership Congress Awards presented by Zee Business in the year 2019. &lt;/li&gt;
+	&lt;li&gt;The ‘App of the Year 2017’ in the medical category by Amazon in association with Facebook.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Roles and Responsibilities&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;JOB SUMMARY&lt;/h2&gt;
+
+&lt;p&gt;The incumbent will be primary responsible for Business development and Corporate sales for Health &amp; Wellness products in the assigned territory. . Key responsibilities include Business Development, facilitate Account Management, facilitate Sales Operation, Revenue generation, forecasting , sales pipeline management , Lead generation , Competition benchmarking and Market Penetration.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;ROLES &amp; RESPONSIBILITIES&lt;/h2&gt;
+
 
 &lt;ul&gt;
-	&lt;li&gt;Collaborate with cross-functional teams to define, design, and push new features and innovative front-end solutions.&lt;/li&gt;
-	&lt;li&gt;Translate UI/UX design wireframes to actual code that will produce visual elements of the application.&lt;/li&gt;
-	&lt;li&gt;Continuously discovering, evaluating, and implementing new technologies to maximize development efficiency.&lt;/li&gt;
-	&lt;li&gt;Provide technical leadership towards new UI architectures.&lt;/li&gt;
-	&lt;li&gt;Unit-testing code for robustness, including edge cases, usability, and general reliability.&lt;/li&gt;
-	&lt;li&gt;Create and be accountable for user interaction models, workflows, information architecture, prototypes, and guidelines for user interfaces.&lt;/li&gt;
-	&lt;li&gt;Work closely and collaborate with other members of the development teams to ensure smooth integration of the UI component with back end technologies&lt;/li&gt;
-	&lt;li&gt;Designing and building responsive web applications.&lt;/li&gt;
+	&lt;li&gt;Drive overall sales revenue of the company under the leadership of Regional Sales Head along with strategizing future growth and stronger market penetration.&lt;/li&gt;
+	&lt;li&gt;Work on respective State’s sales funnel and support front line sales team in account closures&lt;/li&gt;
+	&lt;li&gt;Acquire and maintain relationships with new customers with a focus on decision makers &amp; influencers. Accountable for high-level external/internal client management.&lt;/li&gt;
+	&lt;li&gt;Establishes sales objectives by forecasting and developing annual sales quotas for regions and territories; projecting expected sales volume and profit for existing and new products.&lt;/li&gt;
+	&lt;li&gt;Keeping track of competitor activities and products and developing a sales strategy to ensure market edge.&lt;/li&gt;
+	&lt;li&gt;Develop and coordinate sales selling cycle and methodology. Analyse and evaluate the effectiveness of sales, methods, costs, and results.&lt;/li&gt;
+	&lt;li&gt;Responsible for increasing awareness and utilization amongst existing clientele about the service offerings vide onsite campaigns, e-based marketing campaigns and other marketing initiatives&lt;/li&gt;
+	&lt;li&gt;Responsible for new corporate &amp; insurance tie-ups for sales of healthcare products, wellness services and implement various sales models including worksite, third party tie-ups, broker models.&lt;/li&gt;
+	&lt;li&gt;Relationship management &amp; identification of cross selling and up-selling opportunities with corporate and life &amp; health insurance companies&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Desired Skills &amp; Qualifications&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;POSITION REQUIREMENTS&lt;/h2&gt;
+
 
 &lt;ul&gt;
-	&lt;li&gt;At least 1+ years of Frontend development experience&lt;/li&gt;
-	&lt;li&gt;BE/BS in Computer Science, Management and Information Systems, or equivalent&lt;/li&gt;
-	&lt;li&gt;Problem Solver: Ability to formulate/implement technical solutions, proven ability to understand, analyze, and solve issues with guidance.&lt;/li&gt;
-	&lt;li&gt;Should have executed a production level end to end UI application on his own&lt;/li&gt;
-	&lt;li&gt;A hands-on contributor who played an important role in implementing the proposed architecture and design&lt;/li&gt;
-	&lt;li&gt;Excellent command over HTML5, CSS,Javascript,Jquery,Ajax,MVVM. Proficient&lt;/li&gt;
-	&lt;li&gt;understanding of web markup.&lt;/li&gt;
-	&lt;li&gt;Expert Level proficiency of Bootstrap, Angular.js (Angular Latest version preferred), Framework.General Familiarity with Node.js, Ember.js, Can.js, React.js&lt;/li&gt;
-	&lt;li&gt;Proficient in unit test cases for UI applications functionality and flow testing using Jasmine/Karma Framework&lt;/li&gt;
-	&lt;li&gt;Good knowledge of caching and memory management for UI applications&lt;/li&gt;
-	&lt;li&gt;Exposure to data visualization libraries such as D3.js&lt;/li&gt;
+	&lt;li&gt;Experience in selling services/products in the healthcare domain is preferred and Willingness to Travel&lt;/li&gt;
+	&lt;li&gt;Experience in managing and effectively driving sales team to the annual targets&lt;/li&gt;
+	&lt;li&gt;Demonstrate exceptional communication &amp; interpersonal skills. This includes being able to relate well to all kinds of people inside and outside the organization.&lt;/li&gt;
+	&lt;li&gt;Ability to establish relationship specially at CXO level in a given corporate ; Preferably able to make sales with Top down approach&lt;/li&gt;
+	&lt;li&gt;Strong presentation skills in a variety of formal presentation settings, one on one, small and large groups, with peers, direct reports, and superiors.&lt;/li&gt;
+	&lt;li&gt;Good experience in establishing and adjusting selling prices by monitoring costs, competition, and supply and demand.&lt;/li&gt;
+	&lt;li&gt;Ability to develop sales plans and manage resources and analyse and interpret sales and revenue data.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk0qa3g/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="sales" /><category term="5-8" /><summary type="html">Job Description - Corporate Sales Manager</summary></entry><entry><title type="html">medibuddy - Corporate Sales Manager</title><link href="http://localhost:4000/sales/2022/08/01/medibuddy04/" rel="alternate" type="text/html" title="medibuddy - Corporate Sales Manager" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/sales/2022/08/01/medibuddy04</id><content type="html" xml:base="http://localhost:4000/sales/2022/08/01/medibuddy04/">&lt;p&gt;&lt;b&gt;Job Description -  Assistant Manager, MediClinic&lt;/b&gt;&lt;/p&gt;
 
-&lt;a href=&quot;https://www.lendingkartcareers.com/job/software-engineer-angular/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="0-2" /><summary type="html">About Lendingkart</summary></entry><entry><title type="html">lendingkartcareers - Senior Software Engineer Flutter</title><link href="http://localhost:4000/it/2022/07/22/lendingkartcareers04/" rel="alternate" type="text/html" title="lendingkartcareers - Senior Software Engineer Flutter" /><published>2022-07-22T00:00:00+00:00</published><updated>2022-07-22T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/07/22/lendingkartcareers04</id><content type="html" xml:base="http://localhost:4000/it/2022/07/22/lendingkartcareers04/">&lt;h2 class=&quot;section-heading&quot;&gt;About Lendingkart&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;About: MediBuddy - DocsApp &lt;/h2&gt;
+
+&lt;p&gt;Medibuddy-DocsApp is a digital healthcare platform that enables users to access primary health care services anywhere in India. We’re the largest digital health platform, with 15,000+ users serviced every day, 20 million+ lives touched 300+ Corporate clients, 30+ Insurance clients, The users are acquired via multiple channels including Direct to consumer, corporate employee wellness and insurance channels.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;About DocsApp&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Founders Satish Kannan: CEO &amp; Co-Founder linkedin.com/in/satishkannan16&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Enbasekar D: CTO &amp; Co-Founder linkedin.com/in/enbasekar&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Funding&lt;/p&gt;
+
+&lt;p&gt;April 2016: $1.2 million was raised as seed funding from Facebook's angel investors Anand Rajaraman and Venky Harinarayan, along with Japanese Venture Capital firm Rebright Partners.&lt;/p&gt;
+
+&lt;p&gt;Dec 2017: We then raised $7.2 million during Series A round of funding from Bessemer Venture Partners (BVP), Japanese investors Techmatrix Corporation and DeNa networks. Existing angel investors Anand Rajaraman, Venky Harinarayanan, and Japanese VC Rebright partners also participated in this round.&lt;/p&gt;
+
+&lt;p&gt;April 2019: $2 million in Venture Debt from Innoven Capital&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;JOB SUMMARY&lt;/h2&gt;
+
+&lt;p&gt;The incumbent will be primary responsible for Business development and Corporate sales for Health &amp; Wellness products in the assigned territory. . Key responsibilities include Business Development, facilitate Account Management, facilitate Sales Operation, Revenue generation, forecasting , sales pipeline management , Lead generation , Competition benchmarking and Market Penetration.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;ROLES &amp; RESPONSIBILITIES&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Lendingkart is a digital lending platform that facilitates working capital financing for entrepreneurs and small businesses in India through our network of affiliated lending partners. We have developed a technology platform powered by machine learning
-	algorithms which use big data to help its affiliate lenders evaluate borrower’s credit worthiness. Customers can apply for a loan using the web or mobile applications at their convenience and receive their sanctioned loans in as less as 3 days anywhere in the country.&lt;/li&gt;
-	&lt;li&gt;Lendingkart is the only lending company from India to be featured in the Top 50 most established fintech firms acclaimed in annual ‘Fintech100’ report by KPMG, where they have uncovered the most innovative Fintech companies globally.&lt;/li&gt;
-	&lt;li&gt;Lendingkart is one of the leading fintech firms in the Indian lending space. It is backed by top-tier investors – Temasek (through its 100% subsidiary Fullerton Financial Services), Bertelsmann, Mayfield Fund, India Quotient and Saama Capital to name a few.&lt;/li&gt;
+	&lt;li&gt;Drive overall sales revenue of the company under the leadership of State Head along with strategizing future growth and stronger market penetration.&lt;/li&gt;
+	&lt;li&gt;Constantly works on the sales funnel to achieve monthly corporate account closure &amp; Revenue targets&lt;/li&gt;
+	&lt;li&gt;Acquire and maintain relationships with new customers with a focus on decision makers &amp; influencers. Accountable for high-level external/internal client management.&lt;/li&gt;
+	&lt;li&gt;Establishes sales objectives by forecasting and developing annual sales quotas for regions and territories; projecting expected sales volume and profit for existing and new products.&lt;/li&gt;
+	&lt;li&gt;Keeping track of competitor activities and products and developing a sales strategy to ensure market edge.&lt;/li&gt;
+	&lt;li&gt;Develop and coordinate sales selling cycle and methodology. Analyse and evaluate the effectiveness of sales, methods, costs, and results.&lt;/li&gt;
+	&lt;li&gt;Responsible for increasing awareness and utilization amongst existing clientele about the service offerings vide onsite campaigns, e-based marketing campaigns and other marketing initiatives&lt;/li&gt;
+	&lt;li&gt;Responsible for new corporate &amp; insurance tie-ups for sales of healthcare products, wellness services and implement various sales models including worksite, third party tie-ups, broker models.&lt;/li&gt;
+	&lt;li&gt;Relationship management &amp; identification of cross selling and up-selling opportunities with corporate and life &amp; health insurance companies&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Roles and Responsibilities&lt;/h2&gt;
+&lt;h2 class=&quot;section-heading&quot;&gt;POSITION REQUIREMENTS&lt;/h2&gt;
+
 
 &lt;ul&gt;
-	&lt;li&gt;Design and develop high-volume, low-latency applications for mission-critical systems, delivering high-availability and performance&lt;/li&gt;
-	&lt;li&gt;Diagnose performance issues, fix bugs (including crashes and ANRs) to increase the functionality of the application&lt;/li&gt;
-	&lt;li&gt;Write well designed, testable, efficient code&lt;/li&gt;
-	&lt;li&gt;Contribute to the entire lifecycle of product development.&lt;/li&gt;
-	&lt;li&gt;Unit test, refactor, iterate&lt;/li&gt;
-	&lt;li&gt;Build, hire, mentor&lt;/li&gt;
+	&lt;li&gt;Experience in selling services/products in the healthcare domain is preferred and Willingness to Travel&lt;/li&gt;
+	&lt;li&gt;Experience in managing and effectively driving sales team to the annual targets&lt;/li&gt;
+	&lt;li&gt;Demonstrate exceptional communication &amp; interpersonal skills. This includes being able to relate well to all kinds of people inside and outside the organization.&lt;/li&gt;
+	&lt;li&gt;Ability to establish relationship specially at CXO level in a given corporate ; Preferably able to make sales with Top down approach&lt;/li&gt;
+	&lt;li&gt;Strong presentation skills in a variety of formal presentation settings, one on one, small and large groups, with peers, direct reports, and superiors.&lt;/li&gt;
+	&lt;li&gt;Good experience in establishing and adjusting selling prices by monitoring costs, competition, and supply and demand.&lt;/li&gt;
+	&lt;li&gt;Ability to develop sales plans and manage resources and analyse and interpret sales and revenue data.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 class=&quot;section-heading&quot;&gt;Desired Skills &amp; Qualifications&lt;/h2&gt;
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk0u1im/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="sales" /><category term="5-8" /><summary type="html">Job Description - Assistant Manager, MediClinic</summary></entry><entry><title type="html">medibuddy - Corporate Sales Manager</title><link href="http://localhost:4000/sales/2022/08/01/medibuddy05/" rel="alternate" type="text/html" title="medibuddy - Corporate Sales Manager" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/sales/2022/08/01/medibuddy05</id><content type="html" xml:base="http://localhost:4000/sales/2022/08/01/medibuddy05/">&lt;p&gt;&lt;b&gt;Job Description - Corporate Sales Manager&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;About: MediBuddy &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Founders Satish Kannan: CEO &amp; Co-Founder linkedin.com/in/satishkannan16&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Enbasekar D: CTO &amp; Co-Founder linkedin.com/in/enbasekar&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;MediBuddy is India’s largest digital healthcare platform. It gives users 24x7 access to high-quality healthcare on their fingertips. MediBuddy helps its users consult specialist doctors instantly via chat,video or voice call, order medicines and book lab tests from the comfort of their homes. It is also a partner to several leading corporate customers in the country and helps their employees access multiple healthcare benefits.&lt;/p&gt;
+
+&lt;p&gt;With a partner network of over 90,000 doctors, 7000 hospitals, 3000 diagnostic centres and 2500 pharmacies covering 23,000 pin-codes in India, and a 1000-member team located across 22 Indian cities, MediBuddy has catered to the healthcare needs of 3Cr Indians &amp; attends to the needs of over 35,000 Indians daily across the length and breadth of the country. &lt;/p&gt;
+
+&lt;p&gt;To establish market leadership and to strengthen its services, DocsApp (India’s largest online doctor consultation space) merged with MediBuddy. Today DocsApp and MediBuddy both operate under single brand name &quot;MediBuddy&quot;&lt;/p&gt;
+
+&lt;p&gt;The venture has so far raised over $50 million from India Life Sciences Fund III, LLC, Bessemer Venture Partners, Rebright Partners, TechMatrix Corporation, DeNA networks, Milliways Fund LLC, Mitsui Sumitomo (MSIVC), TEAMFund LP, JAFCO Asia Fund, FinSight Ventures, ALES Global Japan, Beyond Next Ventures, Makita corporation and Facebook’s angel investors, Anand Rajaraman and Venky Harinarayan.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;MediBuddy’s pioneering work has been widely recognised by many leading entities:&lt;/h2&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;Have two or more iOS/Android apps developed with Flutter.&lt;/li&gt;
-	&lt;li&gt;Either deployed on the AppStore/Google Play or available on Github&lt;/li&gt;
-	&lt;li&gt;3-5 years experience is required&lt;/li&gt;
-	&lt;li&gt;Flutter / DART&lt;/li&gt;
-	&lt;li&gt;Experience with third-party libraries and APIs&lt;/li&gt;
-	&lt;li&gt;MVVM, cross-platform compatibility (hybrid apps)&lt;/li&gt;
-	&lt;li&gt;Understanding of the Agile development life-cycle&lt;/li&gt;
-	&lt;li&gt;Experience with automated testing and building&lt;/li&gt;
-	&lt;li&gt;Experience with Git, Jenkins, or other version control tools&lt;/li&gt;
-	&lt;li&gt;experience with A/B Testing strategies&lt;/li&gt;
-	&lt;li&gt;Java/Kotlin Experience&lt;/li&gt;
-	&lt;li&gt;Hands on experience on Java/Kotlin (preferred)&lt;/li&gt;
-	&lt;li&gt;diagnose performance issues (crashes and application not responding- ANRs)&lt;/li&gt;
+	&lt;li&gt;MediBuddy - Best Brand 2020 in Healthcare by ET Edge&lt;/li&gt;
+	&lt;li&gt;MediBuddy - Best Health &amp; Wellness Solution by ET- Intelligent Health &amp; Tech Awards 2020&lt;/li&gt;
+	&lt;li&gt;MediBuddy also bagged Marketing Campaign of the Year - #AapkaHealthBuddy &amp; Award for Best Marketing Excellence in Health &amp; Wellness Sector at National Awards for Marketing Excellence&lt;/li&gt;
+	&lt;li&gt;The “Industry Achievement Award 2019” by Hurun Report.&lt;/li&gt;
+	&lt;li&gt;The online digital platform also bagged 3 coveted awards- Best Healthcare Entrepreneur of the Year, Best Marketing Campaign, Best healthcare start-up of the year at Healthcare Leadership Awards presented by ABP News in the year 2019&lt;/li&gt;
+	&lt;li&gt;Best healthcare startup company of the year, Best use of social media &amp; Digital marketing in Healthcare, Best Marketing Campaign - #BaatTohKaro (DocsApp) &amp; Best Healthcare Entrepreneur of the year- Satish Kannan at National Healthcare Leadership Congress Awards presented by Zee Business in the year 2019. &lt;/li&gt;
+	&lt;li&gt;The ‘App of the Year 2017’ in the medical category by Amazon in association with Facebook.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;JOB SUMMARY&lt;/h2&gt;
+
+&lt;p&gt;The incumbent will be primary responsible for Business development and Corporate sales for Health &amp; Wellness products in the assigned territory. . Key responsibilities include Business Development, facilitate Account Management, facilitate Sales Operation, Revenue generation, forecasting , sales pipeline management , Lead generation , Competition benchmarking and Market Penetration.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;ROLES &amp; RESPONSIBILITIES&lt;/h2&gt;
+
+
+&lt;ul&gt;
+	&lt;li&gt;Drive overall sales revenue of the company under the leadership of Regional Sales Head along with strategizing future growth and stronger market penetration.&lt;/li&gt;
+	&lt;li&gt;Work on respective State’s sales funnel and support front line sales team in account closures&lt;/li&gt;
+	&lt;li&gt;Acquire and maintain relationships with new customers with a focus on decision makers &amp; influencers. Accountable for high-level external/internal client management.&lt;/li&gt;
+	&lt;li&gt;Establishes sales objectives by forecasting and developing annual sales quotas for regions and territories; projecting expected sales volume and profit for existing and new products.&lt;/li&gt;
+	&lt;li&gt;Keeping track of competitor activities and products and developing a sales strategy to ensure market edge.&lt;/li&gt;
+	&lt;li&gt;Develop and coordinate sales selling cycle and methodology. Analyse and evaluate the effectiveness of sales, methods, costs, and results.&lt;/li&gt;
+	&lt;li&gt;Responsible for increasing awareness and utilization amongst existing clientele about the service offerings vide onsite campaigns, e-based marketing campaigns and other marketing initiatives&lt;/li&gt;
+	&lt;li&gt;Responsible for new corporate &amp; insurance tie-ups for sales of healthcare products, wellness services and implement various sales models including worksite, third party tie-ups, broker models.&lt;/li&gt;
+	&lt;li&gt;Relationship management &amp; identification of cross selling and up-selling opportunities with corporate and life &amp; health insurance companies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;POSITION REQUIREMENTS&lt;/h2&gt;
+
+
+&lt;ul&gt;
+	&lt;li&gt;Experience in selling services/products in the healthcare domain is preferred and Willingness to Travel&lt;/li&gt;
+	&lt;li&gt;Experience in managing and effectively driving sales team to the annual targets&lt;/li&gt;
+	&lt;li&gt;Demonstrate exceptional communication &amp; interpersonal skills. This includes being able to relate well to all kinds of people inside and outside the organization.&lt;/li&gt;
+	&lt;li&gt;Ability to establish relationship specially at CXO level in a given corporate ; Preferably able to make sales with Top down approach&lt;/li&gt;
+	&lt;li&gt;Strong presentation skills in a variety of formal presentation settings, one on one, small and large groups, with peers, direct reports, and superiors.&lt;/li&gt;
+	&lt;li&gt;Good experience in establishing and adjusting selling prices by monitoring costs, competition, and supply and demand.&lt;/li&gt;
+	&lt;li&gt;Ability to develop sales plans and manage resources and analyse and interpret sales and revenue data.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk0uulk/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="sales" /><category term="5-8" /><summary type="html">Job Description - Corporate Sales Manager</summary></entry><entry><title type="html">medibuddy - Engineering Manager/Sr. Engineering Manager</title><link href="http://localhost:4000/it/2022/08/01/medibuddy06/" rel="alternate" type="text/html" title="medibuddy - Engineering Manager/Sr. Engineering Manager" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/medibuddy06</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/medibuddy06/">&lt;h2 class=&quot;section-heading&quot;&gt;About MediBuddy:&lt;/h2&gt;
+
+&lt;p&gt;MediBuddy is India’s #1 end-to-end on-demand digital healthcare platform &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Provides online &amp; offline solution with comprehensive product offering across Consults, Labs, Medicines and Procedures&lt;/li&gt;
+	&lt;li&gt;Serves 2 Mn users from Retail, Corporate and Insurance companies, through its platform, who carry out 700k transactions in a month&lt;/li&gt;
+	&lt;li&gt;Has pan-India network with largest base of healthcare providers &amp; partners – 100k+ Doctors, hospitals, diagnostic centers covering over 95% of pin codes in India &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2015, DocsApp was founded by &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Satish Kannan&lt;/li&gt;
+	&lt;li&gt;Enbasekar D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2019, Docsapp acquired MediBuddy, and merged brand came to be known as MediBuddy. &lt;/p&gt;
+
+&lt;p&gt;We are leaders in the use of innovative technology to enable&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Easy discoverability and seamless accessibility of healthcare offerings&lt;/li&gt;
+	&lt;li&gt;Zero-friction, end-to-end cashless experience for healthcare needs of our users&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MediBuddy has raised over $170 Mn in funding. In the latest round, we raised $125 Mn - largest funding round in the Digital Healthcare space, giving impetus to realization of our vision to extend quality healthcare services to a billion people. &lt;/p&gt;
+
+&lt;p&gt;Recent media coverage&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Economic Times: MediBuddy raises $125 Mn from Quadria Capital, Lightrock India&lt;/li&gt;
+	&lt;li&gt;Economic Times: Amitabh Bachchan becomes the official brand ambassador of MediBuddy&lt;/li&gt;
+	&lt;li&gt;Times Now: MediBuddy on future of Digital Healthcare &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Web and app Links&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Website https://medibuddy.in/ &lt;/li&gt;
+	&lt;li&gt;Play store App&lt;/li&gt;
+	&lt;li&gt;App store App&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Engineering @ MediBuddy &lt;/h2&gt;
+
+&lt;p&gt;To deliver high quality products, the Engineering team @MB has over 100+ engineers with skill sets across Android, iOS, NodeJS, .NET, Backend, Fullstack, QA, Data Science, Data Engineers, Security, DevOps etc.. We use microservices architecture on AWS cloud. Our Engineering teams are organized as Pods with Weekly sprints. We have Product and Platform pods. &lt;/p&gt;
+
+&lt;p&gt;Tech stack includes nodejs. MSSQL, MySql, .net framework, .net core, Reactjs, Angular, Swift, Objective C, Kotlin, Java, Redis, Elastisearch, Kafka among others &lt;/p&gt;
+
+&lt;p&gt;We solve a variety of user, product and business problem statements at scale under one roof, which is very unique. We're simultaneously building &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Digital communication stack (video, chat and call consultations with Doctors) 2. Ecommerce stack (medicine delivery)&lt;/li&gt;
+	&lt;li&gt;Hyperlocal stack (lab tests @ Home)&lt;/li&gt;
+	&lt;li&gt;Transactions stack (for all healthcare transactions)&lt;/li&gt;
+	&lt;li&gt;Booking of services stack (for in clinic doctor consultations)&lt;/li&gt;
+	&lt;li&gt;Data security, data science stack (NLP, imaging, video, audio based data problems and data analytics)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;B2B stack (for large corporates to provide healthcare to employees and large insurers to provide healthcare services to policyholders)&lt;/p&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles &amp; Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;You will report to the Director of Engineering, and will be part of the Engineering Leadership team &lt;/li&gt;
+	&lt;li&gt;As Engineering Manager, your primary Objective will be to make MediBuddy the best app/web platform in digital healthcare by doing following &lt;/li&gt;
+	&lt;li&gt;Creating and leading a team of 7-10 Engineers [backend and/or mobile] b. Driving engineering dev efforts in platform &amp; product engineering pods, including i. Building of key features that form the backbone &lt;/li&gt;
+	&lt;li&gt;Scaling the technology architecture and product to drive a 10x growth in next 18-24 months &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Driving adoption of best engineering practices in the team and the organization &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Delivering high quality, scalable and maintainable code at a fast pace &lt;/li&gt;
+	&lt;li&gt;Helping strategize and execute product roadmap by working closely with Product and business teams to design the features and product experiments &lt;/li&gt;
+	&lt;li&gt;Conduct performance reviews, mentor and guide the team reporting to you 3. Your work will directly impact the experience of MediBuddy’s varied users (Retail, Corporate, Insurance) and efficiency of Operations team at unprecedented scale &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Skills &amp; Qualifications &lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Academic background: B.E/B.Tech from top ranked colleges &lt;/li&gt;
+	&lt;li&gt;Experience: &lt;/li&gt;
+	&lt;li&gt;9+ years relevant experience in consumer tech/ or SaaS space &lt;/li&gt;
+	&lt;li&gt;Strong Technical Background: &lt;/li&gt;
+	&lt;li&gt;Strong grasp of Nodejs/Python stack&lt;/li&gt; 
+	&lt;li&gt;Strong programming, architecture, DevOps and QA chops. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Experience working with a diverse engineering stack in a fast-paced environment &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Databases/Datastores : Mysql, Redis / Memcache, MongoDB&lt;/li&gt;
+	&lt;li&gt;Basic Understanding of Android, iOS, Web Application stacks&lt;/li&gt;
+	&lt;li&gt;One of SQS, RabbitMQ, SNS&lt;/li&gt;
 &lt;/ul&gt;
 
 
-&lt;a href=&quot;https://www.lendingkartcareers.com/job/senior-software-engineer-flutter/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">About Lendingkart</summary></entry></feed>
+&lt;p&gt;Familiarity with AWS and its services including RDS, ECS, EBS, Cloudwatch, ELK, Redshift &lt;/p&gt;
+
+&lt;p&gt;Nice to have&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Logging : ELK, Cloudwatch&lt;/li&gt;
+	&lt;li&gt;Frontend : html , css , Javascript &lt;/li&gt;
+	&lt;li&gt;Protocols : HTTP, XMPP, MQTT, Socket.io, TC &lt;/li&gt;
+	&lt;li&gt;Prior management and team-building experience. You'll be managing several direct reports initially and will have the opportunity to scale and build out a high-performing engineering team &lt;/li&gt;
+	&lt;li&gt;Past entrepreneurial experience or experience with a Unicorn is a big plus&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Balancing Short Term with Long Term - You have demonstrated strategic execution balancing short term tactical execution with long term vision. You should be able to adapt quickly as per the demands of the situation &lt;/li&gt;
+	&lt;li&gt;Efficient Execution - You must be persuasive, patient, compassionate and possess exquisite prioritization skills &lt;/li&gt;
+	&lt;li&gt;Biased towards action - You must be able to do more with less, and turn would-be blockers into opportunities for growth&lt;/li&gt; 
+	&lt;li&gt;Stakeholder management - You complement product and business owners with finding the right solutions in a timely manner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk03hdy/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><category term="8-10" /><summary type="html">About MediBuddy:</summary></entry><entry><title type="html">medibuddy - Lead Product Designer</title><link href="http://localhost:4000/it/2022/08/01/medibuddy07/" rel="alternate" type="text/html" title="medibuddy - Lead Product Designer" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/medibuddy07</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/medibuddy07/">&lt;h2 class=&quot;section-heading&quot;&gt;About MediBuddy:&lt;/h2&gt;
+
+&lt;p&gt;MediBuddy is India’s #1 end-to-end on-demand digital healthcare platform &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Provides online &amp; offline solution with comprehensive product offering across Consults, Labs, Medicines and Procedures&lt;/li&gt;
+	&lt;li&gt;Serves 2 Mn users from Retail, Corporate and Insurance companies, through its platform, who carry out 700k transactions in a month&lt;/li&gt;
+	&lt;li&gt;Has pan-India network with largest base of healthcare providers &amp; partners – 100k+ Doctors, hospitals, diagnostic centers covering over 95% of pin codes in India &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2015, DocsApp was founded by &lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Satish Kannan&lt;/li&gt;
+	&lt;li&gt;Enbasekar D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 2019, Docsapp acquired MediBuddy, and merged brand came to be known as MediBuddy. &lt;/p&gt;
+
+&lt;p&gt;We are leaders in the use of innovative technology to enable&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Easy discoverability and seamless accessibility of healthcare offerings&lt;/li&gt;
+	&lt;li&gt;Zero-friction, end-to-end cashless experience for healthcare needs of our users&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;MediBuddy has raised over $170 Mn in funding. In the latest round, we raised $125 Mn - largest funding round in the Digital Healthcare space, giving impetus to realization of our vision to extend quality healthcare services to a billion people. &lt;/p&gt;
+
+&lt;p&gt;Recent media coverage&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Economic Times: MediBuddy raises $125 Mn from Quadria Capital, Lightrock India&lt;/li&gt;
+	&lt;li&gt;Economic Times: Amitabh Bachchan becomes the official brand ambassador of MediBuddy&lt;/li&gt;
+	&lt;li&gt;Times Now: MediBuddy on future of Digital Healthcare &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Web and app Links&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Website https://medibuddy.in/ &lt;/li&gt;
+	&lt;li&gt;Play store App&lt;/li&gt;
+	&lt;li&gt;App store App&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles &amp; Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Responsible for the design and development of consumer products.&lt;/li&gt;
+	&lt;li&gt;Experience helping lead and mentor a team of gifted creatives&lt;/li&gt;
+	&lt;li&gt;Communicate effectively in a cross-functional product development team and present ideas and designs effectively  to UX Researchers &amp; Designers, Product Managers,  Marketing and Engineers  &lt;/li&gt;
+	&lt;li&gt;Successfully communicate conceptual ideas, detailed design, and design rationale, both  verbally and visually. &lt;/li&gt;
+	&lt;li&gt;Present the user interface visually so information is easy to read, easy to understand  and easy to find. &lt;/li&gt;
+	&lt;li&gt;Market and promote products and features so users understand what they're getting  and what the benefits are. &lt;/li&gt;
+	&lt;li&gt;Successfully communicate conceptual ideas, detailed design, and design rationale, both  verbally and visually&lt;/li&gt;
+	&lt;li&gt;Mobile Product Design (UI+UX) for patient app, doctor app &amp; web products - B2B dashboards, Landing Pages for marketing etc.&lt;/li&gt;
+	&lt;li&gt;User Research - Follow best practises for the target audience &amp; derive insights to implement in functionally &amp; strategically sound feature designs&lt;/li&gt;
+	&lt;li&gt;Work with the lead product designer on the design of various mobile applications across  IOS and Android. &lt;/li&gt;
+	&lt;li&gt;Work closely with your developers to ensure your designs are built to your  specifications. &lt;/li&gt;
+	&lt;li&gt;Continue to expand knowledge of new design methods and technologies, as well as  strengthen the current knowledge base. &lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Skills &amp; Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Need B.Des/M.Des or Equivalent from Tier I/II Colleges.&lt;/li&gt;
+	&lt;li&gt;At least 6+ years of user interface design experience, designing visual language systems  for digital products and services &lt;/li&gt;
+	&lt;li&gt;Strong graphic design ,visual design and Interaction design skills.&lt;/li&gt;
+	&lt;li&gt;A passion for creating products that resonate on an emotional level.&lt;/li&gt;
+	&lt;li&gt;Knowledge of user interface design processes and methodology, particularly as applied  to Mobile  applications &lt;/li&gt;
+	&lt;li&gt;Designing pixel-perfect interfaces with high attention to detail.   &lt;/li&gt;
+	&lt;li&gt;Sanity &amp; Usability testing of existing product &amp; new features&lt;/li&gt;
+	&lt;li&gt;Maintain Design language and improve it over time with consistency in implementation&lt;/li&gt;
+	&lt;li&gt;Help enhance user experience with better suggestions for UX writing with the help of content writer&lt;/li&gt;
+	&lt;li&gt;Can be a self-made designer with a proven track record &lt;/li&gt;
+	&lt;li&gt;Up-to-date knowledge of design software like Adobe Illustrator, Figma/Sketch, Zeplin, AdobeXD, Marvel etc.&lt;/li&gt;
+	&lt;li&gt;Experience in designing motion graphics will be helpful  &lt;/li&gt;
+	&lt;li&gt;A good understanding of information architecture, interaction design, usability analysis,  and user-centered design. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk03hdy/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="5-8" /><summary type="html">About MediBuddy:</summary></entry><entry><title type="html">medibuddy - QA Lead</title><link href="http://localhost:4000/it/2022/08/01/medibuddy08/" rel="alternate" type="text/html" title="medibuddy - QA Lead" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/medibuddy08</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/medibuddy08/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Description - Qa Lead / Manager &lt;/h2&gt;
+
+&lt;p&gt;MediBuddy is India’s number 1, ISO Certified Medical App that lets one consult Specialist Doctors 24X7 over a tele, video call or even a chat within 30 minutes.  It is the award-winning technology platform that transforms the health insurance industry at the very core. MediBuddy, with its diverse offerings for various stakeholders of the health benefits industry, makes the process of discovering, accessing, utilizing and monitoring health benefits seamless and real-time.   It is built in an integrated platform for online consultation, ordering medicines &amp; booking lab tests, managing insurance covers etc. With over 6 Million+ Indian users, 5000+ MD Doctors, funding from Bessemer venture partners, Rebright partners and other investors, MediBuddy is scaling rapidly in its quest to help millions more.&lt;/p&gt; 
+
+&lt;p&gt;MediBuddy provides consultation services for patients of all age groups in several key medical, disciplines such as dermatology, gynaecology, sexology, paediatrics, general medicine, psychiatry,weight management etc. Every user can avail transparent, tech-enabled, round-the-clock and multi-language services. Also, ordering medicines and booking lab tests is only a click away for all our customers!  &lt;/p&gt;
+
+&lt;p&gt;“MediClinic” is our very own OPD services with 300+ clinics across India to support immediate wellness or medical needs of our customers.  With the recent pandemic, MediBuddy has been instrumental in helping multiple corporates to get back to workplace with right safety norms.  &lt;/p&gt;
+
+&lt;p&gt;With focus on Mental wellness, MediBuddy has curated a specific program for mental wellness of their customers to help them deal with any stress in a confidential and appropriate manner.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles &amp; Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;QA - Automation and Manual for Android, Web and Backend Apps of Medibuddy.&lt;/li&gt;
+	&lt;li&gt;Primary responsibility of ensuring Quality of Apps.&lt;/li&gt;
+	&lt;li&gt;Setup QA process and build a QA team to work with Developers to ensure optimal SDLC.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Skills &amp; Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;10+ years of experience in QA of  Web, iOS and Android Apps.&lt;/li&gt;
+	&lt;li&gt;Experience of Leading 10-12 people QA team.&lt;/li&gt;
+	&lt;li&gt;Experience with B2C Apps / Messaging Apps in a startup is preferred.&lt;/li&gt;
+	&lt;li&gt;Knowledge on CI/CD will be a good plus&lt;/li&gt;
+	&lt;li&gt;Strong knowledge of QA and CI tools.&lt;/li&gt;
+	&lt;li&gt;Experience with Java, Selenium, Appium/ Robotium device farms, CI etc.&lt;/li&gt;
+	&lt;li&gt;Build tools, utilities in the lines of software test automation and be part of developing automation test frameworks&lt;/li&gt;
+	&lt;li&gt;Strong oral/written communication skills&lt;/li&gt;
+	&lt;li&gt;Evolve strong QA Practices in the team Be hands-on in writing test cases and performing functional automation testing.&lt;/li&gt;
+	&lt;li&gt;Hands on with testautomation tools like REST Assured/ Selenium/ Appium&lt;/li&gt;
+	&lt;li&gt;Knowledge on Design patterns will be a good plus&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Perks:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Learning : As a fast paced startup, you get to learn fast.&lt;/li&gt;
+	&lt;li&gt;Team : Get to work with an awesome team of Engineers, Data Scientists and Product Managers.&lt;/li&gt;
+	&lt;li&gt;Mission: Get to see the impact of your work in helping millions of users get access to healthcare&lt;/li&gt;
+	&lt;li&gt;Ownership - Individually responsible for the complete work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk03hd4/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="10+" /><summary type="html">Job Description - Qa Lead / Manager</summary></entry><entry><title type="html">medibuddy - Regional Manager - Ops ( North )</title><link href="http://localhost:4000/support/2022/08/01/medibuddy09/" rel="alternate" type="text/html" title="medibuddy - Regional Manager - Ops ( North )" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/support/2022/08/01/medibuddy09</id><content type="html" xml:base="http://localhost:4000/support/2022/08/01/medibuddy09/">&lt;p&gt;Job Description : Regional Manager ( Senior Manager / Manager  ) for North Zone to be based at Gurgaon location. Following are the requirements :&lt;/p&gt; 
+
+&lt;ul&gt;
+	&lt;li&gt;He / she should be from the same / similar industry.&lt;/li&gt;
+	&lt;li&gt;Should have a team handling experience of min 7-10 years.&lt;/li&gt;
+	&lt;li&gt;Should have good leadership skills / ownership of the assigned work.&lt;/li&gt;
+	&lt;li&gt;Should understand Operations matrices and should be able to work accordingly.&lt;/li&gt;
+	&lt;li&gt;Should be able to plan and work as per KPI's for self and for the team. &lt;/li&gt;
+	&lt;li&gt;He / she should have good understanding of process management, matrices and Ops deliverables.&lt;/li&gt;
+	&lt;li&gt;Should have good analytical skills.&lt;/li&gt;
+	&lt;li&gt;Should have a proven track report as a good and consistent performer.&lt;/li&gt;
+	&lt;li&gt;Should be able to improve PPMC business by working on key deliverables and improvement of key Ops matrices.&lt;/li&gt;
+	&lt;li&gt;Should be able to manage 4 branches of North Zone from Ops perspective.&lt;/li&gt;
+	&lt;li&gt;Should have good communication skills in English and local language.&lt;/li&gt;
+	&lt;li&gt;Should have an aptitude for growth of self and of team members.&lt;/li&gt;
+	&lt;li&gt;Should understand calling process and back-office work requirements – Customer calling, DC Calling, Reports management, Appointment scheduling, Confirmation, Email handling, Escalation management.&lt;/li&gt;
+	&lt;li&gt;Should be customer oriented and ensure client satisfaction on key matrices.&lt;/li&gt;
+	&lt;li&gt;Needs to be very good at people management.&lt;/li&gt;
+	&lt;li&gt;Should be able to monitor and give feedback to team members for day to day performance.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk02sed/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="support" /><category term="5-8" /><category term="8-10" /><summary type="html">Job Description : Regional Manager ( Senior Manager / Manager ) for North Zone to be based at Gurgaon location. Following are the requirements :</summary></entry><entry><title type="html">medibuddy - Senior UX Designer</title><link href="http://localhost:4000/it/2022/08/01/medibuddy10/" rel="alternate" type="text/html" title="medibuddy - Senior UX Designer" /><published>2022-08-01T00:00:00+00:00</published><updated>2022-08-01T00:00:00+00:00</updated><id>http://localhost:4000/it/2022/08/01/medibuddy10</id><content type="html" xml:base="http://localhost:4000/it/2022/08/01/medibuddy10/">&lt;h2 class=&quot;section-heading&quot;&gt;Job Description - Qa Lead / Manager &lt;/h2&gt;
+
+&lt;p&gt;MediBuddy is India’s number 1, ISO Certified Medical App that lets one consult Specialist Doctors 24X7 over a tele, video call or even a chat within 30 minutes.  It is the award-winning technology platform that transforms the health insurance industry at the very core. MediBuddy, with its diverse offerings for various stakeholders of the health benefits industry, makes the process of discovering, accessing, utilizing and monitoring health benefits seamless and real-time.   It is built in an integrated platform for online consultation, ordering medicines &amp; booking lab tests, managing insurance covers etc. With over 6 Million+ Indian users, 5000+ MD Doctors, funding from Bessemer venture partners, Rebright partners and other investors, MediBuddy is scaling rapidly in its quest to help millions more.&lt;/p&gt; 
+
+&lt;p&gt;MediBuddy provides consultation services for patients of all age groups in several key medical, disciplines such as dermatology, gynaecology, sexology, paediatrics, general medicine, psychiatry,weight management etc. Every user can avail transparent, tech-enabled, round-the-clock and multi-language services. Also, ordering medicines and booking lab tests is only a click away for all our customers!  &lt;/p&gt;
+
+&lt;p&gt;“MediClinic” is our very own OPD services with 300+ clinics across India to support immediate wellness or medical needs of our customers.  With the recent pandemic, MediBuddy has been instrumental in helping multiple corporates to get back to workplace with right safety norms.  &lt;/p&gt;
+
+&lt;p&gt;With focus on Mental wellness, MediBuddy has curated a specific program for mental wellness of their customers to help them deal with any stress in a confidential and appropriate manner.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Roles &amp; Responsibilities&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;At least 2 years of UX Design or Product Design along with research skills&lt;/li&gt;
+	&lt;li&gt;Should be passionate about designing elegant user experiences as you are about using human insights as a source of inspiration to solve complex problems&lt;/li&gt;
+	&lt;li&gt;A passion for creating products that resonate on an emotional level&lt;/li&gt;
+	&lt;li&gt;You’re a natural systems thinker, solving big, hairy problems by logically visualizing complex systems, user interaction flows, and beautiful interfaces&lt;/li&gt;
+	&lt;li&gt;Conducting user requirements and task analysis, conceptual modeling, information architecture design, interaction design, and usability testing&lt;/li&gt;
+	&lt;li&gt;Self-motivation, excellent communication, an open mind, the ability to thrive in multidisciplinary teams, and the skills to balance great design with short deadlines&lt;/li&gt;
+	&lt;li&gt;A love of collaboration and learning. A fearless and positive attitude&lt;/li&gt;
+	&lt;li&gt;Communicating research findings, conceptual ideas, detailed design, and design rationale verbally and visually&lt;/li&gt;
+	&lt;li&gt;The ideal candidate is experienced in human-centered innovation, with particular aptitudes and interest in rapid digital prototyping. &lt;/li&gt;
+	&lt;li&gt;A natural systems thinker, solving big, hairy problems by logically visualizing complex systems, user interaction flows, and beautiful interfaces&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Skills &amp; Qualifications:&lt;/h2&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Min Bachelor’s Degree in Interaction Design, Visual Design, Information Design, Human-Computer Interaction or a related design discipline&lt;/li&gt;
+	&lt;li&gt;Can be a self-made designer with a proven track record&lt;/li&gt;
+	&lt;li&gt;Proficiency with design and prototyping tools such as Photoshop, Illustrator, Sketch, and InVision&lt;/li&gt;
+	&lt;li&gt;Experience in designing motion graphics will be helpful &lt;/li&gt;
+	&lt;li&gt;A good understanding of information architecture, interaction design, usability analysis, and user-centered design.&lt;/li&gt;
+	&lt;li&gt;In-depth knowledge of user interface design processes and methodology, particularly as applied to Web- and mobile-based applications&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;a href=&quot;https://medibuddy.hire.trakstar.com/jobs/fk03hui/&quot; class=&quot;pricing-button&quot;&gt;Apply&lt;/a&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="it" /><category term="2-5" /><summary type="html">Job Description - Qa Lead / Manager</summary></entry></feed>
