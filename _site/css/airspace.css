@@ -366,3 +366,10 @@ figure { display: table; }
 
 
 figcaption { display: table-caption; caption-side: bottom ; }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
