@@ -5,7 +5,9 @@ links:
 #  link: /pricing/
 #- name: About
 #  link: /about/
-- name: share your resume with recruiters
+- name: Resume Builder
+  link: /resume/
+- name: Candidate
   link: /share-resume/
 #- name: Post a Job
 #  link: /post-a-job/
